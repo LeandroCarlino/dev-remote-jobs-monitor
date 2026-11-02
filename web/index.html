@@ -185,6 +185,22 @@
       }
     }
 
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    function safeUrl(url) {
+      if (!url || typeof url !== 'string') return '#';
+      const trimmed = url.trim();
+      return (trimmed.startsWith('https://') || trimmed.startsWith('http://')) ? escapeHtml(trimmed) : '#';
+    }
+
     function renderJobs() {
       const query = document.getElementById('search-input').value.toLowerCase().trim();
       const container = document.getElementById('jobs-container');
@@ -212,44 +228,51 @@
       }
 
       container.innerHTML = filtered.map(job => {
+        const titleSafe = escapeHtml(job.title);
+        const companySafe = escapeHtml(job.company);
+        const locationSafe = escapeHtml(job.location);
+        const dateSafe = escapeHtml(job.date || '');
+        const sourceSafe = escapeHtml(job.source || '');
+        const urlSafe = safeUrl(job.url);
+
         const tagsHtml = (job.tags || []).slice(0, 4).map(t => 
-          `<span class="badge-pill bg-slate-800 text-slate-300 border border-slate-700/60">${t}</span>`
+          `<span class="badge-pill bg-slate-800 text-slate-300 border border-slate-700/60">${escapeHtml(t)}</span>`
         ).join('');
 
         const salaryBadge = job.salary 
-          ? `<span class="badge-pill bg-emerald-500/10 text-emerald-400 border border-emerald-500/20"><i data-lucide="banknote" class="w-3 h-3"></i> ${job.salary}</span>`
+          ? `<span class="badge-pill bg-emerald-500/10 text-emerald-400 border border-emerald-500/20"><i data-lucide="banknote" class="w-3 h-3"></i> ${escapeHtml(job.salary)}</span>`
           : '';
 
         return `
           <div class="p-4 sm:p-5 bg-slate-900/60 hover:bg-slate-900 border border-slate-800/80 hover:border-slate-700 rounded-2xl transition-all duration-150 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             <div class="space-y-2 flex-1">
               <div class="flex flex-wrap items-center gap-2">
-                <span class="text-xs font-bold text-indigo-400">${job.company}</span>
+                <span class="text-xs font-bold text-indigo-400">${companySafe}</span>
                 <span class="text-slate-600">•</span>
                 <span class="text-xs text-slate-400 flex items-center gap-1">
-                  <i data-lucide="globe" class="w-3 h-3"></i> ${job.location}
+                  <i data-lucide="globe" class="w-3 h-3"></i> ${locationSafe}
                 </span>
                 <span class="text-slate-600">•</span>
-                <span class="text-xs text-slate-500">${job.date || ''}</span>
+                <span class="text-xs text-slate-500">${dateSafe}</span>
                 ${salaryBadge}
               </div>
 
               <h3 class="text-base font-semibold text-slate-100 leading-snug">
-                <a href="${job.url}" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-400 transition-colors">
-                  ${job.title}
+                <a href="${urlSafe}" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-400 transition-colors">
+                  ${titleSafe}
                 </a>
               </h3>
 
               <div class="flex flex-wrap items-center gap-1.5 pt-1">
-                <span class="badge-pill bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 font-semibold">${job.category || 'Dev'}</span>
+                <span class="badge-pill bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 font-semibold">${escapeHtml(job.category || 'Dev')}</span>
                 ${tagsHtml}
               </div>
             </div>
 
             <div class="sm:shrink-0 flex sm:flex-col items-center sm:items-end justify-between gap-2">
-              <span class="text-[11px] text-slate-500">Vía ${job.source}</span>
+              <span class="text-[11px] text-slate-500">Vía ${sourceSafe}</span>
               <a
-                href="${job.url}"
+                href="${urlSafe}"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="px-4 py-2 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white flex items-center gap-1.5 shadow-md shadow-indigo-600/20 transition-all"
