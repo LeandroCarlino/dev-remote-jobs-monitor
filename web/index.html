@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="es" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DevJobs Remote — Monitor de Ofertas para Programadores</title>
+  <meta name="description" content="Monitor automático de ofertas remotas de programación. Actualizado cada 6 horas mediante GitHub Actions. Cero servidores, API pública gratuita." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    body {
+      background-color: #0b0f19;
+      color: #f1f5f9;
+      font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    }
+    .badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col selection:bg-indigo-600 selection:text-white">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-950/80 sticky top-0 z-50 backdrop-blur-md">
+    <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="h-10 w-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-cyan-500 flex items-center justify-center shadow-lg shadow-indigo-500/20">
+          <i data-lucide="terminal" class="w-5 h-5 text-white"></i>
+        </div>
+        <div>
+          <span class="font-bold text-lg text-white tracking-tight">DevJobs <span class="text-indigo-400">Remote</span></span>
+          <span class="ml-2 badge-pill bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 text-xs">
+            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> Auto-Sync
+          </span>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-3">
+        <a href="https://github.com" target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-lg border border-slate-800 bg-slate-900 text-slate-300 text-xs font-semibold hover:bg-slate-800 transition-colors">
+          <i data-lucide="github" class="w-4 h-4"></i> GitHub Repo & API
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <div class="max-w-6xl mx-auto px-4 pt-8 pb-4">
+    <div class="bg-gradient-to-br from-indigo-950/50 via-slate-900/60 to-slate-950 border border-slate-800 rounded-3xl p-6 sm:p-8 space-y-4">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-indigo-500/10 text-indigo-300 border border-indigo-500/20">
+        <i data-lucide="sparkles" class="w-3.5 h-3.5 text-indigo-400"></i>
+        Monitor Abierto & API Gratuita
+      </div>
+      <h1 class="text-2xl sm:text-4xl font-extrabold text-white tracking-tight">
+        Vacantes remotas de programación actualizadas al día.
+      </h1>
+      <p class="text-sm text-slate-300 max-w-2xl leading-relaxed">
+        Rastreo automático cada 6 horas vía <strong>GitHub Actions</strong> desde RemoteOK, WeWorkRemotely y Remotive.
+        Sin intermediarios, postulación directa y con API JSON abierta para tus propios proyectos o bots.
+      </p>
+
+      <!-- Stats Bar -->
+      <div id="stats-container" class="flex flex-wrap items-center gap-4 pt-2 text-xs text-slate-400">
+        <div class="flex items-center gap-1.5">
+          <i data-lucide="briefcase" class="w-4 h-4 text-indigo-400"></i>
+          <span>Total ofertas: <strong id="total-count" class="text-white">Cargando...</strong></span>
+        </div>
+        <div class="flex items-center gap-1.5">
+          <i data-lucide="clock" class="w-4 h-4 text-cyan-400"></i>
+          <span>Actualizado: <strong id="last-updated" class="text-white">—</strong></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Search & Filters -->
+  <div class="max-w-6xl mx-auto px-4 py-4 space-y-4">
+    <div class="flex flex-col sm:flex-row gap-3">
+      <!-- Search input -->
+      <div class="relative flex-1">
+        <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-3 pointer-events-none"></i>
+        <input
+          id="search-input"
+          type="text"
+          placeholder="Buscar por tecnología (React, Python, Go), empresa o título..."
+          class="w-full bg-slate-900 border border-slate-800 rounded-xl pl-10 pr-4 py-2.5 text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition-all"
+        />
+      </div>
+
+      <!-- Category Filter Pills -->
+      <div class="flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-none" id="category-filters">
+        <button data-cat="all" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-indigo-600 text-white whitespace-nowrap shadow-sm">
+          Todas
+        </button>
+        <button data-cat="Frontend" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          Frontend
+        </button>
+        <button data-cat="Backend" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          Backend
+        </button>
+        <button data-cat="Fullstack" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          Fullstack
+        </button>
+        <button data-cat="AI / Data" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          AI & Data
+        </button>
+        <button data-cat="DevOps / Cloud" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          DevOps
+        </button>
+      </div>
+    </div>
+
+    <!-- Active matches count -->
+    <div class="flex justify-between items-center text-xs text-slate-400 px-1">
+      <span id="results-count">Mostrando vacantes</span>
+      <span class="text-indigo-400 flex items-center gap-1">
+        <i data-lucide="shield-check" class="w-3.5 h-3.5"></i> Postulaciones oficiales sin spam
+      </span>
+    </div>
+
+    <!-- Jobs Grid / List -->
+    <div id="jobs-container" class="space-y-3">
+      <div class="p-12 text-center text-slate-500 bg-slate-900/40 rounded-2xl border border-slate-800">
+        Cargando vacantes...
+      </div>
+    </div>
+  </div>
+
+  <!-- API Modal / Info Footer -->
+  <div class="max-w-6xl mx-auto px-4 py-8 mt-auto">
+    <div class="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 text-xs text-slate-400 space-y-3">
+      <div class="flex items-center justify-between">
+        <span class="font-semibold text-slate-200 text-sm flex items-center gap-2">
+          <i data-lucide="database" class="w-4 h-4 text-indigo-400"></i> ¿Quieres consumir estos datos en tu app?
+        </span>
+        <span class="badge-pill bg-indigo-500/10 text-indigo-400 border border-indigo-500/20">API REST Gratuita</span>
+      </div>
+      <p>
+        El archivo <code class="text-indigo-300 bg-slate-950 px-1.5 py-0.5 rounded">data/jobs.json</code> está disponible de manera pública. Puedes hacerle fetch directamente desde cualquier frontend, bot de Telegram o script en Python sin necesidad de token ni límite de cuota.
+      </p>
+      <div class="bg-slate-950 border border-slate-800 p-3 rounded-xl font-mono text-[11px] text-slate-300 overflow-x-auto">
+        const res = await fetch('https://raw.githubusercontent.com/TU_USUARIO/dev-remote-jobs-monitor/main/data/jobs.json');<br/>
+        const jobs = await res.json();
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let allJobs = [];
+    let activeCategory = 'all';
+
+    async function loadData() {
+      try {
+        // Try local data first, fallback to root data
+        let res = await fetch('data/jobs.json');
+        if (!res.ok) res = await fetch('../data/jobs.json');
+        allJobs = await res.json();
+
+        // Try load stats
+        let statsRes = await fetch('data/stats.json');
+        if (!statsRes.ok) statsRes = await fetch('../data/stats.json');
+        if (statsRes.ok) {
+          const stats = await statsRes.json();
+          document.getElementById('total-count').textContent = stats.total_jobs;
+          document.getElementById('last-updated').textContent = new Date(stats.last_updated).toLocaleDateString('es-ES', {
+            day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit'
+          });
+        } else {
+          document.getElementById('total-count').textContent = allJobs.length;
+        }
+
+        renderJobs();
+      } catch (err) {
+        console.error(err);
+        document.getElementById('jobs-container').innerHTML = `
+          <div class="p-8 text-center text-rose-400 bg-rose-500/10 border border-rose-500/20 rounded-2xl text-xs">
+            No se pudieron cargar las ofertas. Asegúrate de ejecutar <code>python src/main.py</code> para generar los datos.
+          </div>
+        `;
+      }
+    }
+
+    function renderJobs() {
+      const query = document.getElementById('search-input').value.toLowerCase().trim();
+      const container = document.getElementById('jobs-container');
+
+      const filtered = allJobs.filter(j => {
+        const matchesCategory = activeCategory === 'all' || j.category === activeCategory;
+        const matchesQuery = !query || 
+          j.title.toLowerCase().includes(query) ||
+          j.company.toLowerCase().includes(query) ||
+          (j.tags && j.tags.some(t => t.toLowerCase().includes(query))) ||
+          j.location.toLowerCase().includes(query);
+
+        return matchesCategory && matchesQuery;
+      });
+
+      document.getElementById('results-count').textContent = `Mostrando ${filtered.length} de ${allJobs.length} ofertas`;
+
+      if (filtered.length === 0) {
+        container.innerHTML = `
+          <div class="p-8 text-center text-slate-500 bg-slate-900/30 rounded-2xl border border-slate-800 text-sm">
+            No se encontraron ofertas con esos criterios.
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = filtered.map(job => {
+        const tagsHtml = (job.tags || []).slice(0, 4).map(t => 
+          `<span class="badge-pill bg-slate-800 text-slate-300 border border-slate-700/60">${t}</span>`
+        ).join('');
+
+        const salaryBadge = job.salary 
+          ? `<span class="badge-pill bg-emerald-500/10 text-emerald-400 border border-emerald-500/20"><i data-lucide="banknote" class="w-3 h-3"></i> ${job.salary}</span>`
+          : '';
+
+        return `
+          <div class="p-4 sm:p-5 bg-slate-900/60 hover:bg-slate-900 border border-slate-800/80 hover:border-slate-700 rounded-2xl transition-all duration-150 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+            <div class="space-y-2 flex-1">
+              <div class="flex flex-wrap items-center gap-2">
+                <span class="text-xs font-bold text-indigo-400">${job.company}</span>
+                <span class="text-slate-600">•</span>
+                <span class="text-xs text-slate-400 flex items-center gap-1">
+                  <i data-lucide="globe" class="w-3 h-3"></i> ${job.location}
+                </span>
+                <span class="text-slate-600">•</span>
+                <span class="text-xs text-slate-500">${job.date || ''}</span>
+                ${salaryBadge}
+              </div>
+
+              <h3 class="text-base font-semibold text-slate-100 leading-snug">
+                <a href="${job.url}" target="_blank" rel="noopener noreferrer" class="hover:text-indigo-400 transition-colors">
+                  ${job.title}
+                </a>
+              </h3>
+
+              <div class="flex flex-wrap items-center gap-1.5 pt-1">
+                <span class="badge-pill bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 font-semibold">${job.category || 'Dev'}</span>
+                ${tagsHtml}
+              </div>
+            </div>
+
+            <div class="sm:shrink-0 flex sm:flex-col items-center sm:items-end justify-between gap-2">
+              <span class="text-[11px] text-slate-500">Vía ${job.source}</span>
+              <a
+                href="${job.url}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="px-4 py-2 rounded-xl text-xs font-semibold bg-indigo-600 hover:bg-indigo-500 text-white flex items-center gap-1.5 shadow-md shadow-indigo-600/20 transition-all"
+              >
+                Postular <i data-lucide="external-link" class="w-3.5 h-3.5"></i>
+              </a>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      lucide.createIcons();
+    }
+
+    // Category Buttons
+    document.querySelectorAll('#category-filters .cat-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        document.querySelectorAll('#category-filters .cat-btn').forEach(b => {
+          b.className = 'cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap';
+        });
+        btn.className = 'cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-indigo-600 text-white whitespace-nowrap shadow-sm';
+        activeCategory = btn.getAttribute('data-cat');
+        renderJobs();
+      });
+    });
+
+    document.getElementById('search-input').addEventListener('input', renderJobs);
+
+    // Initial run
+    loadData();
+    lucide.createIcons();
+  </script>
+</body>
+</html>
