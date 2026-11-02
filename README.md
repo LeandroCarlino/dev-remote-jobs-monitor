@@ -3,9 +3,9 @@
 > **Monitor automatizado de ofertas de trabajo remoto para desarrolladores.**  
 > *Rastreo continuo cada 6 horas vía GitHub Actions. Cero servidores, 100% gratuito.*
 
-[![Update Remote Jobs](https://github.com/tu-usuario/dev-remote-jobs-monitor/actions/workflows/update-jobs.yml/badge.svg)](https://github.com/tu-usuario/dev-remote-jobs-monitor/actions/workflows/update-jobs.yml)
+[![Update Remote Jobs](https://github.com/LeandroCarlino/dev-remote-jobs-monitor/actions/workflows/update-jobs.yml/badge.svg)](https://github.com/LeandroCarlino/dev-remote-jobs-monitor/actions/workflows/update-jobs.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/API-Active%20%26%20Free-emerald.svg)](https://raw.githubusercontent.com/tu-usuario/dev-remote-jobs-monitor/main/data/jobs.json)
+[![API Status](https://img.shields.io/badge/API-Active%20%26%20Free-emerald.svg)](https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/jobs.json)
 
 ---
 
@@ -86,7 +86,7 @@ Cualquier persona puede consumir las ofertas de trabajo para crear su propio bot
 
 ```javascript
 const response = await fetch(
-  'https://raw.githubusercontent.com/TU_USUARIO/dev-remote-jobs-monitor/main/data/jobs.json'
+  'https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/jobs.json'
 );
 const jobs = await response.json();
 
@@ -101,7 +101,7 @@ const pythonJobs = jobs.filter(j => j.tags.includes('Python'));
 import urllib.request
 import json
 
-url = "https://raw.githubusercontent.com/TU_USUARIO/dev-remote-jobs-monitor/main/data/jobs.json"
+url = "https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/jobs.json"
 req = urllib.request.Request(url, headers={"User-Agent": "MyCustomBot/1.0"})
 
 with urllib.request.urlopen(req) as res:
@@ -117,7 +117,7 @@ No requiere instalar librerías pesadas (usa únicamente la librería estándar 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/dev-remote-jobs-monitor.git
+git clone https://github.com/LeandroCarlino/dev-remote-jobs-monitor.git
 cd dev-remote-jobs-monitor
 
 # 2. Ejecutar el recolector de ofertas
