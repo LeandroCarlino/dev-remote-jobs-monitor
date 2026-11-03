@@ -1,5 +1,42 @@
 [
   {
+    "id": "aa0421abfcb4",
+    "title": "Software Engineer Infrastructure",
+    "company": "Sodalis, Inc.",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
+    "location": "Palo Alto",
+    "date": "2026-11-02",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Dev",
+      "Design",
+      "Embedded",
+      "Sys admin",
+      "Cloud",
+      "Ruby"
+    ],
+    "salary": "$185,000 - $215,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "862b49a0252e",
+    "title": "Team Lead Account Executive",
+    "company": "Capmo",
+    "url": "https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613",
+    "location": "Worldwide Remote",
+    "date": "2026-11-02",
+    "category": "Fullstack",
+    "tags": [
+      "Saas",
+      "Exec",
+      "Junior",
+      "Marketing",
+      "Sales"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "14a622c0b69a",
     "title": "Salesforce Business Systems Administrator",
     "company": "Salesloft",
@@ -1095,44 +1132,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "60c51122e2ac",
-    "title": "SAP RE FX Consultant",
-    "company": "Yopeso Romania SRL",
-    "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Consulting",
-      "Design",
-      "Technical",
-      "Dev",
-      "Testing",
-      "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "c7b832f3914b",
-    "title": "APAC Python",
-    "company": "Kodland",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Python",
-      "Teaching",
-      "Education",
-      "Dev",
-      "Testing",
-      "Part time"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "86fcea378d75",
     "title": "Cloud Network Engineer",
     "company": "BeyondTrust",
@@ -1142,6 +1141,20 @@
     "category": "DevOps / Cloud",
     "tags": [
       "Aws"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "dc01cee16e8b",
+    "title": "AI Experience Engineer (Conversational AI)",
+    "company": "Upgrade",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-15",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
     ],
     "salary": null,
     "source": "WeWorkRemotely"
@@ -1615,23 +1628,6 @@
     "tags": [],
     "salary": "$20k -$35k",
     "source": "Remotive"
-  },
-  {
-    "id": "b9fe76be0a4b",
-    "title": "FULL TIME: Software Engineer Position - React and Rest",
-    "company": "Yooli",
-    "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-    "location": "Worldwide / Remote",
-    "date": "2026-08-05",
-    "category": "AI / Data",
-    "tags": [
-      "React",
-      "Node",
-      ".net",
-      "Rails"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
   },
   {
     "id": "537847f22033",

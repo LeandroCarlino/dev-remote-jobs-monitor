@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-18_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-15_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-14_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-12_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-11_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-19_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-14_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-13_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,12 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-02 19:01 UTC** | Ofertas activas monitoreadas: **107***
+*Última actualización automática: **2026-11-03 06:15 UTC** | Ofertas activas monitoreadas: **107***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614)** | Sodalis, Inc. | `DevOps / Cloud` | `Dev` `Design` `Embedded` | Palo Alto | 2026-11-02 |
+| **[Team Lead Account Executive](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613)** | Capmo | `Fullstack` | `Saas` `Exec` `Junior` | Worldwide Remote | 2026-11-02 |
 | **[Salesforce Business Systems Administrator](https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator)** | Salesloft | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-02 |
 | **[Virtual Destination Wedding Coordinator](https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611)** | Destination Careers | `Fullstack` | `Design` `Coordinator` `Travel` | Colorado | 2026-11-01 |
 | **[Virtual Scheduling Assistant](https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610)** | Destination Careers | `Fullstack` | `Education` `Marketing` `Travel` | Texas | 2026-11-01 |
@@ -60,8 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Senior IT Systems Engineer](https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer)** | Upsun | `AI / Data` | `AI` `Devops` | Worldwide / Remote | 2026-10-27 |
 | **[MSP Mac Help Desk Guru (work from home)](https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home)** | Ignition, Inc. | `AI / Data` | `.net` `Rails` | Worldwide / Remote | 2026-10-27 |
 | **[Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)** | Lemon.io | `Frontend` | `Python` `Javascript` `Typescript` | Europe, USA, Canada,… | 2026-10-27 |
-| **[Account Executive](https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573)** | Huzzle | `Fullstack` | `Saas` `Dev` `Video` | Worldwide Remote | 2026-10-26 |
-| **[Senior Software Engineer LATAM](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572)** | Wagmo | `Frontend` | `Dev` `Design` `React` | Worldwide Remote | 2026-10-26 |
 <!-- JOBS_END -->
 
 ---
