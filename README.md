@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-19_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-14_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-13_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-18_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-13_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-11_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,11 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-03 06:15 UTC** | Ofertas activas monitoreadas: **107***
+*Última actualización automática: **2026-11-03 19:22 UTC** | Ofertas activas monitoreadas: **106***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)** | Docusketch | `AI / Data` | `Dev` `Ai` `Deep learning` | Worldwide Remote | 2026-11-02 |
 | **[Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614)** | Sodalis, Inc. | `DevOps / Cloud` | `Dev` `Design` `Embedded` | Palo Alto | 2026-11-02 |
 | **[Team Lead Account Executive](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613)** | Capmo | `Fullstack` | `Saas` `Exec` `Junior` | Worldwide Remote | 2026-11-02 |
 | **[Salesforce Business Systems Administrator](https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator)** | Salesloft | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-02 |
@@ -47,7 +48,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Contract Recruiter](https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607)** | CAI | `Fullstack` | `Sys admin` `Technical` `Recruiter` | Australia | 2026-10-30 |
 | **[AWS Cloud Solutions Architect](https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606)** | Cloudary SAS | `DevOps / Cloud` | `Architecture` `Design` `Ansible` | Worldwide Remote | 2026-10-30 |
 | **[Online Client Support &amp; Travel Booking We Will Train You](https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604)** | Destination Careers | `AI / Data` | `Travel` `Education` `Non tech` | Dallas, Texas | 2026-10-30 |
-| **[Competent Wind Turbine Technicians EU UK APAC 2027](https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603)** | GEV Wind Power | `Fullstack` | `Education` `Technical` `Testing` | Worldwide Remote | 2026-10-30 |
 | **[Country Manager Canada](https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602)** | Polaroid | `Fullstack` | `Exec` `Education` `Recruiter` | Worldwide Remote | 2026-10-30 |
 | **[Client Support &amp; Travel Booking Online](https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601)** | Destination Careers | `Fullstack` | `Travel` `Education` `Non tech` | Ohio | 2026-10-30 |
 | **[CloudOps Engineer (Network Engineer)](https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer)** | Wrike | `DevOps / Cloud` | - | Worldwide / Remote | 2026-10-30 |

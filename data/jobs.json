@@ -1,5 +1,24 @@
 [
   {
+    "id": "951ef410ac78",
+    "title": "AI ML Engineer",
+    "company": "Docusketch",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "location": "Worldwide Remote",
+    "date": "2026-11-02",
+    "category": "AI / Data",
+    "tags": [
+      "Dev",
+      "Ai",
+      "Deep learning",
+      "Neural networks",
+      "3d",
+      "Exec"
+    ],
+    "salary": "$10,000 - $120,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "aa0421abfcb4",
     "title": "Software Engineer Infrastructure",
     "company": "Sodalis, Inc.",
@@ -175,25 +194,6 @@
       "Travel",
       "Education",
       "Non tech"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "17d6baa869f3",
-    "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
-    "company": "GEV Wind Power",
-    "url": "https://remoteOK.com/remote-jobs/remote-competent-wind-turbine-technicians-eu-uk-apac-2027-gev-wind-power-1137603",
-    "location": "Worldwide Remote",
-    "date": "2026-10-30",
-    "category": "Fullstack",
-    "tags": [
-      "Education",
-      "Technical",
-      "Testing",
-      "Exec",
-      "Ops",
-      "Medical"
     ],
     "salary": null,
     "source": "RemoteOK"
@@ -551,25 +551,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "ec397d77cb08",
-    "title": "Field Phlebotomy Supervisor Northern California",
-    "company": "Getlabs",
-    "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
-    "location": "Remote",
-    "date": "2026-10-24",
-    "category": "Mobile",
-    "tags": [
-      "Supervisor",
-      "Testing",
-      "Marketing",
-      "Exec",
-      "Mobile",
-      "Ops"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "81541c1b7049",
     "title": "Solutions Engineer",
     "company": "Onebrief",
@@ -889,25 +870,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "eea2fbf80520",
-    "title": "Customer Support Consultant hospitality",
-    "company": "SupportYourApp",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
-    "location": "Worldwide Remote",
-    "date": "2026-10-19",
-    "category": "Fullstack",
-    "tags": [
-      "Consulting",
-      "Saas",
-      "Infosec",
-      "Technical",
-      "Dev",
-      "Travel"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "d88124743793",
     "title": "Senior Security Engineer, Detection & Response",
     "company": "Flexport",
@@ -1132,6 +1094,44 @@
     "source": "RemoteOK"
   },
   {
+    "id": "60c51122e2ac",
+    "title": "SAP RE FX Consultant",
+    "company": "Yopeso Romania SRL",
+    "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
+    "location": "Worldwide Remote",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Consulting",
+      "Design",
+      "Technical",
+      "Dev",
+      "Testing",
+      "Marketing"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "c7b832f3914b",
+    "title": "APAC Python",
+    "company": "Kodland",
+    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "location": "Worldwide Remote",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "Teaching",
+      "Education",
+      "Dev",
+      "Testing",
+      "Part time"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "86fcea378d75",
     "title": "Cloud Network Engineer",
     "company": "BeyondTrust",
@@ -1142,6 +1142,45 @@
     "tags": [
       "Aws"
     ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "a8e6a764cadd",
+    "title": "Engineering Manager",
+    "company": "Medify",
+    "url": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-15",
+    "category": "AI / Data",
+    "tags": [
+      ".net",
+      "Rails"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "6590c4d8d5ae",
+    "title": "Senior Software Engineer, Infrastructure Platform",
+    "company": "Lattice",
+    "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-15",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "6ae747f319fe",
+    "title": "Category Manager - Apparel",
+    "company": "StockX",
+    "url": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-15",
+    "category": "Fullstack",
+    "tags": [],
     "salary": null,
     "source": "WeWorkRemotely"
   },
@@ -1594,18 +1633,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "de18a1953454",
-    "title": "Abuse Research Engineer",
-    "company": "Stripe",
-    "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-04",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
     "id": "ab155e779111",
     "title": "Freelance Writer",
     "company": "IAPWE",
@@ -1615,18 +1642,6 @@
     "category": "Fullstack",
     "tags": [],
     "salary": "$50-$75 /hour",
-    "source": "Remotive"
-  },
-  {
-    "id": "2746ff9e64cf",
-    "title": "Freelance Copywriter",
-    "company": "Coalition Technologies ",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-    "location": "Worldwide",
-    "date": "2026-10-02",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": "$20k -$35k",
     "source": "Remotive"
   },
   {
@@ -1644,37 +1659,6 @@
       "Postgres",
       "Gcp",
       "Graphql"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "5524159380f2",
-    "title": "Senior Independent AI Engineer / Architect",
-    "company": "A.Team",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-    "location": "Worldwide / Remote",
-    "date": "2024-06-16",
-    "category": "AI / Data",
-    "tags": [
-      ".net",
-      "Rails",
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "ebe410070151",
-    "title": "Senior Independent Software Developer ($90-$170/hr)",
-    "company": "A.Team",
-    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-    "location": "Worldwide / Remote",
-    "date": "2024-06-16",
-    "category": "AI / Data",
-    "tags": [
-      ".net",
-      "Rails"
     ],
     "salary": null,
     "source": "WeWorkRemotely"
