@@ -1,5 +1,79 @@
 [
   {
+    "id": "4140a38ec88c",
+    "title": "M&A Praktikum Intern",
+    "company": "Vogel",
+    "url": "https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+    "location": "MÃ¼nchen",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Testing",
+      "Marketing",
+      "Exec",
+      "Finance",
+      "Senior",
+      "Excel"
+    ],
+    "salary": "$4,000 - $4,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "b2f8dd6adce8",
+    "title": "Paid Media Manager US ",
+    "company": "Kyra",
+    "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+    "location": "US",
+    "date": "2026-11-03",
+    "category": "AI / Data",
+    "tags": [
+      "Exec",
+      "Testing",
+      "Marketing",
+      "Finance",
+      "Scheme",
+      "Content writing"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "eb97acec5456",
+    "title": "Sales Operations Analyst",
+    "company": "Calabrio",
+    "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+    "location": "Worldwide Remote",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Analyst",
+      "Saas",
+      "Salesforce",
+      "Education",
+      "Dev",
+      "Marketing"
+    ],
+    "salary": "$75,000 - $75,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "7734b1a8419e",
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "location": "Worldwide Remote",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Dev",
+      "Exec",
+      "Accounting",
+      "Saas"
+    ],
+    "salary": "$40,000 - $50,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "5a9ec9292611",
     "title": "Senior Property Manager ENG",
     "company": "StaffRight",
@@ -1036,25 +1110,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "cebdaccd73be",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-    "location": "Worldwide Remote",
-    "date": "2026-10-17",
-    "category": "AI / Data",
-    "tags": [
-      "Dev",
-      "Python",
-      "Javascript",
-      "Typescript",
-      "Golang",
-      "Java"
-    ],
-    "salary": "$10,000 - $10,000 USD",
-    "source": "RemoteOK"
-  },
-  {
     "id": "75533041c81b",
     "title": "Senior Detection & Response Engineer",
     "company": "Expel",
@@ -1086,62 +1141,6 @@
     ],
     "salary": "$1000 per task",
     "source": "Remotive"
-  },
-  {
-    "id": "75412a293a1f",
-    "title": "Head of Technology",
-    "company": "Sanctuary Computer",
-    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Dev",
-      "Engineer",
-      "Senior",
-      "Full stack",
-      "Front end"
-    ],
-    "salary": "$140,000 - $250,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "c0b8ae5153d3",
-    "title": "Director of Product Management and IT Operations",
-    "company": "Self Bill Pro",
-    "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Product manager",
-      "Exec",
-      "Infosec",
-      "Technical",
-      "Dev",
-      "Testing"
-    ],
-    "salary": "$130,000 - $160,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "60c51122e2ac",
-    "title": "SAP RE FX Consultant",
-    "company": "Yopeso Romania SRL",
-    "url": "https://remoteOK.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Consulting",
-      "Design",
-      "Technical",
-      "Dev",
-      "Testing",
-      "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "196704085168",

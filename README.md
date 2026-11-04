@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![AI](https://img.shields.io/badge/AI-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-15_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
+![Exec](https://img.shields.io/badge/Exec-21_vacantes-indigo) ![AI](https://img.shields.io/badge/AI-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-15_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-14_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-13_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-11_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,14 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-04 14:12 UTC** | Ofertas activas monitoreadas: **107***
+*Última actualización automática: **2026-11-04 23:29 UTC** | Ofertas activas monitoreadas: **107***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677)** | Vogel | `Fullstack` | `Testing` `Marketing` `Exec` | MÃ¼nchen | 2026-11-03 |
+| **[Paid Media Manager US ](https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675)** | Kyra | `AI / Data` | `Exec` `Testing` `Marketing` | US | 2026-11-03 |
+| **[Sales Operations Analyst](https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674)** | Calabrio | `Fullstack` | `Analyst` `Saas` `Salesforce` | Worldwide Remote | 2026-11-03 |
+| **[Tech lead](https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673)** | Ringbook Limited | `Fullstack` | `Dev` `Exec` `Accounting` | Worldwide Remote | 2026-11-03 |
 | **[Senior Property Manager ENG](https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624)** | StaffRight | `Fullstack` | `Exec` `Hr` `Technical` | Worldwide Remote | 2026-11-03 |
 | **[Tax Manager Private Client](https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622)** | Aprio | `Fullstack` | `Exec` `Education` `Consulting` | Scotch Plains, NJ | 2026-11-03 |
 | **[Client Accounting Division Manager](https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621)** | Burkland Associates | `Fullstack` | `Exec` `Accounting` `Amazon` | Worldwide Remote | 2026-11-03 |
@@ -58,10 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Sr. IT Systems Engineer](https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer)** | Carrot | `Fullstack` | `.net` | Worldwide / Remote | 2026-10-30 |
 | **[DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)](https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria)** | Smartsheet | `AI / Data` | `AI` `Devops` | Worldwide / Remote | 2026-10-30 |
 | **[Consumer Support Specialist (Weekend Shift, Sunday - Thursday)](https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday)** | Keeper Security | `Fullstack` | - | Worldwide / Remote | 2026-10-30 |
-| **[Cloud Engineer Automation](https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600)** | Smile Digital Health | `DevOps / Cloud` | `Design` `Grafana` `Infosec` | Toronto, Ontario | 2026-10-29 |
-| **[Principal Data Engineer](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer)** | ZoomInfo Technologies LLC | `AI / Data` | - | Worldwide / Remote | 2026-10-29 |
-| **[Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)** | Fluence International, Inc. | `DevOps / Cloud` | `Javascript` `Typescript` `React` | Worldwide | 2026-10-29 |
-| **[Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597)** | Edconic | `Fullstack` | `Front end` `Other` | Worldwide Remote | 2026-10-28 |
 <!-- JOBS_END -->
 
 ---
