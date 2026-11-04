@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-18_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-13_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-11_vacantes-indigo)
+![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![AI](https://img.shields.io/badge/AI-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-14_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-13_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,12 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-03 19:22 UTC** | Ofertas activas monitoreadas: **106***
+*Última actualización automática: **2026-11-04 05:51 UTC** | Ofertas activas monitoreadas: **106***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Tax Manager Private Client](https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622)** | Aprio | `Fullstack` | `Exec` `Education` `Consulting` | Scotch Plains, NJ | 2026-11-03 |
+| **[Client Accounting Division Manager](https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621)** | Burkland Associates | `Fullstack` | `Exec` `Accounting` `Amazon` | Worldwide Remote | 2026-11-03 |
 | **[AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)** | Docusketch | `AI / Data` | `Dev` `Ai` `Deep learning` | Worldwide Remote | 2026-11-02 |
 | **[Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614)** | Sodalis, Inc. | `DevOps / Cloud` | `Dev` `Design` `Embedded` | Palo Alto | 2026-11-02 |
 | **[Team Lead Account Executive](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613)** | Capmo | `Fullstack` | `Saas` `Exec` `Junior` | Worldwide Remote | 2026-11-02 |
@@ -60,8 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)** | Fluence International, Inc. | `DevOps / Cloud` | `Javascript` `Typescript` `React` | Worldwide | 2026-10-29 |
 | **[Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597)** | Edconic | `Fullstack` | `Front end` `Other` | Worldwide Remote | 2026-10-28 |
 | **[Senior IT Systems Engineer](https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer)** | Upsun | `AI / Data` | `AI` `Devops` | Worldwide / Remote | 2026-10-27 |
-| **[MSP Mac Help Desk Guru (work from home)](https://weworkremotely.com/remote-jobs/ignition-inc-msp-mac-help-desk-guru-work-from-home)** | Ignition, Inc. | `AI / Data` | `.net` `Rails` | Worldwide / Remote | 2026-10-27 |
-| **[Senior Back-end Developer](https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135)** | Lemon.io | `Frontend` | `Python` `Javascript` `Typescript` | Europe, USA, Canada,… | 2026-10-27 |
 <!-- JOBS_END -->
 
 ---

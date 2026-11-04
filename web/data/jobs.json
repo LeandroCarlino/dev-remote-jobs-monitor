@@ -1,5 +1,43 @@
 [
   {
+    "id": "d155ac49ac15",
+    "title": "Tax Manager Private Client",
+    "company": "Aprio",
+    "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
+    "location": "Scotch Plains, NJ",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Exec",
+      "Education",
+      "Consulting",
+      "Technical",
+      "Dev",
+      "Marketing"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "43cdd2af8e84",
+    "title": "Client Accounting Division Manager",
+    "company": "Burkland Associates",
+    "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
+    "location": "Worldwide Remote",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Exec",
+      "Accounting",
+      "Amazon",
+      "Hr",
+      "Sys admin",
+      "Technical"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "951ef410ac78",
     "title": "AI ML Engineer",
     "company": "Docusketch",
@@ -589,25 +627,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "49e3fc64818e",
-    "title": "Senior Frontend Engineer",
-    "company": "B2spin",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-    "location": "Worldwide Remote",
-    "date": "2026-10-23",
-    "category": "Frontend",
-    "tags": [
-      "Front end",
-      "Design",
-      "React",
-      "Embedded",
-      "Sys admin",
-      "Game dev"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "ddb324bbc43a",
     "title": "Accounting and Implementation Manager",
     "company": "Aprio",
@@ -1108,25 +1127,6 @@
       "Dev",
       "Testing",
       "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "c7b832f3914b",
-    "title": "APAC Python",
-    "company": "Kodland",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Python",
-      "Teaching",
-      "Education",
-      "Dev",
-      "Testing",
-      "Part time"
     ],
     "salary": null,
     "source": "RemoteOK"
