@@ -1,5 +1,24 @@
 [
   {
+    "id": "5a9ec9292611",
+    "title": "Senior Property Manager ENG",
+    "company": "StaffRight",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+    "location": "Worldwide Remote",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Exec",
+      "Hr",
+      "Technical",
+      "Dev",
+      "Travel",
+      "Finance"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "d155ac49ac15",
     "title": "Tax Manager Private Client",
     "company": "Aprio",
@@ -108,6 +127,18 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "2746ff9e64cf",
+    "title": "Freelance Copywriter",
+    "company": "Coalition Technologies ",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+    "location": "Worldwide",
+    "date": "2026-11-02",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$20k -$35k",
+    "source": "Remotive"
+  },
+  {
     "id": "ebf7d08cd293",
     "title": "Virtual Destination Wedding Coordinator",
     "company": "Destination Careers",
@@ -121,25 +152,6 @@
       "Travel",
       "Legal",
       "Digital nomad"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "0f459b151c04",
-    "title": "Virtual Scheduling Assistant",
-    "company": "Destination Careers",
-    "url": "https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610",
-    "location": "Texas",
-    "date": "2026-11-01",
-    "category": "Fullstack",
-    "tags": [
-      "Education",
-      "Marketing",
-      "Travel",
-      "Admin",
-      "Exec",
-      "Ops"
     ],
     "salary": null,
     "source": "RemoteOK"
@@ -1132,6 +1144,22 @@
     "source": "RemoteOK"
   },
   {
+    "id": "196704085168",
+    "title": "Software Engineer, AI Coding Tasks (Contract)",
+    "company": "Askable",
+    "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-16",
+    "category": "AI / Data",
+    "tags": [
+      ".net",
+      "Rails",
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "86fcea378d75",
     "title": "Cloud Network Engineer",
     "company": "BeyondTrust",
@@ -1617,18 +1645,6 @@
       "Aws",
       "Kubernetes"
     ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "69e3d587c2b1",
-    "title": "Director, Global GTM Strategy & Operations",
-    "company": "Wrike",
-    "url": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-05",
-    "category": "Fullstack",
-    "tags": [],
     "salary": null,
     "source": "WeWorkRemotely"
   },

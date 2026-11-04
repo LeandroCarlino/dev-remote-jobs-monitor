@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![AI](https://img.shields.io/badge/AI-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-14_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-13_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
+![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![AI](https://img.shields.io/badge/AI-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-15_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Sys admin](https://img.shields.io/badge/Sys admin-10_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,18 +33,19 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-04 05:51 UTC** | Ofertas activas monitoreadas: **106***
+*Última actualización automática: **2026-11-04 14:12 UTC** | Ofertas activas monitoreadas: **107***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Senior Property Manager ENG](https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624)** | StaffRight | `Fullstack` | `Exec` `Hr` `Technical` | Worldwide Remote | 2026-11-03 |
 | **[Tax Manager Private Client](https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622)** | Aprio | `Fullstack` | `Exec` `Education` `Consulting` | Scotch Plains, NJ | 2026-11-03 |
 | **[Client Accounting Division Manager](https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621)** | Burkland Associates | `Fullstack` | `Exec` `Accounting` `Amazon` | Worldwide Remote | 2026-11-03 |
 | **[AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)** | Docusketch | `AI / Data` | `Dev` `Ai` `Deep learning` | Worldwide Remote | 2026-11-02 |
 | **[Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614)** | Sodalis, Inc. | `DevOps / Cloud` | `Dev` `Design` `Embedded` | Palo Alto | 2026-11-02 |
 | **[Team Lead Account Executive](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613)** | Capmo | `Fullstack` | `Saas` `Exec` `Junior` | Worldwide Remote | 2026-11-02 |
 | **[Salesforce Business Systems Administrator](https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator)** | Salesloft | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-02 |
+| **[Freelance Copywriter](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306)** | Coalition Technologies  | `Fullstack` | - | Worldwide | 2026-11-02 |
 | **[Virtual Destination Wedding Coordinator](https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611)** | Destination Careers | `Fullstack` | `Design` `Coordinator` `Travel` | Colorado | 2026-11-01 |
-| **[Virtual Scheduling Assistant](https://remoteOK.com/remote-jobs/remote-virtual-scheduling-assistant-destination-careers-1137610)** | Destination Careers | `Fullstack` | `Education` `Marketing` `Travel` | Texas | 2026-11-01 |
 | **[Partner Operations Manager](https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609)** | Mecka | `Fullstack` | `Exec` `Design` `Education` | Worldwide Remote | 2026-11-01 |
 | **[Scientific Account Executive](https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608)** | Adaptyv | `Fullstack` | `Design` `Technical` `Dev` | Lausanne | 2026-10-31 |
 | **[Contract Recruiter](https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607)** | CAI | `Fullstack` | `Sys admin` `Technical` `Recruiter` | Australia | 2026-10-30 |
@@ -61,7 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Principal Data Engineer](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer)** | ZoomInfo Technologies LLC | `AI / Data` | - | Worldwide / Remote | 2026-10-29 |
 | **[Full-Stack Developer](https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165)** | Fluence International, Inc. | `DevOps / Cloud` | `Javascript` `Typescript` `React` | Worldwide | 2026-10-29 |
 | **[Front End Developer](https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597)** | Edconic | `Fullstack` | `Front end` `Other` | Worldwide Remote | 2026-10-28 |
-| **[Senior IT Systems Engineer](https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer)** | Upsun | `AI / Data` | `AI` `Devops` | Worldwide / Remote | 2026-10-27 |
 <!-- JOBS_END -->
 
 ---
