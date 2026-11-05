@@ -1,5 +1,22 @@
 [
   {
+    "id": "1fee0d94b4e5",
+    "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+    "company": "Destination Careers",
+    "url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+    "location": "South Carolina",
+    "date": "2026-11-04",
+    "category": "Fullstack",
+    "tags": [
+      "Education",
+      "Coordinator",
+      "Exec",
+      "Ops"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "4140a38ec88c",
     "title": "M&A Praktikum Intern",
     "company": "Vogel",
@@ -539,25 +556,6 @@
     "source": "Remotive"
   },
   {
-    "id": "9009d8799376",
-    "title": "Account Executive",
-    "company": "Huzzle",
-    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
-    "location": "Worldwide Remote",
-    "date": "2026-10-26",
-    "category": "Fullstack",
-    "tags": [
-      "Saas",
-      "Dev",
-      "Video",
-      "Finance",
-      "Exec",
-      "Senior"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "19b383a3a655",
     "title": "Senior Software Engineer LATAM",
     "company": "Wagmo",
@@ -694,44 +692,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "26fa0ef026ef",
-    "title": "Sales Development Representative German Speaking",
-    "company": "Huzzle",
-    "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-    "location": "Worldwide Remote",
-    "date": "2026-10-23",
-    "category": "Fullstack",
-    "tags": [
-      "Saas",
-      "Sys admin",
-      "Dev",
-      "Marketing",
-      "Finance",
-      "C"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "ddb324bbc43a",
-    "title": "Accounting and Implementation Manager",
-    "company": "Aprio",
-    "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-    "location": "Worldwide Remote",
-    "date": "2026-10-23",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Accounting",
-      "Design",
-      "Sys admin",
-      "Education",
-      "Consulting"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "75f1ab40fce3",
     "title": "Travel Support Specialist",
     "company": "Aisles &amp; Abroad",
@@ -834,44 +794,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "1c8d7233e3a7",
-    "title": "Senior Finance Manager Management Accountant",
-    "company": "D2B",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-    "location": "Worldwide Remote",
-    "date": "2026-10-22",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Accounting",
-      "Saas",
-      "Technical",
-      "Dev",
-      "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "1f88ce9539df",
-    "title": "Accounting & Finance Manager",
-    "company": "Political Asylum Lawyers",
-    "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-    "location": "Worldwide Remote",
-    "date": "2026-10-22",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Accounting",
-      "Design",
-      "Sys admin",
-      "Infosec",
-      "Education"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "1f77822bac5f",
     "title": "Accounting Operations",
     "company": "Plaid",
@@ -937,25 +859,6 @@
       "Education",
       "Technical",
       "Travel"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "88101712653a",
-    "title": "Risk Analyst",
-    "company": "Pavago",
-    "url": "https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-    "location": "Worldwide Remote",
-    "date": "2026-10-20",
-    "category": "Fullstack",
-    "tags": [
-      "Analyst",
-      "Saas",
-      "Sys admin",
-      "Infosec",
-      "Python",
-      "Technical"
     ],
     "salary": null,
     "source": "RemoteOK"
@@ -1110,6 +1013,25 @@
     "source": "RemoteOK"
   },
   {
+    "id": "cebdaccd73be",
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "location": "Worldwide Remote",
+    "date": "2026-10-17",
+    "category": "AI / Data",
+    "tags": [
+      "Dev",
+      "Python",
+      "Javascript",
+      "Typescript",
+      "Golang",
+      "Java"
+    ],
+    "salary": "$10,000 - $10,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "75533041c81b",
     "title": "Senior Detection & Response Engineer",
     "company": "Expel",
@@ -1141,6 +1063,81 @@
     ],
     "salary": "$1000 per task",
     "source": "Remotive"
+  },
+  {
+    "id": "75412a293a1f",
+    "title": "Head of Technology",
+    "company": "Sanctuary Computer",
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "location": "Worldwide Remote",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Dev",
+      "Engineer",
+      "Senior",
+      "Full stack",
+      "Front end"
+    ],
+    "salary": "$140,000 - $250,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "c0b8ae5153d3",
+    "title": "Director of Product Management and IT Operations",
+    "company": "Self Bill Pro",
+    "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "location": "Worldwide Remote",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Product manager",
+      "Exec",
+      "Infosec",
+      "Technical",
+      "Dev",
+      "Testing"
+    ],
+    "salary": "$130,000 - $160,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "c7b832f3914b",
+    "title": "APAC Python",
+    "company": "Kodland",
+    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
+    "location": "Worldwide Remote",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "Teaching",
+      "Education",
+      "Dev",
+      "Testing",
+      "Part time"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "ea2b381cfcb4",
+    "title": "Director of IT and Workplace",
+    "company": "Hippocratic AI",
+    "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+    "location": "Menlo Park",
+    "date": "2026-10-16",
+    "category": "Fullstack",
+    "tags": [
+      "Exec",
+      "Saas",
+      "Infosec",
+      "Python",
+      "Technical",
+      "Testing"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
   },
   {
     "id": "196704085168",
