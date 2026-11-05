@@ -1,5 +1,22 @@
 [
   {
+    "id": "30a5d9b191f4",
+    "title": "Software Engineer",
+    "company": "Claims",
+    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
+    "location": "Worldwide Remote",
+    "date": "2026-11-04",
+    "category": "AI / Data",
+    "tags": [
+      "Dev",
+      "Ai",
+      "Blockchain",
+      "AI"
+    ],
+    "salary": "$10,000 - $30,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "1fee0d94b4e5",
     "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
     "company": "Destination Careers",
@@ -1121,23 +1138,30 @@
     "source": "RemoteOK"
   },
   {
-    "id": "ea2b381cfcb4",
-    "title": "Director of IT and Workplace",
-    "company": "Hippocratic AI",
-    "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
-    "location": "Menlo Park",
+    "id": "79f569d64708",
+    "title": "Director, Marketing Operations",
+    "company": "Maven Clinic",
+    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
+    "location": "Worldwide / Remote",
     "date": "2026-10-16",
     "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "7bc4e98b8d15",
+    "title": "Global Alliance Lead, Capgemini",
+    "company": "Fivetran",
+    "url": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-16",
+    "category": "AI / Data",
     "tags": [
-      "Exec",
-      "Saas",
-      "Infosec",
-      "Python",
-      "Technical",
-      "Testing"
+      "AI"
     ],
     "salary": null,
-    "source": "RemoteOK"
+    "source": "WeWorkRemotely"
   },
   {
     "id": "196704085168",
@@ -1587,90 +1611,15 @@
     "source": "Remotive"
   },
   {
-    "id": "aeecb4b2546b",
-    "title": "Senior Angular Full-stack Developer",
-    "company": "Lemon.io",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+    "id": "e110da9a8e46",
+    "title": "Staff Software Engineer",
+    "company": "Samsara",
+    "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
     "location": "Worldwide / Remote",
-    "date": "2026-10-06",
-    "category": "AI / Data",
-    "tags": [
-      "Angular",
-      ".net",
-      "Php",
-      "Rails"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "842bd74cd20f",
-    "title": "Senior Director, Field Enablement",
-    "company": "PagerDuty",
-    "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-06",
+    "date": "2026-08-17",
     "category": "AI / Data",
     "tags": [
       "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "0dd8a945036f",
-    "title": "Senior Infrastructure Engineer",
-    "company": "Webflow",
-    "url": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-06",
-    "category": "DevOps / Cloud",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "e8e699eb8298",
-    "title": "Engineering Manager, Cloud Engineering",
-    "company": "LaunchDarkly",
-    "url": "https://weworkremotely.com/remote-jobs/launchdarkly-engineering-manager-cloud-engineering",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-06",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Aws",
-      "Kubernetes"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "ab155e779111",
-    "title": "Freelance Writer",
-    "company": "IAPWE",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "location": "Worldwide",
-    "date": "2026-10-04",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": "$50-$75 /hour",
-    "source": "Remotive"
-  },
-  {
-    "id": "537847f22033",
-    "title": "Software engineer",
-    "company": "Sticker Mule",
-    "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-    "location": "Worldwide / Remote",
-    "date": "2026-05-14",
-    "category": "Frontend",
-    "tags": [
-      "Typescript",
-      "React",
-      "GO",
-      "Postgres",
-      "Gcp",
-      "Graphql"
     ],
     "salary": null,
     "source": "WeWorkRemotely"
