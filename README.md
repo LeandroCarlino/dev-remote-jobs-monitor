@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-22_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-13_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-11_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-10_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-9_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-23_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-11_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-10_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,14 +33,20 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-06 06:06 UTC** | Ofertas activas monitoreadas: **104***
+*Última actualización automática: **2026-11-06 19:12 UTC** | Ofertas activas monitoreadas: **107***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691)** | Silver.dev | `AI / Data` | `Design` `Sys admin` `Exec` | Worldwide Remote | 2026-11-05 |
+| **[Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690)** | Toptal | `AI / Data` | `Docker` `Git` `Supply chain` | Anywhere in the World | 2026-11-05 |
+| **[ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689)** | Toptal | `AI / Data` | `Docker` `Git` `Llm` | Anywhere in the World | 2026-11-05 |
+| **[Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** | Lemon.io | `Frontend` | `Engineer` `Dev` `Full time` | Worldwide Remote | 2026-11-05 |
 | **[Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687)** | CivilGrid | `DevOps / Cloud` | `Infosec` `Design` `Dev` | Boston | 2026-11-05 |
 | **[AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686)** | iMerit | `AI / Data` | `Content writing` `Ai` `Other` | Worldwide Remote | 2026-11-04 |
 | **[Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)** | Claims | `AI / Data` | `Dev` `Ai` `Blockchain` | Worldwide Remote | 2026-11-04 |
 | **[Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680)** | Destination Careers | `Fullstack` | `Education` `Coordinator` `Exec` | South Carolina | 2026-11-04 |
+| **[Freelance Writer](https://remotive.com/remote-jobs/writing/freelance-writer-1185979)** | IAPWE | `Fullstack` | - | Worldwide | 2026-11-04 |
+| **[Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** | TELUS Digital | `AI / Data` | `AI` | USA | 2026-11-04 |
 | **[M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677)** | Vogel | `Fullstack` | `Testing` `Marketing` `Exec` | MÃ¼nchen | 2026-11-03 |
 | **[Paid Media Manager US ](https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675)** | Kyra | `AI / Data` | `Exec` `Testing` `Marketing` | US | 2026-11-03 |
 | **[Sales Operations Analyst](https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674)** | Calabrio | `Fullstack` | `Analyst` `Saas` `Salesforce` | Worldwide Remote | 2026-11-03 |
@@ -56,12 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Virtual Destination Wedding Coordinator](https://remoteOK.com/remote-jobs/remote-virtual-destination-wedding-coordinator-destination-careers-1137611)** | Destination Careers | `Fullstack` | `Design` `Coordinator` `Travel` | Colorado | 2026-11-01 |
 | **[Partner Operations Manager](https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609)** | Mecka | `Fullstack` | `Exec` `Design` `Education` | Worldwide Remote | 2026-11-01 |
 | **[Scientific Account Executive](https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608)** | Adaptyv | `Fullstack` | `Design` `Technical` `Dev` | Lausanne | 2026-10-31 |
-| **[Contract Recruiter](https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607)** | CAI | `Fullstack` | `Sys admin` `Technical` `Recruiter` | Australia | 2026-10-30 |
-| **[AWS Cloud Solutions Architect](https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606)** | Cloudary SAS | `DevOps / Cloud` | `Architecture` `Design` `Ansible` | Worldwide Remote | 2026-10-30 |
-| **[Online Client Support &amp; Travel Booking We Will Train You](https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604)** | Destination Careers | `AI / Data` | `Travel` `Education` `Non tech` | Dallas, Texas | 2026-10-30 |
-| **[Country Manager Canada](https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602)** | Polaroid | `Fullstack` | `Exec` `Education` `Recruiter` | Worldwide Remote | 2026-10-30 |
-| **[Client Support &amp; Travel Booking Online](https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601)** | Destination Careers | `Fullstack` | `Travel` `Education` `Non tech` | Ohio | 2026-10-30 |
-| **[CloudOps Engineer (Network Engineer)](https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer)** | Wrike | `DevOps / Cloud` | - | Worldwide / Remote | 2026-10-30 |
 <!-- JOBS_END -->
 
 ---

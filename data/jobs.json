@@ -1,5 +1,78 @@
 [
   {
+    "id": "d2e6a127bc1a",
+    "title": "Feltsense AI Engineer",
+    "company": "Silver.dev",
+    "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+    "location": "Worldwide Remote",
+    "date": "2026-11-05",
+    "category": "AI / Data",
+    "tags": [
+      "Design",
+      "Sys admin",
+      "Exec",
+      "Technical",
+      "Dev",
+      "Testing"
+    ],
+    "salary": "$60,000 - $110,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "427cdf48fc2d",
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+    "location": "Anywhere in the World",
+    "date": "2026-11-05",
+    "category": "AI / Data",
+    "tags": [
+      "Docker",
+      "Git",
+      "Supply chain",
+      "Microsoft excel",
+      "Python",
+      "Sap"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "e928574803da",
+    "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+    "company": "Toptal",
+    "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+    "location": "Anywhere in the World",
+    "date": "2026-11-05",
+    "category": "AI / Data",
+    "tags": [
+      "Docker",
+      "Git",
+      "Llm"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "550ac28a094c",
+    "title": "Senior Vue Developer",
+    "company": "Lemon.io",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+    "location": "Worldwide Remote",
+    "date": "2026-11-05",
+    "category": "Frontend",
+    "tags": [
+      "Engineer",
+      "Dev",
+      "Full time",
+      "Full stack",
+      "Remote",
+      "Remote work"
+    ],
+    "salary": "$50,000 - $180,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "7a603d137e8d",
     "title": "Senior Staff Infrastructure & Security Engineer",
     "company": "CivilGrid",
@@ -68,6 +141,32 @@
     ],
     "salary": null,
     "source": "RemoteOK"
+  },
+  {
+    "id": "ab155e779111",
+    "title": "Freelance Writer",
+    "company": "IAPWE",
+    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "location": "Worldwide",
+    "date": "2026-11-04",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$50-$75 /hour",
+    "source": "Remotive"
+  },
+  {
+    "id": "d06a21f02f80",
+    "title": "Content Reviewer - United States",
+    "company": "TELUS Digital",
+    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166",
+    "location": "USA",
+    "date": "2026-11-04",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": "$14/hour",
+    "source": "Remotive"
   },
   {
     "id": "4140a38ec88c",
@@ -1033,56 +1132,18 @@
     "source": "RemoteOK"
   },
   {
-    "id": "9b62aad4d3fa",
-    "title": "Technical Account Manager",
-    "company": "Yuno",
-    "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540",
-    "location": "Brazil",
-    "date": "2026-10-17",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Design",
-      "Hr",
-      "Python",
-      "Technical",
-      "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "3954bd0eeed2",
-    "title": "Commercial Account Manager LATAM",
-    "company": "Apryse",
-    "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-    "location": "Remote",
-    "date": "2026-10-17",
-    "category": "Fullstack",
-    "tags": [
-      "Exec"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "cebdaccd73be",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
-    "location": "Worldwide Remote",
+    "id": "60cc631cdadc",
+    "title": "Customer Value Architect III",
+    "company": "Mixpanel",
+    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+    "location": "Worldwide / Remote",
     "date": "2026-10-17",
     "category": "AI / Data",
     "tags": [
-      "Dev",
-      "Python",
-      "Javascript",
-      "Typescript",
-      "Golang",
-      "Java"
+      "AI"
     ],
-    "salary": "$10,000 - $10,000 USD",
-    "source": "RemoteOK"
+    "salary": null,
+    "source": "WeWorkRemotely"
   },
   {
     "id": "75533041c81b",
@@ -1118,22 +1179,19 @@
     "source": "Remotive"
   },
   {
-    "id": "75412a293a1f",
+    "id": "2e4355e994e7",
     "title": "Head of Technology",
     "company": "Sanctuary Computer",
-    "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-    "location": "Worldwide Remote",
+    "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
+    "location": "Worldwide / Remote",
     "date": "2026-10-16",
-    "category": "Fullstack",
+    "category": "AI / Data",
     "tags": [
-      "Dev",
-      "Engineer",
-      "Senior",
-      "Full stack",
-      "Front end"
+      ".net",
+      "Rails"
     ],
-    "salary": "$140,000 - $250,000 USD",
-    "source": "RemoteOK"
+    "salary": null,
+    "source": "WeWorkRemotely"
   },
   {
     "id": "79f569d64708",
@@ -1579,20 +1637,6 @@
     "tags": [],
     "salary": "OTE $25k - $35k",
     "source": "Remotive"
-  },
-  {
-    "id": "9fdd812d507a",
-    "title": "Software Engineer - Query Execution",
-    "company": "Dremio",
-    "url": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-07",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
   },
   {
     "id": "17f629b43a72",
