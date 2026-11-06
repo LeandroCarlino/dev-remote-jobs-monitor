@@ -1,5 +1,41 @@
 [
   {
+    "id": "7a603d137e8d",
+    "title": "Senior Staff Infrastructure & Security Engineer",
+    "company": "CivilGrid",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
+    "location": "Boston",
+    "date": "2026-11-05",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Infosec",
+      "Design",
+      "Dev",
+      "Marketing",
+      "Exec",
+      "Devops"
+    ],
+    "salary": "$137,318 - $192,960 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "4609937e64d0",
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+    "location": "Worldwide Remote",
+    "date": "2026-11-04",
+    "category": "AI / Data",
+    "tags": [
+      "Content writing",
+      "Ai",
+      "Other",
+      "AI"
+    ],
+    "salary": "$80,000 - $90,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "30a5d9b191f4",
     "title": "Software Engineer",
     "company": "Claims",
@@ -1097,44 +1133,6 @@
       "Front end"
     ],
     "salary": "$140,000 - $250,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "c0b8ae5153d3",
-    "title": "Director of Product Management and IT Operations",
-    "company": "Self Bill Pro",
-    "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Product manager",
-      "Exec",
-      "Infosec",
-      "Technical",
-      "Dev",
-      "Testing"
-    ],
-    "salary": "$130,000 - $160,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "c7b832f3914b",
-    "title": "APAC Python",
-    "company": "Kodland",
-    "url": "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534",
-    "location": "Worldwide Remote",
-    "date": "2026-10-16",
-    "category": "Fullstack",
-    "tags": [
-      "Python",
-      "Teaching",
-      "Education",
-      "Dev",
-      "Testing",
-      "Part time"
-    ],
-    "salary": null,
     "source": "RemoteOK"
   },
   {

@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-21_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-11_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-10_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-9_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-22_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-13_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-11_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-10_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-9_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,12 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-05 19:47 UTC** | Ofertas activas monitoreadas: **104***
+*Última actualización automática: **2026-11-06 06:06 UTC** | Ofertas activas monitoreadas: **104***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687)** | CivilGrid | `DevOps / Cloud` | `Infosec` `Design` `Dev` | Boston | 2026-11-05 |
+| **[AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686)** | iMerit | `AI / Data` | `Content writing` `Ai` `Other` | Worldwide Remote | 2026-11-04 |
 | **[Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)** | Claims | `AI / Data` | `Dev` `Ai` `Blockchain` | Worldwide Remote | 2026-11-04 |
 | **[Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680)** | Destination Careers | `Fullstack` | `Education` `Coordinator` `Exec` | South Carolina | 2026-11-04 |
 | **[M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677)** | Vogel | `Fullstack` | `Testing` `Marketing` `Exec` | MÃ¼nchen | 2026-11-03 |
@@ -60,8 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Country Manager Canada](https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602)** | Polaroid | `Fullstack` | `Exec` `Education` `Recruiter` | Worldwide Remote | 2026-10-30 |
 | **[Client Support &amp; Travel Booking Online](https://remoteOK.com/remote-jobs/remote-client-support-amp-travel-booking-online-destination-careers-1137601)** | Destination Careers | `Fullstack` | `Travel` `Education` `Non tech` | Ohio | 2026-10-30 |
 | **[CloudOps Engineer (Network Engineer)](https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer)** | Wrike | `DevOps / Cloud` | - | Worldwide / Remote | 2026-10-30 |
-| **[Autonomous Systems Security Engineer](https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer)** | Anthropic | `AI / Data` | `AI` | Worldwide / Remote | 2026-10-30 |
-| **[Sr. IT Systems Engineer](https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer)** | Carrot | `Fullstack` | `.net` | Worldwide / Remote | 2026-10-30 |
 <!-- JOBS_END -->
 
 ---
