@@ -1,5 +1,58 @@
 [
   {
+    "id": "231d6b714d40",
+    "title": "Accountant",
+    "company": "Serve Robotics",
+    "url": "https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694",
+    "location": "los angeles",
+    "date": "2026-11-06",
+    "category": "Fullstack",
+    "tags": [
+      "Accounting",
+      "Design",
+      "Dev",
+      "Finance",
+      "Robotics",
+      "Microsoft"
+    ],
+    "salary": "$90,000 - $110,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "c4dbe5546f81",
+    "title": "Senior Full Stack Engineer People Products",
+    "company": "Thumbtack",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
+    "location": "Toronto",
+    "date": "2026-11-06",
+    "category": "Frontend",
+    "tags": [
+      "Full stack",
+      "Design",
+      "Saas",
+      "React",
+      "Salesforce",
+      "Hr"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "b256b44bb6fa",
+    "title": "Agile Program Manager",
+    "company": "Toptal",
+    "url": "https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692",
+    "location": "Anywhere in the World",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [
+      "Agile",
+      "Scrum"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "d2e6a127bc1a",
     "title": "Feltsense AI Engineer",
     "company": "Silver.dev",
@@ -644,10 +697,10 @@
     "source": "Remotive"
   },
   {
-    "id": "94b42e1ca509",
+    "id": "96564c66658e",
     "title": "Front End Developer",
-    "company": "Edconic",
-    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+    "company": "Cambridge Information Group",
+    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
     "location": "Worldwide Remote",
     "date": "2026-10-28",
     "category": "Fullstack",
@@ -1061,25 +1114,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "9700e47178e6",
-    "title": "Senior Backend Engineer",
-    "company": "Rain",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "location": "Worldwide Remote",
-    "date": "2026-10-18",
-    "category": "Backend",
-    "tags": [
-      "Golang",
-      "Finance",
-      "Mobile",
-      "Senior",
-      "Medical",
-      "Engineer"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "5463f0d23de0",
     "title": "Enterprise Support Engineer",
     "company": "PlanetScale",
@@ -1092,44 +1126,6 @@
     ],
     "salary": null,
     "source": "WeWorkRemotely"
-  },
-  {
-    "id": "6f9dc38120f6",
-    "title": "Graduate Transport Planner",
-    "company": "Curtins",
-    "url": "https://remoteOK.com/remote-jobs/remote-graduate-transport-planner-curtins-1137542",
-    "location": "Worldwide Remote",
-    "date": "2026-10-17",
-    "category": "Fullstack",
-    "tags": [
-      "Hr",
-      "Education",
-      "Consulting",
-      "Technical",
-      "Marketing",
-      "Travel"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "342e65a647a2",
-    "title": "Key Account Manager Danish Market Native Speaker Copenhagen",
-    "company": "Packmatic GmbH",
-    "url": "https://remoteOK.com/remote-jobs/remote-key-account-manager-danish-market-native-speaker-copenhagen-packmatic-gmbh-1137541",
-    "location": "Copenhagen",
-    "date": "2026-10-17",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Saas",
-      "Technical",
-      "Marketing",
-      "Travel",
-      "Senior"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "60cc631cdadc",
