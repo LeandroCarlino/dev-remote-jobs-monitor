@@ -1,5 +1,24 @@
 [
   {
+    "id": "a92ce9b2c359",
+    "title": "Registered Nurse",
+    "company": "Caringhand Home Health Solutions, Inc.",
+    "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+    "location": "Worldwide Remote",
+    "date": "2026-11-06",
+    "category": "Fullstack",
+    "tags": [
+      "Education",
+      "Supervisor",
+      "Travel",
+      "Exec",
+      "Medical",
+      "Full time"
+    ],
+    "salary": "$110 - $130 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "231d6b714d40",
     "title": "Accountant",
     "company": "Serve Robotics",
@@ -19,23 +38,16 @@
     "source": "RemoteOK"
   },
   {
-    "id": "c4dbe5546f81",
-    "title": "Senior Full Stack Engineer People Products",
-    "company": "Thumbtack",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-people-products-thumbtack-1137693",
-    "location": "Toronto",
+    "id": "ede930d11a58",
+    "title": "US Remote Patient Care Advocate (Customer Service)",
+    "company": "VXI Global Solutions",
+    "url": "https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168",
+    "location": "USA",
     "date": "2026-11-06",
-    "category": "Frontend",
-    "tags": [
-      "Full stack",
-      "Design",
-      "Saas",
-      "React",
-      "Salesforce",
-      "Hr"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$25k - $35k",
+    "source": "Remotive"
   },
   {
     "id": "b256b44bb6fa",
@@ -1114,6 +1126,32 @@
     "source": "RemoteOK"
   },
   {
+    "id": "8e16e0ec5021",
+    "title": "Staff Software Engineer, Revenue Systems",
+    "company": "Squarespace",
+    "url": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "7a521fff4931",
+    "title": "Staff Software Engineer - Connectivity",
+    "company": "Dremio",
+    "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "5463f0d23de0",
     "title": "Enterprise Support Engineer",
     "company": "PlanetScale",
@@ -1128,10 +1166,10 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "60cc631cdadc",
+    "id": "0f7bc847087c",
     "title": "Customer Value Architect III",
     "company": "Mixpanel",
-    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+    "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
     "location": "Worldwide / Remote",
     "date": "2026-10-17",
     "category": "AI / Data",
@@ -1549,80 +1587,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "a565df851007",
-    "title": "Senior .NET Full-stack Developer",
-    "company": "Lemon.io",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-08",
-    "category": "AI / Data",
-    "tags": [
-      "Angular",
-      ".net",
-      "Rails"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "3e9da9f21047",
-    "title": "Machine Learning Engineer - IV (Biometrics)",
-    "company": "Jumio",
-    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-08",
-    "category": "AI / Data",
-    "tags": [
-      "Aws",
-      "Machine learning"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "7d3796f303e6",
-    "title": "Machine Learning Engineer",
-    "company": "Jumio",
-    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-08",
-    "category": "AI / Data",
-    "tags": [
-      "Aws",
-      "Machine learning"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "0b9a34ecacff",
-    "title": "Director of Security Engineering",
-    "company": "Abnormal",
-    "url": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-08",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "fd73143f4931",
-    "title": "Director, Renewals",
-    "company": "Abnormal",
-    "url": "https://weworkremotely.com/remote-jobs/abnormal-director-renewals",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-08",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
     "id": "2422fc6e49af",
     "title": "Inside Sales Contractor",
     "company": "Credit Wellness, LLC",
@@ -1635,18 +1599,20 @@
     "source": "Remotive"
   },
   {
-    "id": "17f629b43a72",
-    "title": "Tier III Service Desk Engineer",
-    "company": "Unio Digital",
-    "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-    "location": "Worldwide",
-    "date": "2026-10-07",
-    "category": "Fullstack",
+    "id": "a99f86a8c592",
+    "title": "Senior Java Developer",
+    "company": "Twikey",
+    "url": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+    "location": "Worldwide / Remote",
+    "date": "2026-09-17",
+    "category": "AI / Data",
     "tags": [
-      "Azure"
+      "Java",
+      ".net",
+      "Rails"
     ],
     "salary": null,
-    "source": "Remotive"
+    "source": "WeWorkRemotely"
   },
   {
     "id": "e110da9a8e46",
