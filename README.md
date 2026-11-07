@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-22_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-10_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-9_vacantes-indigo) ![Python](https://img.shields.io/badge/Python-8_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-22_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-10_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-9_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,11 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-07 12:48 UTC** | Ofertas activas monitoreadas: **105***
+*Última actualización automática: **2026-11-07 21:40 UTC** | Ofertas activas monitoreadas: **105***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Junior Market Analyst](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700)** | MEYA HOLDINGS | `Fullstack` | `Other` `Crypto` `Finance` | Worldwide Remote | 2026-11-06 |
 | **[Registered Nurse](https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695)** | Caringhand Home Health Solutions, Inc. | `Fullstack` | `Education` `Supervisor` `Travel` | Worldwide Remote | 2026-11-06 |
 | **[Accountant](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694)** | Serve Robotics | `Fullstack` | `Accounting` `Design` `Dev` | los angeles | 2026-11-06 |
 | **[US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168)** | VXI Global Solutions | `Fullstack` | - | USA | 2026-11-06 |
@@ -61,7 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[AI ML Engineer](https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619)** | Docusketch | `AI / Data` | `Dev` `Ai` `Deep learning` | Worldwide Remote | 2026-11-02 |
 | **[Software Engineer Infrastructure](https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614)** | Sodalis, Inc. | `DevOps / Cloud` | `Dev` `Design` `Embedded` | Palo Alto | 2026-11-02 |
 | **[Team Lead Account Executive](https://remoteOK.com/remote-jobs/remote-team-lead-account-executive-capmo-1137613)** | Capmo | `Fullstack` | `Saas` `Exec` `Junior` | Worldwide Remote | 2026-11-02 |
-| **[Salesforce Business Systems Administrator](https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator)** | Salesloft | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-02 |
 <!-- JOBS_END -->
 
 ---
