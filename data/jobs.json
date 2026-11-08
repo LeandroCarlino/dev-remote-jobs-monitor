@@ -1140,6 +1140,18 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "2b0a521a7989",
+    "title": "Senior Software Engineer, Processing",
+    "company": "Lithic",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "8e16e0ec5021",
     "title": "Staff Software Engineer, Revenue Systems",
     "company": "Squarespace",
@@ -1581,21 +1593,6 @@
     "tags": [
       "Aws",
       "Machine learning"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "3f24a7aac904",
-    "title": "Senior React Full-stack Developer",
-    "company": "Lemon.io",
-    "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-09",
-    "category": "Frontend",
-    "tags": [
-      "Python",
-      "React"
     ],
     "salary": null,
     "source": "WeWorkRemotely"
