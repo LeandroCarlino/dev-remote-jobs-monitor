@@ -1,5 +1,24 @@
 [
   {
+    "id": "f7ef3c8a803e",
+    "title": "AI Developer",
+    "company": "Salvo Software",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "location": "Worldwide Remote",
+    "date": "2026-11-07",
+    "category": "AI / Data",
+    "tags": [
+      "Dev",
+      "Grafana",
+      "Infosec",
+      "Python",
+      "Docker",
+      "Technical"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "637a0fb888f8",
     "title": "Junior Market Analyst",
     "company": "MEYA HOLDINGS",
@@ -360,25 +379,6 @@
       "Technical",
       "Dev",
       "Marketing"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "43cdd2af8e84",
-    "title": "Client Accounting Division Manager",
-    "company": "Burkland Associates",
-    "url": "https://remoteOK.com/remote-jobs/remote-client-accounting-division-manager-burkland-associates-1137621",
-    "location": "Worldwide Remote",
-    "date": "2026-11-03",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Accounting",
-      "Amazon",
-      "Hr",
-      "Sys admin",
-      "Technical"
     ],
     "salary": null,
     "source": "RemoteOK"
