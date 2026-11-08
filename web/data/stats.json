@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T05:38:56.268268+00:00",
-  "total_jobs": 105,
+  "last_updated": "2026-11-08T13:08:00.503668+00:00",
+  "total_jobs": 106,
   "top_tags": {
     "AI": 22,
     "Dev": 17,
@@ -25,7 +25,7 @@
   },
   "categories": {
     "AI / Data": 38,
-    "Fullstack": 49,
+    "Fullstack": 50,
     "Frontend": 4,
     "DevOps / Cloud": 13,
     "Backend": 1
