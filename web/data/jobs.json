@@ -1166,6 +1166,33 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "493e520837bb",
+    "title": "Founding Forward Deployed Engineer",
+    "company": "Alloy",
+    "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "AI / Data",
+    "tags": [
+      "GO",
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "0f9a9d2463b5",
+    "title": "Operations Engineer, BizTech",
+    "company": "Airbnb",
+    "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "2b0a521a7989",
     "title": "Senior Software Engineer, Processing",
     "company": "Lithic",
@@ -1594,45 +1621,6 @@
       "Php"
     ],
     "salary": "$35,3k- $52k",
-    "source": "Remotive"
-  },
-  {
-    "id": "855ca0d617a0",
-    "title": "Full Stack Developer",
-    "company": "Typeform",
-    "url": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-10",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "36c2acc40989",
-    "title": "Machine Learning Engineer - IV (Computer Vision)",
-    "company": "Jumio",
-    "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-10",
-    "category": "AI / Data",
-    "tags": [
-      "Aws",
-      "Machine learning"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "2422fc6e49af",
-    "title": "Inside Sales Contractor",
-    "company": "Credit Wellness, LLC",
-    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "location": "Worldwide",
-    "date": "2026-10-08",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": "OTE $25k - $35k",
     "source": "Remotive"
   },
   {

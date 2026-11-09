@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-09T05:49:06.540353+00:00",
-  "total_jobs": 108,
+  "last_updated": "2026-11-09T15:52:22.683687+00:00",
+  "total_jobs": 107,
   "top_tags": {
-    "AI": 23,
+    "AI": 24,
     "Dev": 18,
     "Exec": 17,
     "Marketing": 11,
@@ -17,16 +17,16 @@
     "Travel": 6,
     "Devops": 6,
     "Javascript": 6,
-    "Aws": 6,
     "Infosec": 5,
     "Sys admin": 5,
     "Typescript": 5,
+    "Aws": 5,
     "Saas": 4
   },
   "categories": {
     "DevOps / Cloud": 14,
     "AI / Data": 39,
-    "Fullstack": 51,
+    "Fullstack": 50,
     "Frontend": 3,
     "Backend": 1
   }
