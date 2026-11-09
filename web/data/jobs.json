@@ -1,5 +1,50 @@
 [
   {
+    "id": "83950a2d706d",
+    "title": "Full-Stack Platform Engineer",
+    "company": "Edgewater Federal Solutions, Inc.",
+    "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
+    "location": "Worldwide / Remote",
+    "date": "2026-11-09",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "2f0f67f7ffd7",
+    "title": "Senior Backend Cloud Engineer",
+    "company": "Halcyon",
+    "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
+    "location": "Worldwide / Remote",
+    "date": "2026-11-09",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "d2b9f0648d0b",
+    "title": "Account Executive Enterprise",
+    "company": "Harvey",
+    "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+    "location": "Worldwide Remote",
+    "date": "2026-11-08",
+    "category": "Fullstack",
+    "tags": [
+      "Saas",
+      "Technical",
+      "Dev",
+      "Marketing",
+      "Finance",
+      "Exec"
+    ],
+    "salary": "$380,000 - $420,000 USD",
+    "source": "RemoteOK"
+  },
+  {
     "id": "f7ef3c8a803e",
     "title": "AI Developer",
     "company": "Salvo Software",
@@ -1092,25 +1137,6 @@
       "Node"
     ],
     "salary": "$190,000 - $190,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "61c5163611b6",
-    "title": "Clinical Data Manager",
-    "company": "Penumbra",
-    "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
-    "location": "Your Remote US Home Office",
-    "date": "2026-10-21",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Sys admin",
-      "Infosec",
-      "Education",
-      "Technical",
-      "Travel"
-    ],
-    "salary": null,
     "source": "RemoteOK"
   },
   {
