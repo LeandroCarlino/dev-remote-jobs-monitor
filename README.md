@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-18_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-11_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-11_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-9_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-9_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-9_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-18_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-13_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,12 +33,15 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-09 15:52 UTC** | Ofertas activas monitoreadas: **107***
+*Última actualización automática: **2026-11-10 01:24 UTC** | Ofertas activas monitoreadas: **107***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
 | **[Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)** | Edgewater Federal Solutions, Inc. | `DevOps / Cloud` | - | Worldwide / Remote | 2026-11-09 |
 | **[Senior Backend Cloud Engineer](https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer)** | Halcyon | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-09 |
+| **[Revenue Cycle Manager](https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706)** | Adaptive Innovations | `Fullstack` | `Exec` `Sys admin` `Education` | Houston | 2026-11-08 |
+| **[Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705)** | Pencil | `Fullstack` | `Product manager` `Exec` `Design` | EMEA | 2026-11-08 |
+| **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704)** | RainFocus | `Frontend` | `Dev` `Design` `React` | Any State | 2026-11-08 |
 | **[Account Executive Enterprise](https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703)** | Harvey | `Fullstack` | `Saas` `Technical` `Dev` | Worldwide Remote | 2026-11-08 |
 | **[AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701)** | Salvo Software | `AI / Data` | `Dev` `Grafana` `Infosec` | Worldwide Remote | 2026-11-07 |
 | **[Tier III Service Desk Engineer](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045)** | Unio Digital | `Fullstack` | `Azure` | Worldwide | 2026-11-07 |
@@ -59,9 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** | TELUS Digital | `AI / Data` | `AI` | USA | 2026-11-04 |
 | **[M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677)** | Vogel | `Fullstack` | `Testing` `Marketing` `Exec` | MÃ¼nchen | 2026-11-03 |
 | **[Paid Media Manager US ](https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675)** | Kyra | `AI / Data` | `Exec` `Testing` `Marketing` | US | 2026-11-03 |
-| **[Sales Operations Analyst](https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674)** | Calabrio | `Fullstack` | `Analyst` `Saas` `Salesforce` | Worldwide Remote | 2026-11-03 |
-| **[Tech lead](https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673)** | Ringbook Limited | `Fullstack` | `Dev` `Exec` `Accounting` | Worldwide Remote | 2026-11-03 |
-| **[Senior Property Manager ENG](https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624)** | StaffRight | `Fullstack` | `Exec` `Hr` `Technical` | Worldwide Remote | 2026-11-03 |
 <!-- JOBS_END -->
 
 ---

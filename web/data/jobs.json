@@ -26,6 +26,63 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "cf64b55eb5e6",
+    "title": "Revenue Cycle Manager",
+    "company": "Adaptive Innovations",
+    "url": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706",
+    "location": "Houston",
+    "date": "2026-11-08",
+    "category": "Fullstack",
+    "tags": [
+      "Exec",
+      "Sys admin",
+      "Education",
+      "Marketing",
+      "Admin",
+      "Ops"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "54b2c29312d0",
+    "title": "Senior Product Manager",
+    "company": "Pencil",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+    "location": "EMEA",
+    "date": "2026-11-08",
+    "category": "Fullstack",
+    "tags": [
+      "Product manager",
+      "Exec",
+      "Design",
+      "Saas",
+      "Sys admin",
+      "Game dev"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "3d51bffc1e4f",
+    "title": "UI Developer",
+    "company": "RainFocus",
+    "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+    "location": "Any State",
+    "date": "2026-11-08",
+    "category": "Frontend",
+    "tags": [
+      "Dev",
+      "Design",
+      "React",
+      "Front end",
+      "Web dev",
+      "Javascript"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "d2b9f0648d0b",
     "title": "Account Executive Enterprise",
     "company": "Harvey",
@@ -1070,44 +1127,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "9fc4895d0aa0",
-    "title": "Senior DevOps Engineer",
-    "company": "Lemon.io",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
-    "location": "Worldwide Remote",
-    "date": "2026-10-22",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Devops",
-      "Engineer",
-      "Dev",
-      "Python",
-      "Golang",
-      "Aws"
-    ],
-    "salary": "$50,000 - $150,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "1f77822bac5f",
-    "title": "Accounting Operations",
-    "company": "Plaid",
-    "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
-    "location": "Worldwide Remote",
-    "date": "2026-10-22",
-    "category": "Fullstack",
-    "tags": [
-      "Accounting",
-      "Technical",
-      "Marketing",
-      "Finance",
-      "C",
-      "Exec"
-    ],
-    "salary": "$110,000 - $170,000 USD",
-    "source": "RemoteOK"
-  },
-  {
     "id": "2b69f8845a8c",
     "title": "AI Trainer - Video Annotation",
     "company": "iMerit Technology",
@@ -1120,24 +1139,6 @@
     ],
     "salary": "70K-80K",
     "source": "Remotive"
-  },
-  {
-    "id": "13196543eeea",
-    "title": "Senior Backend Engineer",
-    "company": "DuckDuckGo",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-    "location": "Worldwide Remote",
-    "date": "2026-10-21",
-    "category": "Backend",
-    "tags": [
-      "Backend",
-      "Perl",
-      "Golang",
-      "Javascript",
-      "Node"
-    ],
-    "salary": "$190,000 - $190,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "228da8f32b67",
