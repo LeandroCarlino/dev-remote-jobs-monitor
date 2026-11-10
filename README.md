@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-18_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-13_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-18_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-9_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,19 +33,22 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-10 01:24 UTC** | Ofertas activas monitoreadas: **107***
+*Última actualización automática: **2026-11-10 14:41 UTC** | Ofertas activas monitoreadas: **108***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Recruiting Coordinator](https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708)** | Pebl | `Backend` | `Coordinator` `Marketing` `Exec` | Worldwide Remote | 2026-11-09 |
+| **[Web3 Business Development](https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707)** | CertiK | `AI / Data` | `Crypto` `Web3` `Blockchain` | Worldwide Remote | 2026-11-09 |
 | **[Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)** | Edgewater Federal Solutions, Inc. | `DevOps / Cloud` | - | Worldwide / Remote | 2026-11-09 |
 | **[Senior Backend Cloud Engineer](https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer)** | Halcyon | `AI / Data` | `AI` | Worldwide / Remote | 2026-11-09 |
 | **[Revenue Cycle Manager](https://remoteOK.com/remote-jobs/remote-revenue-cycle-manager-adaptive-innovations-1137706)** | Adaptive Innovations | `Fullstack` | `Exec` `Sys admin` `Education` | Houston | 2026-11-08 |
 | **[Senior Product Manager](https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705)** | Pencil | `Fullstack` | `Product manager` `Exec` `Design` | EMEA | 2026-11-08 |
 | **[UI Developer](https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704)** | RainFocus | `Frontend` | `Dev` `Design` `React` | Any State | 2026-11-08 |
 | **[Account Executive Enterprise](https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703)** | Harvey | `Fullstack` | `Saas` `Technical` `Dev` | Worldwide Remote | 2026-11-08 |
+| **[Inside Sales Contractor](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)** | Credit Wellness, LLC | `Fullstack` | - | Worldwide | 2026-11-08 |
 | **[AI Developer](https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701)** | Salvo Software | `AI / Data` | `Dev` `Grafana` `Infosec` | Worldwide Remote | 2026-11-07 |
 | **[Tier III Service Desk Engineer](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045)** | Unio Digital | `Fullstack` | `Azure` | Worldwide | 2026-11-07 |
-| **[Junior Market Analyst](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700)** | MEYA HOLDINGS | `Fullstack` | `Other` `Crypto` `Finance` | Worldwide Remote | 2026-11-06 |
+| **[Junior Market Analyst](https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700)** | MEYA HOLDINGS | `Fullstack` | `Finance` `Analyst` `Junior` | Worldwide Remote | 2026-11-06 |
 | **[Registered Nurse](https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695)** | Caringhand Home Health Solutions, Inc. | `Fullstack` | `Education` `Supervisor` `Travel` | Worldwide Remote | 2026-11-06 |
 | **[Accountant](https://remoteOK.com/remote-jobs/remote-accountant-serve-robotics-1137694)** | Serve Robotics | `Fullstack` | `Accounting` `Design` `Dev` | los angeles | 2026-11-06 |
 | **[US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168)** | VXI Global Solutions | `Fullstack` | - | USA | 2026-11-06 |
@@ -59,9 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)** | Claims | `AI / Data` | `Dev` `Ai` `Blockchain` | Worldwide Remote | 2026-11-04 |
 | **[Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680)** | Destination Careers | `Fullstack` | `Education` `Coordinator` `Exec` | South Carolina | 2026-11-04 |
 | **[Freelance Writer](https://remotive.com/remote-jobs/writing/freelance-writer-1185979)** | IAPWE | `Fullstack` | - | Worldwide | 2026-11-04 |
-| **[Content Reviewer - United States](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** | TELUS Digital | `AI / Data` | `AI` | USA | 2026-11-04 |
-| **[M&A Praktikum Intern](https://remoteOK.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677)** | Vogel | `Fullstack` | `Testing` `Marketing` `Exec` | MÃ¼nchen | 2026-11-03 |
-| **[Paid Media Manager US ](https://remoteOK.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675)** | Kyra | `AI / Data` | `Exec` `Testing` `Marketing` | US | 2026-11-03 |
 <!-- JOBS_END -->
 
 ---

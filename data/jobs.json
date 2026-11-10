@@ -1,5 +1,43 @@
 [
   {
+    "id": "0c72eedb216b",
+    "title": "Recruiting Coordinator",
+    "company": "Pebl",
+    "url": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708",
+    "location": "Worldwide Remote",
+    "date": "2026-11-09",
+    "category": "Backend",
+    "tags": [
+      "Coordinator",
+      "Marketing",
+      "Exec",
+      "Golang",
+      "Medical",
+      "Recruiter"
+    ],
+    "salary": "$114,000,000 - $140,000,000 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "937bd32e4a54",
+    "title": "Web3 Business Development",
+    "company": "CertiK",
+    "url": "https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707",
+    "location": "Worldwide Remote",
+    "date": "2026-11-09",
+    "category": "AI / Data",
+    "tags": [
+      "Crypto",
+      "Web3",
+      "Blockchain",
+      "Defi",
+      "Infosec",
+      "Consulting"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "83950a2d706d",
     "title": "Full-Stack Platform Engineer",
     "company": "Edgewater Federal Solutions, Inc.",
@@ -102,6 +140,18 @@
     "source": "RemoteOK"
   },
   {
+    "id": "2422fc6e49af",
+    "title": "Inside Sales Contractor",
+    "company": "Credit Wellness, LLC",
+    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "location": "Worldwide",
+    "date": "2026-11-08",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "OTE $25k - $35k",
+    "source": "Remotive"
+  },
+  {
     "id": "f7ef3c8a803e",
     "title": "AI Developer",
     "company": "Salvo Software",
@@ -143,12 +193,12 @@
     "date": "2026-11-06",
     "category": "Fullstack",
     "tags": [
-      "Other",
-      "Crypto",
       "Finance",
-      "Remote work",
-      "Remote",
-      "Junior"
+      "Analyst",
+      "Junior",
+      "Part time",
+      "Crypto",
+      "Other"
     ],
     "salary": "$60,000 - $80,000 USD",
     "source": "RemoteOK"
@@ -1025,41 +1075,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "81541c1b7049",
-    "title": "Solutions Engineer",
-    "company": "Onebrief",
-    "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
-    "location": "Worldwide Remote",
-    "date": "2026-10-24",
-    "category": "Fullstack",
-    "tags": [
-      "Design",
-      "Ansible",
-      "Grafana",
-      "Sys admin",
-      "Infosec",
-      "Python"
-    ],
-    "salary": "$180,000 - $220,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "75f1ab40fce3",
-    "title": "Travel Support Specialist",
-    "company": "Aisles &amp; Abroad",
-    "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
-    "location": "Seattle, Washington",
-    "date": "2026-10-23",
-    "category": "Fullstack",
-    "tags": [
-      "Travel",
-      "Education",
-      "Non tech"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "b57951f4b9f0",
     "title": "Development Manager",
     "company": "Aquifer",
@@ -1155,6 +1170,32 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "422b5574751c",
+    "title": "Freelance Marketo Email Engineer",
+    "company": "Current",
+    "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "AI / Data",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "97953c35fed5",
+    "title": "Director, AI-Enabled Fraud Prevention & Investigations",
+    "company": "Clover Health",
+    "url": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "d88124743793",
     "title": "Senior Security Engineer, Detection & Response",
     "company": "Flexport",
@@ -1162,6 +1203,18 @@
     "location": "Worldwide / Remote",
     "date": "2026-10-19",
     "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "c7cd60c6a998",
+    "title": "Senior Software Engineer, Product Platform",
+    "company": "Lithic",
+    "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-18",
+    "category": "DevOps / Cloud",
     "tags": [],
     "salary": null,
     "source": "WeWorkRemotely"
@@ -1561,50 +1614,6 @@
     "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
     "location": "Worldwide / Remote",
     "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "ea5264cdf21b",
-    "title": "Software Engineer - Data Platform",
-    "company": "Vercel",
-    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-11",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "dc4b044a37d6",
-    "title": "Software Engineer, Backend",
-    "company": "Vercel",
-    "url": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-11",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Javascript",
-      "Typescript",
-      "Node",
-      "Sql",
-      "Aws"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "deba05ac5f4c",
-    "title": "Client Success Manager",
-    "company": "Maven Clinic",
-    "url": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-11",
     "category": "Fullstack",
     "tags": [],
     "salary": null,
