@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-11-10T14:41:30.211541+00:00",
-  "total_jobs": 108,
+  "last_updated": "2026-11-10T23:05:51.772247+00:00",
+  "total_jobs": 109,
   "top_tags": {
     "AI": 24,
     "Exec": 19,
-    "Dev": 18,
-    "Marketing": 12,
+    "Dev": 17,
     "Design": 12,
-    "Education": 9,
-    "Technical": 8,
-    "Finance": 8,
-    ".net": 8,
+    "Marketing": 11,
+    "Education": 10,
+    ".net": 9,
+    "Finance": 9,
+    "Technical": 9,
+    "Rails": 8,
     "Docker": 7,
-    "Rails": 7,
     "Sys admin": 6,
-    "Python": 6,
-    "Infosec": 5,
-    "Saas": 5,
     "React": 5,
-    "Javascript": 5,
+    "Infosec": 5,
+    "Python": 5,
+    "Saas": 5,
     "Travel": 5,
     "Devops": 5,
-    "Typescript": 4
+    "Javascript": 4,
+    "GO": 4
   },
   "categories": {
-    "Backend": 1,
-    "AI / Data": 41,
+    "AI / Data": 43,
     "DevOps / Cloud": 13,
     "Fullstack": 49,
-    "Frontend": 4
+    "Backend": 1,
+    "Frontend": 3
   }
 }

@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-18_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-12_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-9_vacantes-indigo) ![Technical](https://img.shields.io/badge/Technical-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![.net](https://img.shields.io/badge/.net-9_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-9_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,15 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-10 14:41 UTC** | Ofertas activas monitoreadas: **108***
+*Última actualización automática: **2026-11-10 23:05 UTC** | Ofertas activas monitoreadas: **109***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1)** | Knack | `AI / Data` | `.net` `Rails` | Worldwide / Remote | 2026-11-10 |
+| **[Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713)** | Buoyant | `DevOps / Cloud` | `Golang` `Dev` `Senior` | Worldwide Remote | 2026-11-09 |
+| **[HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711)** | Extend Your Team | `Fullstack` | `Design` `C sharp` `Amazon` | Worldwide Remote | 2026-11-09 |
+| **[Senior Agentic AI Engineer NDA](https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710)** | GT | `AI / Data` | `Design` `React` `Sys admin` | Warsaw | 2026-11-09 |
+| **[Telehealth Endocrinologist Evenings Fridays and or Weekends](https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709)** | Allara | `Fullstack` | `Education` `Technical` `Video` | Worldwide Remote | 2026-11-09 |
 | **[Recruiting Coordinator](https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-pebl-1137708)** | Pebl | `Backend` | `Coordinator` `Marketing` `Exec` | Worldwide Remote | 2026-11-09 |
 | **[Web3 Business Development](https://remoteOK.com/remote-jobs/remote-web3-business-development-certik-1137707)** | CertiK | `AI / Data` | `Crypto` `Web3` `Blockchain` | Worldwide Remote | 2026-11-09 |
 | **[Full-Stack Platform Engineer](https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer)** | Edgewater Federal Solutions, Inc. | `DevOps / Cloud` | - | Worldwide / Remote | 2026-11-09 |
@@ -57,11 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690)** | Toptal | `AI / Data` | `Docker` `Git` `Supply chain` | Anywhere in the World | 2026-11-05 |
 | **[ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689)** | Toptal | `AI / Data` | `Docker` `Git` `Llm` | Anywhere in the World | 2026-11-05 |
 | **[Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** | Lemon.io | `Frontend` | `Engineer` `Dev` `Full time` | Worldwide Remote | 2026-11-05 |
-| **[Senior Staff Infrastructure & Security Engineer](https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687)** | CivilGrid | `DevOps / Cloud` | `Infosec` `Design` `Dev` | Boston | 2026-11-05 |
-| **[AI Content Reviewer Video Annotation](https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686)** | iMerit | `AI / Data` | `Content writing` `Ai` `Other` | Worldwide Remote | 2026-11-04 |
-| **[Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)** | Claims | `AI / Data` | `Dev` `Ai` `Blockchain` | Worldwide Remote | 2026-11-04 |
-| **[Entry Level Scheduling &amp; Coordinating Reservations Online](https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680)** | Destination Careers | `Fullstack` | `Education` `Coordinator` `Exec` | South Carolina | 2026-11-04 |
-| **[Freelance Writer](https://remotive.com/remote-jobs/writing/freelance-writer-1185979)** | IAPWE | `Fullstack` | - | Worldwide | 2026-11-04 |
 <!-- JOBS_END -->
 
 ---

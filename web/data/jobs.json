@@ -1,5 +1,95 @@
 [
   {
+    "id": "a3b293adf305",
+    "title": "Cloud Engineer",
+    "company": "Knack",
+    "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
+    "location": "Worldwide / Remote",
+    "date": "2026-11-10",
+    "category": "AI / Data",
+    "tags": [
+      ".net",
+      "Rails"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "ce6d2e4afa19",
+    "title": "Senior Software Engineer â Kubernetes Control Plane",
+    "company": "Buoyant",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
+    "location": "Worldwide Remote",
+    "date": "2026-11-09",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Golang",
+      "Dev",
+      "Senior",
+      "Engineer",
+      "Digital nomad",
+      "Kubernetes"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "051e4dbb2789",
+    "title": "HIL Support Specialist",
+    "company": "Extend Your Team",
+    "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+    "location": "Worldwide Remote",
+    "date": "2026-11-09",
+    "category": "Fullstack",
+    "tags": [
+      "Design",
+      "C sharp",
+      "Amazon",
+      "Dev",
+      "Finance",
+      "C"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "38a7c6fd303c",
+    "title": "Senior Agentic AI Engineer NDA",
+    "company": "GT",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
+    "location": "Warsaw",
+    "date": "2026-11-09",
+    "category": "AI / Data",
+    "tags": [
+      "Design",
+      "React",
+      "Sys admin",
+      "Infosec",
+      "Python",
+      "Consulting"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "6c21a0e74d49",
+    "title": "Telehealth Endocrinologist Evenings Fridays and or Weekends",
+    "company": "Allara",
+    "url": "https://remoteOK.com/remote-jobs/remote-telehealth-endocrinologist-evenings-fridays-and-or-weekends-allara-1137709",
+    "location": "Worldwide Remote",
+    "date": "2026-11-09",
+    "category": "Fullstack",
+    "tags": [
+      "Education",
+      "Technical",
+      "Video",
+      "Medical",
+      "Internship"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "0c72eedb216b",
     "title": "Recruiting Coordinator",
     "company": "Pebl",
@@ -844,25 +934,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "e4dc1f4c55bd",
-    "title": "Cloud Engineer Automation",
-    "company": "Smile Digital Health",
-    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-    "location": "Toronto, Ontario",
-    "date": "2026-10-29",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Design",
-      "Grafana",
-      "Infosec",
-      "Python",
-      "Marketing",
-      "Dev"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "0141e497b061",
     "title": "Principal Data Engineer",
     "company": "ZoomInfo Technologies LLC",
@@ -892,21 +963,6 @@
     ],
     "salary": "$3.5k–$5k/month",
     "source": "Remotive"
-  },
-  {
-    "id": "96564c66658e",
-    "title": "Front End Developer",
-    "company": "Cambridge Information Group",
-    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
-    "location": "Worldwide Remote",
-    "date": "2026-10-28",
-    "category": "Fullstack",
-    "tags": [
-      "Front end",
-      "Other"
-    ],
-    "salary": "$80,000 - $100,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "abff4951661e",
@@ -956,25 +1012,6 @@
     ],
     "salary": null,
     "source": "Remotive"
-  },
-  {
-    "id": "19b383a3a655",
-    "title": "Senior Software Engineer LATAM",
-    "company": "Wagmo",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-    "location": "Worldwide Remote",
-    "date": "2026-10-26",
-    "category": "Frontend",
-    "tags": [
-      "Dev",
-      "Design",
-      "React",
-      "Sys admin",
-      "Python",
-      "Django"
-    ],
-    "salary": "$100,000 - $140,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "1b502e823a3a",
@@ -1028,25 +1065,6 @@
     ],
     "salary": null,
     "source": "Remotive"
-  },
-  {
-    "id": "9551e6db7514",
-    "title": "Senior Software Engineer",
-    "company": "Klardaten",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
-    "location": "Worldwide Remote",
-    "date": "2026-10-25",
-    "category": "Fullstack",
-    "tags": [
-      "Dev",
-      "Senior",
-      "Javascript",
-      "Typescript",
-      "Full stack",
-      "Api"
-    ],
-    "salary": "$80,000 - $100,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "420b7723eff6",
