@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-19_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-17_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-12_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-11_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![.net](https://img.shields.io/badge/.net-9_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-9_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-14_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-10_vacantes-indigo) ![.net](https://img.shields.io/badge/.net-9_vacantes-indigo) ![Rails](https://img.shields.io/badge/Rails-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,7 +33,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-10 23:05 UTC** | Ofertas activas monitoreadas: **109***
+*Última actualización automática: **2026-11-11 05:45 UTC** | Ofertas activas monitoreadas: **109***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|

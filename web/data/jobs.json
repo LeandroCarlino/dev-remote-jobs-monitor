@@ -566,25 +566,6 @@
     "source": "RemoteOK"
   },
   {
-    "id": "eb97acec5456",
-    "title": "Sales Operations Analyst",
-    "company": "Calabrio",
-    "url": "https://remoteOK.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
-    "location": "Worldwide Remote",
-    "date": "2026-11-03",
-    "category": "Fullstack",
-    "tags": [
-      "Analyst",
-      "Saas",
-      "Salesforce",
-      "Education",
-      "Dev",
-      "Marketing"
-    ],
-    "salary": "$75,000 - $75,000 USD",
-    "source": "RemoteOK"
-  },
-  {
     "id": "7734b1a8419e",
     "title": "Tech lead",
     "company": "Ringbook Limited",
@@ -599,44 +580,6 @@
       "Saas"
     ],
     "salary": "$40,000 - $50,000 USD",
-    "source": "RemoteOK"
-  },
-  {
-    "id": "5a9ec9292611",
-    "title": "Senior Property Manager ENG",
-    "company": "StaffRight",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
-    "location": "Worldwide Remote",
-    "date": "2026-11-03",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Hr",
-      "Technical",
-      "Dev",
-      "Travel",
-      "Finance"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "d155ac49ac15",
-    "title": "Tax Manager Private Client",
-    "company": "Aprio",
-    "url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-    "location": "Scotch Plains, NJ",
-    "date": "2026-11-03",
-    "category": "Fullstack",
-    "tags": [
-      "Exec",
-      "Education",
-      "Consulting",
-      "Technical",
-      "Dev",
-      "Marketing"
-    ],
-    "salary": null,
     "source": "RemoteOK"
   },
   {
@@ -934,6 +877,25 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "e4dc1f4c55bd",
+    "title": "Cloud Engineer Automation",
+    "company": "Smile Digital Health",
+    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "location": "Toronto, Ontario",
+    "date": "2026-10-29",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Design",
+      "Grafana",
+      "Infosec",
+      "Python",
+      "Marketing",
+      "Dev"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "0141e497b061",
     "title": "Principal Data Engineer",
     "company": "ZoomInfo Technologies LLC",
@@ -963,6 +925,21 @@
     ],
     "salary": "$3.5k–$5k/month",
     "source": "Remotive"
+  },
+  {
+    "id": "96564c66658e",
+    "title": "Front End Developer",
+    "company": "Cambridge Information Group",
+    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
+    "location": "Worldwide Remote",
+    "date": "2026-10-28",
+    "category": "Fullstack",
+    "tags": [
+      "Front end",
+      "Other"
+    ],
+    "salary": "$80,000 - $100,000 USD",
+    "source": "RemoteOK"
   },
   {
     "id": "abff4951661e",
@@ -1012,6 +989,25 @@
     ],
     "salary": null,
     "source": "Remotive"
+  },
+  {
+    "id": "19b383a3a655",
+    "title": "Senior Software Engineer LATAM",
+    "company": "Wagmo",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
+    "location": "Worldwide Remote",
+    "date": "2026-10-26",
+    "category": "Frontend",
+    "tags": [
+      "Dev",
+      "Design",
+      "React",
+      "Sys admin",
+      "Python",
+      "Django"
+    ],
+    "salary": "$100,000 - $140,000 USD",
+    "source": "RemoteOK"
   },
   {
     "id": "1b502e823a3a",
