@@ -33,7 +33,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-11 05:45 UTC** | Ofertas activas monitoreadas: **109***
+*Última actualización automática: **2026-11-11 13:56 UTC** | Ofertas activas monitoreadas: **105***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|

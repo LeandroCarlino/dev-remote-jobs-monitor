@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T05:45:05.388471+00:00",
-  "total_jobs": 109,
+  "last_updated": "2026-11-11T13:56:54.989678+00:00",
+  "total_jobs": 105,
   "top_tags": {
     "AI": 24,
     "Exec": 17,
@@ -17,17 +17,17 @@
     "Docker": 7,
     "React": 6,
     "Infosec": 6,
+    "Javascript": 5,
     "Devops": 5,
     "Saas": 4,
-    "Javascript": 4,
     "Travel": 4,
-    "GO": 4
+    "Typescript": 4
   },
   "categories": {
     "AI / Data": 43,
     "DevOps / Cloud": 14,
-    "Fullstack": 47,
-    "Backend": 1,
+    "Fullstack": 42,
+    "Backend": 2,
     "Frontend": 4
   }
 }

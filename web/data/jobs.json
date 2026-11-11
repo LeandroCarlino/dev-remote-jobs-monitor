@@ -1184,6 +1184,23 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "5acef2ed53c8",
+    "title": "Senior Backend Developer (Node.js / Nest.js)",
+    "company": "Proxify AB",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "Backend",
+    "tags": [
+      "Javascript",
+      "Typescript",
+      "Node",
+      "Graphql"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "422b5574751c",
     "title": "Freelance Marketo Email Engineer",
     "company": "Current",
@@ -1570,66 +1587,6 @@
     "tags": [
       "AI"
     ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "181598218487",
-    "title": "Full-Stack E-commerce Developer with Sage X3 Experience",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "87c97e90ccf2",
-    "title": "Associate Talent Acquisition Partner, Tech",
-    "company": "Keeper Security",
-    "url": "https://weworkremotely.com/remote-jobs/keeper-security-associate-talent-acquisition-partner-tech",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "e5bfb6d6d2e7",
-    "title": "Analyst Relations Manager",
-    "company": "Keeper Security",
-    "url": "https://weworkremotely.com/remote-jobs/keeper-security-analyst-relations-manager",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "d7db49eefd8f",
-    "title": "Senior Engineer (.NET)",
-    "company": "Current",
-    "url": "https://weworkremotely.com/remote-jobs/current-senior-engineer-net",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "58c11475dbeb",
-    "title": "Enterprise Security Sales Specialist",
-    "company": "Datadog",
-    "url": "https://weworkremotely.com/remote-jobs/datadog-enterprise-security-sales-specialist",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "Fullstack",
-    "tags": [],
     "salary": null,
     "source": "WeWorkRemotely"
   },
