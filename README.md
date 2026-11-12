@@ -29,15 +29,15 @@
 
 ## El problema
 
-Las búsquedas remotas globales están llenas de ofertas que no son de desarrollo y de puestos que no admiten Latam. Los tableros locales, en cambio, casi nunca tienen API. Este repo junta **cinco fuentes abiertas**, filtra lo que no es un rol técnico, deduce la región y publica todo como **JSON y RSS** que cualquiera puede consumir sin registrarse.
+Las búsquedas remotas globales están llenas de ofertas que no son de desarrollo y de puestos que no admiten Latam. Los tableros locales, en cambio, casi nunca tienen API. Este repo junta **siete fuentes abiertas**, filtra lo que no es un rol técnico, deduce la región y el seniority, y publica todo como **JSON y RSS** que cualquiera puede consumir sin registrarse.
 
 ## Qué incluye
 
 | Producto | Datos | Ingeniería |
 |:--|:--|:--|
-| Dashboard con búsqueda, filtros combinables, orden, favoritos y carga por demanda | 5 fuentes abiertas, deduplicadas y normalizadas | 67 tests offline, cero dependencias |
+| Dashboard con búsqueda, filtros combinables, orden, favoritos y carga por demanda | 7 fuentes abiertas, deduplicadas y normalizadas | 81 tests offline, cero dependencias |
 | Fechas en formato argentino y badge `Nuevo` | API JSON + feed RSS públicos | CI en Python 3.12 y 3.13 |
-| Filtro **Latam/AR** y badges de región | Vocabulario controlado de ~75 tecnologías | Guard que impide publicar datos rotos |
+| Filtro **Latam/AR**, nivel de seniority y badges | Vocabulario controlado de ~75 tecnologías | Guard que impide publicar datos rotos |
 
 ## Fuentes
 
@@ -48,50 +48,52 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 | [Remotive](https://remotive.com) | Global | API JSON | Categoría software-dev |
 | [Get on Board](https://www.getonbrd.com) | **Latam** | API v0 pública | Chile, Argentina, Colombia, Perú, México y remoto regional |
 | [Jobicy](https://jobicy.com) | Global con `geo=latam` | API JSON | Empresas que contratan en Argentina y Latam |
+| [Himalayas](https://himalayas.app) | Global | API JSON (cursor) | Sueldos anuales y seniority declarado por el aviso |
+| [Working Nomads](https://www.workingnomads.com) | Global | API JSON | Categoría Development, útil para Europa/Latam |
 
 > [!NOTE]
-> Todas las vacantes enlazan a la publicación original. Jobicy y Get on Board se acreditan acá y en el sitio, como piden sus términos de API. No se scrapea ningún portal que bloquee el acceso automatizado.
+> Todas las vacantes enlazan a la publicación original y cada fuente se acredita acá y en el sitio, como piden sus términos de API. No se scrapea ningún portal que bloquee el acceso automatizado.
 
 <!-- STATS_START -->
 ### Tecnologías con más demanda hoy
 
-![React](https://img.shields.io/badge/React-32%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-29%20vacantes-indigo) ![Go](https://img.shields.io/badge/Go-25%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-25%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-22%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-19%20vacantes-indigo) ![AWS](https://img.shields.io/badge/AWS-18%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-16%20vacantes-indigo)
+![React](https://img.shields.io/badge/React-37%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-35%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-29%20vacantes-indigo) ![Go](https://img.shields.io/badge/Go-25%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-23%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-22%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-19%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-18%20vacantes-indigo)
 
-<sub>308 ofertas activas · 33% con salario publicado · actualizado cada 6 h</sub>
+<sub>361 ofertas activas · 7 fuentes · 31% con salario publicado · actualizado cada 6 h</sub>
 <!-- STATS_END -->
 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-12 07:31 UTC** · Ofertas activas: **308***
+*Última actualización automática: **2026-11-12 07:41 UTC** · Ofertas activas: **361***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Technical Validation Assistant Engineer](https://himalayas.app/companies/e-storage/jobs/technical-validation-assistant-engineer?utm_source=api)** | e-STORAGE | `General` | - | Canada | 12/11/2026 |
+| **[Staff Reltio Data Engineer](https://himalayas.app/companies/opinov8/jobs/staff-reltio-data-engineer?utm_source=api)** | Opinov8 | `AI / Data` | - | Worldwide | 12/11/2026 |
+| **[Sr. Software Engineer, Threat Intelligence](https://himalayas.app/companies/proofpoint/jobs/sr-software-engineer-threat-intelligence?utm_source=api)** | Proofpoint | `General` | - | France, Ireland, Spain, United States | 12/11/2026 |
+| **[Sr. Software Engineer (PHP + React/Typescript)](https://himalayas.app/companies/bloomerang/jobs/sr-software-engineer-php-react-typescript?utm_source=api)** | Bloomerang | `Frontend` | `TypeScript` `React` `PHP` | United States | 12/11/2026 |
+| **[Solutions Architect](https://himalayas.app/companies/verge-io/jobs/solutions-architect-2088013207?utm_source=api)** | Verge.io | `Backend` | - | United Kingdom | 12/11/2026 |
 | **[Software Engineer - Python - Container Images](https://jobicy.com/jobs/150364-software-engineer-python-container-images)** | Canonical | `General` | `Python` | APAC, EMEA, LATAM, Canada, USA | 12/11/2026 |
+| **[Software Engineer (Salesforce)](https://himalayas.app/companies/softdesign/jobs/software-engineer-salesforce?utm_source=api)** | SoftDesign | `General` | `Salesforce` | Brazil | 12/11/2026 |
+| **[Software Engineer](https://himalayas.app/companies/unravel-carbon-pte-ltd/jobs/software-engineer?utm_source=api)** | Unravel Carbon Pte Ltd | `General` | - | Japan | 12/11/2026 |
+| **[Senior Solution Architect, Finance Solutions](https://himalayas.app/companies/servicetrade/jobs/senior-solution-architect-finance-solutions?utm_source=api)** | ServiceTrade | `Backend` | - | United States | 12/11/2026 |
+| **[Senior Solution Architect FO](https://himalayas.app/companies/hitachi-solutions-com/jobs/senior-solution-architect-fo?utm_source=api)** | Hitachi Solutions | `Backend` | - | United States | 12/11/2026 |
+| **[Senior Software Engineer, Partner Integrations](https://himalayas.app/companies/sumara-technology/jobs/senior-software-engineer-partner-integrations?utm_source=api)** | Sumara Technology | `General` | - | United Arab Emirates | 12/11/2026 |
+| **[Senior Site Reliability Engineer](https://himalayas.app/companies/abbvie/jobs/senior-site-reliability-engineer-8595660424?utm_source=api)** | AbbVie | `DevOps / Cloud` | - | United States | 12/11/2026 |
+| **[Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate](https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-775219812?utm_source=api)** | M365Consult | `AI / Data` | `AI` | Pakistan | 12/11/2026 |
 | **[Senior Integration Engineer](https://jobicy.com/jobs/155132-senior-integration-engineer-2)** | Legion | `General` | - | Mexico | 12/11/2026 |
+| **[Senior Go+Angular Engineer](https://himalayas.app/companies/jobsity/jobs/senior-go-angular-engineer?utm_source=api)** | Jobsity | `Frontend` | `Angular` | Argentina, Brazil, Colombia, Mexico | 12/11/2026 |
+| **[Senior Data Scientist – GCP](https://himalayas.app/companies/tecdata-engineering/jobs/senior-data-scientist-gcp?utm_source=api)** | TECDATA ENGINEERING | `AI / Data` | `GCP` | Spain | 12/11/2026 |
+| **[Senior Backend Engineer (Java/Kotlin)](https://himalayas.app/companies/tecdata-engineering/jobs/senior-backend-engineer-java-kotlin?utm_source=api)** | TECDATA ENGINEERING | `Mobile` | `Java` `Kotlin` | Spain | 12/11/2026 |
+| **[QA AUTOMATIZACIÓN SENIOR (FX)](https://himalayas.app/companies/tecdata-engineering/jobs/qa-automatizacion-senior-fx?utm_source=api)** | TECDATA ENGINEERING | `General` | - | Spain | 12/11/2026 |
+| **[Principal Solutions Engineer](https://himalayas.app/companies/twingate/jobs/principal-solutions-engineer?utm_source=api)** | Twingate | `General` | - | United States | 12/11/2026 |
 | **[Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU](https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu)** | Canonical | `General` | - | APAC, LATAM, Canada, China, USA | 12/11/2026 |
-| **[Software Engineer(python)](https://www.getonbrd.com/jobs/software-engineer-python-softtechassociate-remote)** | Softtechassociate | `General` | `Python` | Remote · Fully remote | 11/11/2026 |
-| **[Senior Software Engineer, Observability (Go)](https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote)** | FastCTO | `Backend` | `Go` | Remote · Remote (local) | 11/11/2026 |
-| **[Senior Software Engineer, Data Product](https://jobicy.com/jobs/155044-senior-software-engineer-data-product)** | TRM Labs | `General` | - | LATAM | 11/11/2026 |
-| **[Senior Fullstack Engineer](https://jobicy.com/jobs/161444-senior-fullstack-engineer-4)** | Toptal | `Fullstack` | - | LATAM, Europe | 11/11/2026 |
-| **[Senior Data Analyst](https://jobicy.com/jobs/152859-senior-data-analyst)** | Tremendous | `AI / Data` | - | LATAM, Canada, USA | 11/11/2026 |
-| **[Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe](https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago)** | 23people | `Fullstack` | `AI` `Java` | Chile · Hybrid | 11/11/2026 |
-| **[Full-Stack Engineer (TypeScript, Next.JS, Postgres)](https://www.getonbrd.com/jobs/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote)** | OpsBox AI | `Fullstack` | `TypeScript` `Next.js` `PostgreSQL` | Remote · Remote (local) | 11/11/2026 |
-| **[Full Stack Engineer](https://jobicy.com/jobs/161435-full-stack-engineer-9)** | 3Y Health | `Fullstack` | - | Argentina | 11/11/2026 |
-| **[Full Stack AI Engineer](https://jobicy.com/jobs/161438-full-stack-ai-engineer)** | 3Y Health | `Fullstack` | `AI` | Argentina | 11/11/2026 |
-| **[Founding Engineer](https://jobicy.com/jobs/161432-founding-engineer)** | 3Y Health | `General` | - | Argentina | 11/11/2026 |
-| **[Devops Engineer (Azure)](https://jobicy.com/jobs/161433-devops-engineer-azure)** | Particle41 | `DevOps / Cloud` | `Azure` `DevOps` | Mexico | 11/11/2026 |
-| **[Devops Engineer (AWS)](https://jobicy.com/jobs/161429-devops-engineer-aws)** | Particle41 | `DevOps / Cloud` | `AWS` `DevOps` | Argentina | 11/11/2026 |
-| **[Developer IA (Go/Node.js/React/GCP)](https://www.getonbrd.com/jobs/developer-ia-go-node-react-gcp-agilistik-santiago)** | Agilistik | `DevOps / Cloud` | `React` `Node` `Go` | Chile · Hybrid | 11/11/2026 |
-| **[DevOps Engineer (GCP)](https://jobicy.com/jobs/161436-devops-engineer-gcp)** | Particle41 | `DevOps / Cloud` | `GCP` `DevOps` | Mexico | 11/11/2026 |
-| **[DevOps](https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago)** | Cumplo | `DevOps / Cloud` | `DevOps` | Chile · Hybrid | 11/11/2026 |
-| **[Dev Full-Stack Integraciones [Contractor]](https://www.getonbrd.com/jobs/dev-fullstack-ror-react-integraciones-rankmi-santiago)** | Rankmi | `Fullstack` | - | Remote · Remote (local) | 11/11/2026 |
-| **[Desarrollador/a Front-end React](https://www.getonbrd.com/jobs/desarrollador-a-frontend-react-42labs-santiago)** | 42Labs | `Frontend` | `React` | Chile · Hybrid | 11/11/2026 |
-| **[Desarrollador/a Back-end Python (AWS)](https://www.getonbrd.com/jobs/desarrollador-a-backend-python-aws-42labs-santiago)** | 42Labs | `DevOps / Cloud` | `Python` `AWS` | Chile · Hybrid | 11/11/2026 |
-| **[Data Engineer (Tableau)](https://jobicy.com/jobs/161424-data-engineer-tableau)** | Particle41 | `AI / Data` | - | Argentina | 11/11/2026 |
-| **[AI Product Engineer](https://jobicy.com/jobs/161428-ai-product-engineer)** | 3Y Health | `AI / Data` | `AI` | Argentina | 11/11/2026 |
-| **[Support Engineer (AMER - Weekends)](https://jobicy.com/jobs/152807-support-engineer-amer-weekends)** | Supabase | `General` | - | LATAM, Canada, USA | 10/11/2026 |
-| **[Staff Corporate IT Engineer](https://jobicy.com/jobs/161109-staff-corporate-it-engineer)** | Wellhub | `General` | - | Brazil | 10/11/2026 |
+| **[Identity & CDP Architect (Identity Graph / AdTech) – Remote – Req 71520860](https://himalayas.app/companies/dhaka-technologies-limited-company/jobs/identity-cdp-architect-identity-graph-adtech-remote-req-71520860?utm_source=api)** | Dhaka Technologies Limited Company | `Backend` | - | United States | 12/11/2026 |
+| **[Expert DevOps Engineer](https://himalayas.app/companies/description-ciklum/jobs/expert-devops-engineer?utm_source=api)** | Description Ciklum | `DevOps / Cloud` | `DevOps` | India | 12/11/2026 |
+| **[Digital CRM Architect - BA](https://himalayas.app/companies/sequoia-connect/jobs/digital-crm-architect-ba?utm_source=api)** | Sequoia Connect | `Backend` | - | Mexico | 12/11/2026 |
+| **[Developer Java _React/Typscript](https://himalayas.app/companies/tecdata-engineering/jobs/developer-java-_react-typscript?utm_source=api)** | TECDATA ENGINEERING | `Frontend` | `React` `Java` | Spain | 12/11/2026 |
+| **[Data Scientist - Modeling](https://himalayas.app/companies/machinify/jobs/data-scientist-modeling?utm_source=api)** | Machinify | `AI / Data` | - | United States | 12/11/2026 |
 
 <!-- JOBS_END -->
 
@@ -101,7 +103,7 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 
 ```
 cron cada 6 h ──► update-jobs.yml
-                    ├─ unittest (67 tests, sin red)
+                    ├─ unittest (81 tests, sin red)
                     ├─ src/main.py ──► fetcher.py ──► classify.py
                     │                   (HTTP + parse)  (tags, categoría, región, filtro)
                     ├─ guard: aborta si hay <20 ofertas o una caída >50 %
@@ -148,6 +150,7 @@ const latam = jobs.filter(j => j.region === 'argentina' || j.region === 'latam')
 | `url` | `string` | Link directo a la postulación original |
 | `location` | `string` | Ubicación o restricción geográfica tal como la publica la fuente |
 | `region` | `string` | `argentina`, `latam`, `worldwide`, `usa`, `canada`, `europe`, `spain`, `apac`, `africa` u `other` |
+| `seniority` | `string \| null` | `junior`, `semi`, `senior` o `lead` (null si el aviso no lo indica) |
 | `date` | `string` | `YYYY-MM-DD` (ISO 8601, más reciente primero) |
 | `category` | `string` | `Frontend`, `Backend`, `Fullstack`, `AI / Data`, `DevOps / Cloud`, `Mobile` o `General` |
 | `tags` | `string[]` | Hasta 5 tecnologías del vocabulario controlado |
@@ -175,7 +178,7 @@ El feed trae las últimas 100 vacantes en RSS 2.0. Pegás la URL en Feedly, NetN
 - Web: <https://leandrocarlino.github.io/dev-remote-jobs-monitor/feed.xml>
 - Raw: <https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/feed.xml>
 
-## Región y fechas
+## Región, seniority y fechas
 
 La región se deduce de la ubicación, ignorando acentos:
 
@@ -186,12 +189,14 @@ La región se deduce de la ubicación, ignorando acentos:
 
 Get on Board es un tablero regional: cuando dice "Remote", se marca `latam` (remoto dentro de Latam), no `worldwide`.
 
+El **seniority** sale de lo que declara la fuente (Himalayas lo publica) y, si no viene, se deduce del título con límites de palabra: `Senior Backend` → senior, `Semi Senior` / `SSR` → semi, `Jr` / `Trainee` → junior, `Staff` / `Tech Lead` / `Engineering Manager` → lead. "Semi Senior" se evalúa antes que "Senior" para no comerse el prefijo.
+
 La API mantiene `date` en ISO 8601 para que sea fácil de ordenar; el dashboard lo muestra como **dd/mm/yyyy**, con la fecha relativa en el tooltip y un badge **Nuevo** para lo publicado en los últimos 2 días.
 
 ## El dashboard
 
 - Búsqueda instantánea (con debounce) por puesto, empresa, tecnología o ubicación.
-- Filtros combinables de categoría, región (Latam/AR) y fuente.
+- Filtros combinables de categoría, región (Latam/AR), fuente y **seniority** (junior, semi, senior, lead).
 - Orden por fecha, salario o empresa.
 - **Carga por demanda**: la página arranca con 40 tarjetas y un botón **Ver las N restantes** que muestra todas de una vez, así el footer queda cerca.
 - **Favoritos** en `localStorage`: marcás con la estrella y volvés cuando quieras.
@@ -208,7 +213,7 @@ La API mantiene `date` en ISO 8601 para que sea fácil de ordenar; el dashboard 
 | Etiquetas basura (`Medical`, `Travel`) | Vocabulario cerrado de ~75 tecnologías |
 | Texto mal codificado por la fuente (`â€”`) | Reparación de mojibake en la normalización |
 | Un feed roto vacía la API | Guard: aborta sin escribir si hay <20 ofertas o una caída >50 % |
-| Sin tests | 67 tests con `unittest` y fixtures congeladas |
+| Sin tests | 81 tests con `unittest` y fixtures congeladas |
 
 ## Correr en local
 
@@ -234,13 +239,13 @@ python -m http.server 8000
 ```
 src/
   classify.py   reglas puras: tags, categorías, región y filtro dev (testeable)
-  fetcher.py    HTTP + parsers de las 5 fuentes + dedupe
+  fetcher.py    HTTP + parsers de las 7 fuentes + dedupe
   main.py       orquestación, guard, stats, README y feed RSS
 tests/
   test_classify.py     reglas de clasificación y regiones
   test_fetcher.py      parsers con fixtures, dedupe, guard, README y RSS
   test_dependencies.py verifica que no haya imports de terceros
-  fixtures/            payloads congelados de las 5 fuentes
+  fixtures/            payloads congelados de las 7 fuentes
 web/
   index.html    dashboard estático (Tailwind CDN + Lucide)
 data/
@@ -264,10 +269,11 @@ docs/
 
 ## Roadmap
 
-- [ ] Campo `seniority` (junior / semi / senior) parseado del título.
+- [x] Campo `seniority` (junior / semi / senior / lead) y filtro en el dashboard.
+- [x] Más fuentes abiertas: Himalayas y Working Nomads.
 - [ ] Alertas por Telegram o Discord leyendo el JSON.
-- [ ] Más fuentes abiertas: Himalayas, Working Nomads.
 - [ ] Filtros compartibles por URL (`?region=latam&cat=backend`).
+- [ ] Filtro por salario mínimo.
 - [ ] PWA instalable con datos offline.
 
 ## Contribuir

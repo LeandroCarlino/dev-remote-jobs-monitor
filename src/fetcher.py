@@ -19,6 +19,7 @@ import xml.etree.ElementTree as ET
 from collections.abc import Sequence
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
+from urllib.parse import quote
 
 try:  # script execution (python src/main.py) and package import both work
     from .classify import (
@@ -26,6 +27,7 @@ try:  # script execution (python src/main.py) and package import both work
         clean_html,
         detect_category,
         detect_region,
+        detect_seniority,
         extract_tags,
         is_dev_job,
         normalize,
@@ -37,6 +39,7 @@ except ImportError:  # pragma: no cover
         clean_html,
         detect_category,
         detect_region,
+        detect_seniority,
         extract_tags,
         is_dev_job,
         normalize,
@@ -141,6 +144,8 @@ def build_job(
     source: str,
     hints: Sequence[str] | None = None,
     region: str | None = None,
+    seniority: str | None = None,
+    seniority_hints: Sequence[str] | None = None,
 ) -> dict:
     """Assemble one listing with the canonical schema (stable for API users)."""
     clean_title = shorten(clean_html(title), 140) or "Untitled role"
@@ -154,6 +159,7 @@ def build_job(
         "url": clean_url if clean_url.startswith("http") else "",
         "location": clean_location,
         "region": region or detect_region(clean_location),
+        "seniority": seniority or detect_seniority(clean_title, seniority_hints),
         "date": date,
         "category": detect_category(clean_title, tags, hints) or DEFAULT_CATEGORY,
         "tags": tags,
@@ -510,6 +516,137 @@ def fetch_jobicy() -> tuple[list[dict], int]:
 
 
 # --------------------------------------------------------------------------- #
+# Himalayas (global remote, no key)
+# --------------------------------------------------------------------------- #
+HIMALAYAS_URL = "https://himalayas.app/jobs/api?limit=20"
+HIMALAYAS_MAX_PAGES = 8
+HIMALAYAS_LIMIT = 120
+
+
+def parse_himalayas(payload: object) -> list[dict]:
+    """Normalize a Himalayas API page (global, US-heavy, no key required)."""
+    if not isinstance(payload, dict):
+        return []
+
+    jobs: list[dict] = []
+    for item in payload.get("jobs") or []:
+        if not isinstance(item, dict):
+            continue
+
+        title = clean_html(item.get("title") or "")
+        url = (item.get("applicationLink") or item.get("guid") or "").strip()
+        if not title or not url:
+            continue
+
+        parents = [str(parent) for parent in (item.get("parentCategories") or [])]
+        if not is_dev_job(title, parents):
+            continue
+
+        period = normalize(item.get("salaryPeriod") or "annual")
+        salary = (
+            format_salary(
+                item.get("minSalary"),
+                item.get("maxSalary"),
+                currency=item.get("currency") or None,
+            )
+            if period in {"annual", "yearly", ""}
+            else None
+        )
+
+        locations = [
+            str(place) for place in (item.get("locationRestrictions") or []) if place
+        ]
+        jobs.append(
+            build_job(
+                title=title,
+                company=item.get("companyName") or "Unknown",
+                url=url,
+                location=", ".join(locations) or "Worldwide",
+                date=_epoch_date(item.get("pubDate")),
+                tags=extract_tags(title),
+                salary=salary,
+                source="Himalayas",
+                seniority_hints=item.get("seniority") or [],
+            )
+        )
+        if len(jobs) >= HIMALAYAS_LIMIT:
+            break
+
+    return jobs
+
+
+def fetch_himalayas() -> tuple[list[dict], int]:
+    jobs: list[dict] = []
+    seen = 0
+    cursor = None
+    for _ in range(HIMALAYAS_MAX_PAGES):
+        url = HIMALAYAS_URL + (f"&cursor={quote(cursor, safe='')}" if cursor else "")
+        payload = json.loads(fetch_url(url))
+        if not isinstance(payload, dict):
+            break
+        seen += len(payload.get("jobs") or [])
+        jobs.extend(parse_himalayas(payload))
+        cursor = payload.get("nextCursor")
+        if not cursor or len(jobs) >= HIMALAYAS_LIMIT:
+            break
+    return jobs[:HIMALAYAS_LIMIT], max(seen - len(jobs), 0)
+
+
+# --------------------------------------------------------------------------- #
+# Working Nomads (global remote, no key)
+# --------------------------------------------------------------------------- #
+WORKINGNOMADS_URL = "https://www.workingnomads.com/api/exposed_jobs/"
+
+
+def parse_workingnomads(payload: object) -> list[dict]:
+    """Normalize the Working Nomads feed, keeping the Development category."""
+    if not isinstance(payload, list):
+        return []
+
+    jobs: list[dict] = []
+    for item in payload:
+        if not isinstance(item, dict):
+            continue
+        if normalize(item.get("category_name") or "") != "development":
+            continue
+
+        title = clean_html(item.get("title") or "")
+        url = (item.get("url") or "").strip()
+        if not title or not url:
+            continue
+
+        seeds = [
+            tag.strip() for tag in (item.get("tags") or "").split(",") if tag.strip()
+        ]
+        if not is_dev_job(title, seeds):
+            continue
+
+        jobs.append(
+            build_job(
+                title=title,
+                company=item.get("company_name") or "Unknown",
+                url=url,
+                location=item.get("location") or "Remote",
+                date=_iso_date(str(item.get("pub_date") or "")),
+                tags=extract_tags(title, seeds),
+                salary=None,
+                source="Working Nomads",
+            )
+        )
+        if len(jobs) >= MAX_PER_SOURCE:
+            break
+
+    return jobs
+
+
+def fetch_workingnomads() -> tuple[list[dict], int]:
+    payload = json.loads(fetch_url(WORKINGNOMADS_URL))
+    jobs = parse_workingnomads(payload)
+    total = len(payload) if isinstance(payload, list) else 0
+    return jobs, total - len(jobs)
+
+
+# --------------------------------------------------------------------------- #
 # Aggregation
 # --------------------------------------------------------------------------- #
 def dedupe(jobs: list[dict]) -> list[dict]:
@@ -533,6 +670,8 @@ def get_all_jobs() -> list[dict]:
         ("Remotive", fetch_remotive),
         ("Get on Board", fetch_getonbrd),
         ("Jobicy", fetch_jobicy),
+        ("Himalayas", fetch_himalayas),
+        ("Working Nomads", fetch_workingnomads),
     )
 
     collected: list[dict] = []

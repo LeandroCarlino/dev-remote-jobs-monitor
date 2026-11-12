@@ -56,6 +56,9 @@ def build_stats(jobs: list[dict]) -> dict:
         "regions": dict(
             Counter(job.get("region", "other") for job in jobs).most_common()
         ),
+        "seniority": dict(
+            Counter(job.get("seniority") or "unknown" for job in jobs).most_common()
+        ),
         "sources": dict(
             Counter(job.get("source", "Unknown") for job in jobs).most_common()
         ),
@@ -124,10 +127,12 @@ def generate_stats_block(stats: dict) -> str:
         for tag, count in list(stats.get("top_tags", {}).items())[:README_BADGE_COUNT]
     )
     coverage = stats.get("salary_coverage", 0)
+    sources = len(stats.get("sources", {}))
     return (
         "\n### Tecnologías con más demanda hoy\n\n"
         f"{badges}\n\n"
         f"<sub>{stats['total_jobs']} ofertas activas · "
+        f"{sources} fuentes · "
         f"{coverage}% con salario publicado · "
         f"actualizado cada 6 h</sub>\n"
     )

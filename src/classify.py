@@ -323,6 +323,8 @@ _REGION_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             r"\bzurich\b",
             r"\bmilan\b",
             r"\bprague\b",
+            r"\bcet\b",
+            r"\bcest\b",
         ),
     ),
     (
@@ -400,6 +402,114 @@ _REGION_PATTERNS = tuple(
     for region, patterns in _REGION_RULES
 )
 DEFAULT_REGION = "other"
+
+
+# --------------------------------------------------------------------------- #
+# Seniority
+# --------------------------------------------------------------------------- #
+SENIORITY_LEVELS = ("junior", "semi", "senior", "lead")
+_SENIORITY_RANK = {level: index for index, level in enumerate(SENIORITY_LEVELS)}
+
+# Source labels (Himalayas sends e.g. ["Mid-level"]) -> our buckets.
+_SENIORITY_HINTS = {
+    "entry-level": "junior",
+    "entry level": "junior",
+    "internship": "junior",
+    "intern": "junior",
+    "junior": "junior",
+    "mid-level": "semi",
+    "mid level": "semi",
+    "associate": "semi",
+    "semi": "semi",
+    "senior": "senior",
+    "lead": "lead",
+    "staff": "lead",
+    "principal": "lead",
+    "director": "lead",
+    "executive": "lead",
+    "cto": "lead",
+    "head": "lead",
+}
+
+_SENIORITY_TITLE_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
+    (
+        "lead",
+        (
+            r"\blead\b",
+            r"\blider\b",
+            r"\bhead of\b",
+            r"\bdirector\b",
+            r"\bprincipal\b",
+            r"\bstaff\b",
+            r"\bmanager\b",
+            r"\bcto\b",
+            r"\bchief\b",
+        ),
+    ),
+    (
+        "semi",
+        (
+            r"\bsemi[\s\-]?senior\b",
+            r"\bsemi\b",
+            r"\bsemisenior\b",
+            r"\bssr\b",
+            r"\bmid[\s\-]?level\b",
+            r"\bmid\b",
+            r"\bintermedio\b",
+        ),
+    ),
+    (
+        "junior",
+        (
+            r"\bjunior\b",
+            r"\bjr\b",
+            r"\btrainee\b",
+            r"\bintern\b",
+            r"\bpasante\b",
+            r"\bbecari[oa]\b",
+            r"\bentry[\s\-]?level\b",
+            r"\bsin experiencia\b",
+            r"\baprendiz\b",
+        ),
+    ),
+    ("senior", (r"\bsenior\b", r"\bsr\b")),
+)
+_SENIORITY_TITLE_PATTERNS = tuple(
+    (level, tuple(re.compile(p) for p in patterns))
+    for level, patterns in _SENIORITY_TITLE_RULES
+)
+
+
+def _seniority_from_hints(hints: Sequence[str] | None) -> str | None:
+    found = []
+    for hint in hints or []:
+        level = _SENIORITY_HINTS.get(normalize(hint))
+        if level:
+            found.append(level)
+    return max(found, key=lambda level: _SENIORITY_RANK[level]) if found else None
+
+
+def detect_seniority(
+    title: str,
+    hints: Sequence[str] | None = None,
+) -> str | None:
+    """Bucket a listing into junior / semi / senior / lead.
+
+    ``hints`` are the labels the source assigns (Himalayas exposes them); they
+    win over the title because they come from the poster. Titles are matched
+    with word boundaries, and "Semi Senior" is checked before "Senior".
+    """
+    from_hints = _seniority_from_hints(hints)
+    if from_hints:
+        return from_hints
+
+    haystack = fold(title)
+    if not haystack:
+        return None
+    for level, patterns in _SENIORITY_TITLE_PATTERNS:
+        if _matches(patterns, haystack):
+            return level
+    return None
 
 
 def detect_region(location: str | None, default: str = DEFAULT_REGION) -> str:

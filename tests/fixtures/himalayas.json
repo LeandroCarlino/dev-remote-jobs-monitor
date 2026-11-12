@@ -1,0 +1,72 @@
+{
+  "comments": "Frozen sample of the Himalayas API shape.",
+  "updatedAt": "2026-11-12T06:36:59.091098Z",
+  "offset": 0,
+  "limit": 20,
+  "totalCount": 118439,
+  "nextCursor": "MjAyNi0xMS0xMlQwNjozNjo1OS4wOTEwOThafDI1",
+  "jobs": [
+    {
+      "guid": "https://himalayas.app/companies/acme/jobs/senior-backend-engineer-java-kotlin",
+      "applicationLink": "https://himalayas.app/companies/acme/jobs/senior-backend-engineer-java-kotlin?utm_source=api",
+      "title": "Senior Backend Engineer (Java/Kotlin)",
+      "companyName": "Acme",
+      "companySlug": "acme",
+      "locationRestrictions": ["Spain"],
+      "categories": ["Software-Engineer", "Backend-Developer"],
+      "parentCategories": ["Developer"],
+      "seniority": ["Senior"],
+      "employmentType": "Full Time",
+      "minSalary": "80000",
+      "maxSalary": "120000",
+      "currency": "USD",
+      "salaryPeriod": "annual",
+      "pubDate": 1794465714,
+      "excerpt": "Build payment services in Kotlin."
+    },
+    {
+      "guid": "https://himalayas.app/companies/globex/jobs/data-scientist-modeling",
+      "applicationLink": "https://himalayas.app/companies/globex/jobs/data-scientist-modeling",
+      "title": "Data Scientist | Modeling",
+      "companyName": "Globex",
+      "locationRestrictions": ["United States"],
+      "categories": ["Data-Scientist"],
+      "parentCategories": ["Data Science"],
+      "seniority": ["Mid-level"],
+      "employmentType": "Full Time",
+      "minSalary": null,
+      "maxSalary": null,
+      "currency": null,
+      "salaryPeriod": "annual",
+      "pubDate": 1794465600
+    },
+    {
+      "guid": "https://himalayas.app/companies/initech/jobs/staff-reltio-data-engineer",
+      "applicationLink": "https://himalayas.app/companies/initech/jobs/staff-reltio-data-engineer",
+      "title": "Staff Reltio Data Engineer",
+      "companyName": "Initech",
+      "locationRestrictions": [],
+      "categories": ["Data-Engineer"],
+      "parentCategories": ["Developer"],
+      "seniority": ["Senior"],
+      "employmentType": "Contract",
+      "minSalary": null,
+      "maxSalary": null,
+      "currency": null,
+      "salaryPeriod": "hourly",
+      "pubDate": 1794465500
+    },
+    {
+      "guid": "https://himalayas.app/companies/disco/jobs/regional-sales-executive",
+      "applicationLink": "https://himalayas.app/companies/disco/jobs/regional-sales-executive",
+      "title": "Regional Sales Executive, Washington DC",
+      "companyName": "DISCO",
+      "locationRestrictions": ["United States"],
+      "categories": ["Account-Executive"],
+      "parentCategories": ["Sales"],
+      "seniority": ["Mid-level"],
+      "employmentType": "Full Time",
+      "pubDate": 1794465714
+    }
+  ]
+}

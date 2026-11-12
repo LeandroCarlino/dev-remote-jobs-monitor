@@ -107,10 +107,19 @@
         />
       </div>
 
-      <div class="flex gap-2">
+      <div class="flex flex-wrap gap-2">
         <label class="sr-only" for="source-filter">Fuente</label>
         <select id="source-filter" class="flex-1 sm:flex-none bg-slate-900 border border-slate-800 rounded-xl px-3 py-2.5 text-xs text-slate-300 focus:outline-none focus:border-indigo-500 transition-all">
           <option value="all">Todas las fuentes</option>
+        </select>
+
+        <label class="sr-only" for="seniority-filter">Seniority</label>
+        <select id="seniority-filter" class="flex-1 sm:flex-none bg-slate-900 border border-slate-800 rounded-xl px-3 py-2.5 text-xs text-slate-300 focus:outline-none focus:border-indigo-500 transition-all">
+          <option value="all">Todos los niveles</option>
+          <option value="junior">Junior / Trainee</option>
+          <option value="semi">Semi Senior</option>
+          <option value="senior">Senior</option>
+          <option value="lead">Lead / Staff</option>
         </select>
 
         <label class="sr-only" for="sort-select">Orden</label>
@@ -221,6 +230,7 @@
   <script>
     // Regions counted by the "Latam/AR" filter.
     const LATAM_REGIONS = ['argentina', 'latam'];
+    const SENIORITY_LABELS = { junior: 'Junior', semi: 'Semi Senior', senior: 'Senior', lead: 'Lead/Staff' };
     const PAGE_SIZE = 40;
     const FAV_KEY = 'devjobs:favorites';
 
@@ -228,6 +238,7 @@
     let activeCategory = 'all';
     let activeRegion = null;
     let activeSource = 'all';
+    let activeSeniority = 'all';
     let activeSort = 'newest';
     let onlyFavorites = false;
     let visibleCount = PAGE_SIZE;
@@ -390,6 +401,10 @@
         ? `<span class="badge-pill bg-emerald-500/10 text-emerald-300 border border-emerald-500/20">Nuevo</span>`
         : '';
 
+      const seniorityBadge = job.seniority && SENIORITY_LABELS[job.seniority]
+        ? `<span class="badge-pill bg-slate-800 text-slate-200 border border-slate-700/60">${SENIORITY_LABELS[job.seniority]}</span>`
+        : '';
+
       return `
         <div class="p-4 sm:p-5 bg-slate-900/60 hover:bg-slate-900 border border-slate-800/80 hover:border-slate-700 rounded-2xl transition-all duration-150 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div class="space-y-2 flex-1">
@@ -413,6 +428,7 @@
 
             <div class="flex flex-wrap items-center gap-1.5 pt-1">
               <span class="badge-pill bg-indigo-500/10 text-indigo-300 border border-indigo-500/20 font-semibold">${escapeHtml(job.category || 'Dev')}</span>
+              ${seniorityBadge}
               ${regionBadge}
               ${tagsHtml}
             </div>
@@ -454,6 +470,7 @@
         const matchesCategory = activeCategory === 'all' || j.category === activeCategory;
         const matchesRegion = !activeRegion || LATAM_REGIONS.includes(j.region);
         const matchesSource = activeSource === 'all' || j.source === activeSource;
+        const matchesSeniority = activeSeniority === 'all' || j.seniority === activeSeniority;
         const matchesFavorite = !onlyFavorites || favorites.has(j.id);
         const matchesQuery = !query ||
           (j.title || '').toLowerCase().includes(query) ||
@@ -461,7 +478,7 @@
           (j.tags && j.tags.some(t => t.toLowerCase().includes(query))) ||
           (j.location || '').toLowerCase().includes(query);
 
-        return matchesCategory && matchesRegion && matchesSource && matchesFavorite && matchesQuery;
+        return matchesCategory && matchesRegion && matchesSource && matchesSeniority && matchesFavorite && matchesQuery;
       });
 
       const ordered = sortJobs(filtered);
@@ -528,6 +545,11 @@
 
     document.getElementById('source-filter').addEventListener('change', (event) => {
       activeSource = event.target.value;
+      renderJobs(true);
+    });
+
+    document.getElementById('seniority-filter').addEventListener('change', (event) => {
+      activeSeniority = event.target.value;
       renderJobs(true);
     });
 

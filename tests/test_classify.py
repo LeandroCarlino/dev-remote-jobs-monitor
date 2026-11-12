@@ -9,6 +9,7 @@ from src.classify import (
     clean_html,
     detect_category,
     detect_region,
+    detect_seniority,
     extract_tags,
     is_dev_job,
     shorten,
@@ -130,6 +131,44 @@ class DetectRegionTest(unittest.TestCase):
 
     def test_accents_are_ignored(self):
         self.assertEqual(detect_region("Perú"), detect_region("Peru"))
+
+
+class DetectSeniorityTest(unittest.TestCase):
+    TITLES = (
+        ("Senior Backend Engineer", "senior"),
+        ("Semi Senior Full-Stack Java Developer", "semi"),
+        ("Semisenior Backend", "semi"),
+        ("Desarrollador/a SSR", "semi"),
+        ("Junior Frontend Developer", "junior"),
+        ("Jr. Developer", "junior"),
+        ("Pasante de desarrollo", "junior"),
+        ("Tech Lead", "lead"),
+        ("Staff Software Engineer", "lead"),
+        ("Engineering Manager", "lead"),
+        ("Principal Engineer", "lead"),
+        ("Backend Engineer", None),
+        ("Desarrollador/a Back-end Python", None),
+        ("", None),
+    )
+
+    def test_title_matrix(self):
+        for title, expected in self.TITLES:
+            with self.subTest(title=title):
+                self.assertEqual(detect_seniority(title), expected)
+
+    def test_source_hints_win_over_the_title(self):
+        self.assertEqual(detect_seniority("Staff Engineer", ["Mid-level"]), "semi")
+        self.assertEqual(
+            detect_seniority("Backend Engineer", ["Entry-level"]), "junior"
+        )
+
+    def test_highest_hint_wins_when_a_source_sends_several(self):
+        self.assertEqual(
+            detect_seniority("Engineer", ["Mid-level", "Senior"]), "senior"
+        )
+
+    def test_unknown_hints_fall_back_to_the_title(self):
+        self.assertEqual(detect_seniority("Senior Engineer", ["Whatever"]), "senior")
 
 
 class IsDevJobTest(unittest.TestCase):

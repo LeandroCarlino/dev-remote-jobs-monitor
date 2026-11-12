@@ -14,10 +14,12 @@ from src.fetcher import (
     dedupe,
     format_salary,
     parse_getonbrd,
+    parse_himalayas,
     parse_jobicy,
     parse_remotive,
     parse_remoteok,
     parse_weworkremotely,
+    parse_workingnomads,
 )
 
 FIXTURES = os.path.join(os.path.dirname(__file__), "fixtures")
@@ -79,6 +81,7 @@ class RemoteOkParsingTest(unittest.TestCase):
             "url",
             "location",
             "region",
+            "seniority",
             "date",
             "category",
             "tags",
@@ -236,6 +239,88 @@ class JobicyParsingTest(unittest.TestCase):
 
     def test_date_is_trimmed_to_the_day(self):
         self.assertEqual(self.by_title["Backend Developer"]["date"], "2026-11-10")
+
+
+class HimalayasParsingTest(unittest.TestCase):
+    def setUp(self):
+        self.jobs = parse_himalayas(load_fixture("himalayas.json"))
+        self.by_title = {job["title"]: job for job in self.jobs}
+
+    def test_non_dev_listing_is_dropped(self):
+        self.assertEqual(len(self.jobs), 3)
+        self.assertNotIn("Regional Sales Executive, Washington DC", self.by_title)
+
+    def test_source_seniority_wins_over_the_title(self):
+        # The posting says "Senior" even though the title says "Staff".
+        self.assertEqual(
+            self.by_title["Staff Reltio Data Engineer"]["seniority"], "senior"
+        )
+        self.assertEqual(
+            self.by_title["Data Scientist | Modeling"]["seniority"], "semi"
+        )
+
+    def test_salary_is_used_only_for_annual_periods(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer (Java/Kotlin)"]["salary"],
+            "$80,000 - $120,000 USD",
+        )
+        # Hourly salary is skipped instead of being labelled as annual.
+        self.assertIsNone(self.by_title["Staff Reltio Data Engineer"]["salary"])
+
+    def test_location_and_region(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer (Java/Kotlin)"]["location"], "Spain"
+        )
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer (Java/Kotlin)"]["region"], "spain"
+        )
+        self.assertEqual(
+            self.by_title["Staff Reltio Data Engineer"]["location"], "Worldwide"
+        )
+
+    def test_epoch_dates(self):
+        self.assertRegex(
+            self.by_title["Senior Backend Engineer (Java/Kotlin)"]["date"],
+            r"^\d{4}-\d{2}-\d{2}$",
+        )
+
+    def test_empty_payload_is_safe(self):
+        self.assertEqual(parse_himalayas({}), [])
+        self.assertEqual(parse_himalayas(None), [])
+
+
+class WorkingNomadsParsingTest(unittest.TestCase):
+    def setUp(self):
+        self.jobs = parse_workingnomads(load_fixture("workingnomads.json"))
+        self.by_title = {job["title"]: job for job in self.jobs}
+
+    def test_only_development_category_survives(self):
+        self.assertEqual(len(self.jobs), 2)
+        self.assertNotIn("Product Designer", self.by_title)
+        self.assertNotIn("Customer Success Manager", self.by_title)
+
+    def test_tags_are_parsed_from_the_comma_list(self):
+        self.assertIn(
+            "Python", self.by_title["Senior Backend Developer (Python)"]["tags"]
+        )
+
+    def test_dates_and_regions(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Developer (Python)"]["date"], "2026-11-11"
+        )
+        self.assertEqual(
+            self.by_title["Senior Backend Developer (Python)"]["region"], "latam"
+        )
+        self.assertEqual(
+            self.by_title["Junior Frontend Developer"]["region"], "argentina"
+        )
+        self.assertEqual(
+            self.by_title["Junior Frontend Developer"]["seniority"], "junior"
+        )
+
+    def test_empty_payload_is_safe(self):
+        self.assertEqual(parse_workingnomads([]), [])
+        self.assertEqual(parse_workingnomads(None), [])
 
 
 class DedupeTest(unittest.TestCase):

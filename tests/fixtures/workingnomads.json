@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.workingnomads.com/job/go/2014034/",
+    "title": "Senior Backend Developer (Python)",
+    "description": "<p>Django, PostgreSQL and Redis at scale.</p>",
+    "company_name": "Lemon.io",
+    "category_name": "Development",
+    "tags": "python,django,postgres,redis",
+    "location": "Europe, LATAM, APAC, the U.S., Canada",
+    "pub_date": "2026-11-11T07:50:51-05:00"
+  },
+  {
+    "url": "https://www.workingnomads.com/job/go/2014035/",
+    "title": "Junior Frontend Developer",
+    "description": "<p>React and TypeScript.</p>",
+    "company_name": "Acme",
+    "category_name": "Development",
+    "tags": "react,typescript",
+    "location": "Argentina",
+    "pub_date": "2026-11-10T09:00:00-03:00"
+  },
+  {
+    "url": "https://www.workingnomads.com/job/go/2014036/",
+    "title": "Product Designer",
+    "description": "<p>Figma all day.</p>",
+    "company_name": "Globex",
+    "category_name": "Design",
+    "tags": "figma",
+    "location": "Global",
+    "pub_date": "2026-11-09T12:00:00+00:00"
+  },
+  {
+    "url": "https://www.workingnomads.com/job/go/2014037/",
+    "title": "Customer Success Manager",
+    "description": "<p>Talk to customers.</p>",
+    "company_name": "Initech",
+    "category_name": "Development",
+    "tags": "",
+    "location": "Global",
+    "pub_date": "2026-11-08T12:00:00+00:00"
+  }
+]
