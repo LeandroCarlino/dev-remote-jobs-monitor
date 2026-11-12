@@ -174,7 +174,7 @@
 
     <div id="load-more-wrap" class="hidden">
       <button id="load-more" class="w-full py-3 rounded-xl border border-slate-800 bg-slate-900/60 hover:bg-slate-900 text-slate-300 text-xs font-semibold transition-colors">
-        Ver más ofertas
+        Ver todas las ofertas restantes
       </button>
     </div>
   </div>
@@ -208,6 +208,15 @@
       </div>
     </div>
   </div>
+
+  <button
+    id="back-to-top"
+    class="hidden fixed bottom-6 right-6 z-40 p-3 rounded-full bg-indigo-600 hover:bg-indigo-500 text-white shadow-lg shadow-indigo-900/40 transition-all"
+    aria-label="Volver arriba"
+    title="Volver arriba"
+  >
+    <i data-lucide="arrow-up" class="w-4 h-4"></i>
+  </button>
 
   <script>
     // Regions counted by the "Latam/AR" filter.
@@ -478,7 +487,7 @@
       if (remaining > 0) {
         wrap.classList.remove('hidden');
         document.getElementById('load-more').textContent =
-          `Ver ${Math.min(PAGE_SIZE, remaining)} más · ${remaining} restantes`;
+          `Ver las ${remaining} ofertas restantes`;
       } else {
         wrap.classList.add('hidden');
       }
@@ -528,9 +537,18 @@
     });
 
     document.getElementById('load-more').addEventListener('click', () => {
-      visibleCount += PAGE_SIZE;
+      // One click shows the whole remaining list: the page stays short until
+      // the visitor actually asks for everything.
+      visibleCount = Number.POSITIVE_INFINITY;
       renderJobs();
     });
+
+    // Back to the filters without scrolling 300 cards.
+    const topButton = document.getElementById('back-to-top');
+    window.addEventListener('scroll', () => {
+      topButton.classList.toggle('hidden', window.scrollY < 600);
+    }, { passive: true });
+    topButton.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
     // Initial run
     updateFavCount();
