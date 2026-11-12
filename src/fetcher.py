@@ -25,6 +25,7 @@ try:  # script execution (python src/main.py) and package import both work
         DEFAULT_CATEGORY,
         clean_html,
         detect_category,
+        detect_region,
         extract_tags,
         is_dev_job,
         normalize,
@@ -35,6 +36,7 @@ except ImportError:  # pragma: no cover
         DEFAULT_CATEGORY,
         clean_html,
         detect_category,
+        detect_region,
         extract_tags,
         is_dev_job,
         normalize,
@@ -108,13 +110,18 @@ def _money(value: object) -> int | None:
     return amount if amount > 0 else None
 
 
-def format_salary(low: object = None, high: object = None) -> str | None:
+def format_salary(
+    low: object = None,
+    high: object = None,
+    currency: str | None = "USD",
+) -> str | None:
     """Build a compact salary string from a min/max pair."""
     low_value, high_value = _money(low), _money(high)
+    suffix = f" {currency}" if currency else ""
     if low_value and high_value and low_value != high_value:
-        return f"${low_value:,} - ${high_value:,} USD"
+        return f"${low_value:,} - ${high_value:,}{suffix}"
     single = low_value or high_value
-    return f"${single:,}+ USD" if single else None
+    return f"${single:,}+{suffix}" if single else None
 
 
 def job_id(url: str, title: str, company: str) -> str:
@@ -133,17 +140,20 @@ def build_job(
     salary: str | None,
     source: str,
     hints: Sequence[str] | None = None,
+    region: str | None = None,
 ) -> dict:
     """Assemble one listing with the canonical schema (stable for API users)."""
     clean_title = shorten(clean_html(title), 140) or "Untitled role"
     clean_company = shorten(clean_html(company), 80) or "Unknown"
     clean_url = (url or "").strip()
+    clean_location = shorten(clean_html(location), 80) or "Remote"
     return {
         "id": job_id(clean_url, clean_title, clean_company),
         "title": clean_title,
         "company": clean_company,
         "url": clean_url if clean_url.startswith("http") else "",
-        "location": shorten(clean_html(location), 80) or "Remote",
+        "location": clean_location,
+        "region": region or detect_region(clean_location),
         "date": date,
         "category": detect_category(clean_title, tags, hints) or DEFAULT_CATEGORY,
         "tags": tags,
@@ -336,6 +346,170 @@ def fetch_remotive() -> tuple[list[dict], int]:
 
 
 # --------------------------------------------------------------------------- #
+# Get on Board (LATAM tech job board)
+# --------------------------------------------------------------------------- #
+GETONBRD_URL = (
+    "https://www.getonbrd.com/api/v0/categories/programming/jobs"
+    "?per_page=120&expand[]=company&page={page}"
+)
+GETONBRD_MAX_PAGES = 3
+GETONBRD_LIMIT = 200
+
+# Get on Board returns snake_case modalities, which look broken in a UI.
+MODALITY_LABELS = {
+    "fully_remote": "Fully remote",
+    "remote_local": "Remote (local)",
+    "remote": "Remote",
+    "hybrid": "Hybrid",
+    "on_site": "On-site",
+    "onsite": "On-site",
+    "part_remote": "Part remote",
+}
+
+
+def _modality_label(value: str) -> str:
+    cleaned = (value or "").strip().lower()
+    if not cleaned:
+        return ""
+    return MODALITY_LABELS.get(cleaned, cleaned.replace("_", " ").capitalize())
+
+
+def _getonbrd_company(attributes: dict) -> str:
+    company = attributes.get("company") or {}
+    data = company.get("data") if isinstance(company, dict) else None
+    if isinstance(data, dict):
+        return ((data.get("attributes") or {}).get("name")) or "Unknown"
+    return "Unknown"
+
+
+def parse_getonbrd(payload: object) -> list[dict]:
+    """Normalize a Get on Board API page (LATAM-focused tech board)."""
+    if not isinstance(payload, dict):
+        return []
+
+    jobs: list[dict] = []
+    for item in payload.get("data") or []:
+        if not isinstance(item, dict):
+            continue
+        attributes = item.get("attributes") or {}
+        title = clean_html(attributes.get("title") or "")
+        slug = (item.get("id") or "").strip()
+        if not title or not slug:
+            continue
+        if not is_dev_job(title):
+            continue
+
+        countries = [
+            country for country in attributes.get("countries") or [] if country
+        ]
+        modality = _modality_label(attributes.get("remote_modality") or "")
+        if not modality and attributes.get("remote"):
+            modality = "Remote"
+        location = ", ".join(countries) or (
+            "Remote" if attributes.get("remote") else "Latam"
+        )
+        if modality:
+            location = f"{location} · {modality}"
+
+        # The board is Latam-only, so "Remote" there means remote within Latam.
+        detected = detect_region(location)
+        region = "latam" if detected in {"other", "worldwide"} else detected
+
+        jobs.append(
+            build_job(
+                title=title,
+                company=_getonbrd_company(attributes),
+                url=f"https://www.getonbrd.com/jobs/{slug}",
+                location=location,
+                date=_epoch_date(attributes.get("published_at")),
+                tags=extract_tags(title),
+                salary=format_salary(
+                    attributes.get("min_salary"),
+                    attributes.get("max_salary"),
+                    currency=None,
+                ),
+                source="Get on Board",
+                region=region,
+            )
+        )
+        if len(jobs) >= GETONBRD_LIMIT:
+            break
+
+    return jobs
+
+
+def fetch_getonbrd() -> tuple[list[dict], int]:
+    jobs: list[dict] = []
+    seen = 0
+    for page in range(1, GETONBRD_MAX_PAGES + 1):
+        payload = json.loads(fetch_url(GETONBRD_URL.format(page=page)))
+        if not isinstance(payload, dict):
+            break
+        seen += len(payload.get("data") or [])
+        jobs.extend(parse_getonbrd(payload))
+        total_pages = (payload.get("meta") or {}).get("total_pages")
+        if total_pages and page >= int(total_pages):
+            break
+        if len(jobs) >= GETONBRD_LIMIT:
+            break
+    return jobs[:GETONBRD_LIMIT], max(seen - len(jobs), 0)
+
+
+# --------------------------------------------------------------------------- #
+# Jobicy (global remote board, Latam filter)
+# --------------------------------------------------------------------------- #
+JOBICY_URL = "https://jobicy.com/api/v2/remote-jobs?count=100&geo=latam"
+
+
+def parse_jobicy(payload: object) -> list[dict]:
+    """Normalize the Jobicy API payload (already filtered to Latam-eligible)."""
+    if not isinstance(payload, dict):
+        return []
+
+    jobs: list[dict] = []
+    for item in payload.get("jobs") or []:
+        if not isinstance(item, dict):
+            continue
+
+        title = clean_html(item.get("jobTitle") or "")
+        url = (item.get("url") or "").strip()
+        if not title or not url:
+            continue
+
+        industry = item.get("jobIndustry") or []
+        if not is_dev_job(title, industry):
+            continue
+
+        jobs.append(
+            build_job(
+                title=title,
+                company=item.get("companyName") or "Unknown",
+                url=url,
+                location=clean_html(item.get("jobGeo") or "") or "Anywhere",
+                date=_iso_date(str(item.get("pubDate") or "")),
+                tags=extract_tags(title),
+                salary=format_salary(
+                    item.get("annualSalaryMin"),
+                    item.get("annualSalaryMax"),
+                    currency=item.get("salaryCurrency") or "USD",
+                ),
+                source="Jobicy",
+            )
+        )
+        if len(jobs) >= MAX_PER_SOURCE:
+            break
+
+    return jobs
+
+
+def fetch_jobicy() -> tuple[list[dict], int]:
+    payload = json.loads(fetch_url(JOBICY_URL))
+    jobs = parse_jobicy(payload)
+    total = len(payload.get("jobs") or []) if isinstance(payload, dict) else 0
+    return jobs, total - len(jobs)
+
+
+# --------------------------------------------------------------------------- #
 # Aggregation
 # --------------------------------------------------------------------------- #
 def dedupe(jobs: list[dict]) -> list[dict]:
@@ -357,6 +531,8 @@ def get_all_jobs() -> list[dict]:
         ("RemoteOK", fetch_remoteok),
         ("WeWorkRemotely", fetch_weworkremotely),
         ("Remotive", fetch_remotive),
+        ("Get on Board", fetch_getonbrd),
+        ("Jobicy", fetch_jobicy),
     )
 
     collected: list[dict] = []

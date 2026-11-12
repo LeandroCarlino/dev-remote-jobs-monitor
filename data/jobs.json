@@ -1,10 +1,439 @@
 [
   {
+    "id": "f2d7d2483e4c",
+    "title": "Software Engineer - Python - Container Images",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/150364-software-engineer-python-container-images",
+    "location": "APAC, EMEA, LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-12",
+    "category": "General",
+    "tags": [
+      "Python"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "ec60c8de7059",
+    "title": "Senior Integration Engineer",
+    "company": "Legion",
+    "url": "https://jobicy.com/jobs/155132-senior-integration-engineer-2",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-12",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "fd8983e0f1be",
+    "title": "Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu",
+    "location": "APAC, LATAM, Canada, China, USA",
+    "region": "latam",
+    "date": "2026-11-12",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "5c17ea73e79a",
+    "title": "Software Engineer(python)",
+    "company": "Softtechassociate",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-python-softtechassociate-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "General",
+    "tags": [
+      "Python"
+    ],
+    "salary": "$3,000 - $5,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "4035400844ab",
+    "title": "Senior Software Engineer, Observability (Go)",
+    "company": "FastCTO",
+    "url": "https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Backend",
+    "tags": [
+      "Go"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "592c3c33e39c",
+    "title": "Senior Software Engineer, Data Product",
+    "company": "TRM Labs",
+    "url": "https://jobicy.com/jobs/155044-senior-software-engineer-data-product",
+    "location": "LATAM",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "f3dccf2f302d",
+    "title": "Senior Fullstack Engineer",
+    "company": "Toptal",
+    "url": "https://jobicy.com/jobs/161444-senior-fullstack-engineer-4",
+    "location": "LATAM, Europe",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "20ec92a996ea",
+    "title": "Senior Data Analyst",
+    "company": "Tremendous",
+    "url": "https://jobicy.com/jobs/152859-senior-data-analyst",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "AI / Data",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "510475e6a094",
+    "title": "Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
+    "company": "23people",
+    "url": "https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [
+      "AI",
+      "Java"
+    ],
+    "salary": "$2,800 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "b7b2c46a120d",
+    "title": "Full-Stack Engineer (TypeScript, Next.JS, Postgres)",
+    "company": "OpsBox AI",
+    "url": "https://www.getonbrd.com/jobs/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [
+      "TypeScript",
+      "Next.js",
+      "PostgreSQL"
+    ],
+    "salary": "$4,500+",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c868da263713",
+    "title": "Full Stack Engineer",
+    "company": "3Y Health",
+    "url": "https://jobicy.com/jobs/161435-full-stack-engineer-9",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "ed39caa5c7c0",
+    "title": "Full Stack AI Engineer",
+    "company": "3Y Health",
+    "url": "https://jobicy.com/jobs/161438-full-stack-ai-engineer",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "811c2838e6be",
+    "title": "Founding Engineer",
+    "company": "3Y Health",
+    "url": "https://jobicy.com/jobs/161432-founding-engineer",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "6ed158edee74",
+    "title": "Devops Engineer (Azure)",
+    "company": "Particle41",
+    "url": "https://jobicy.com/jobs/161433-devops-engineer-azure",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Azure",
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "269369e58ea6",
+    "title": "Devops Engineer (AWS)",
+    "company": "Particle41",
+    "url": "https://jobicy.com/jobs/161429-devops-engineer-aws",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS",
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "dc164be163ce",
+    "title": "Developer IA (Go/Node.js/React/GCP)",
+    "company": "Agilistik",
+    "url": "https://www.getonbrd.com/jobs/developer-ia-go-node-react-gcp-agilistik-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "React",
+      "Node",
+      "Go",
+      "GCP"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c0ba342d626a",
+    "title": "DevOps Engineer (GCP)",
+    "company": "Particle41",
+    "url": "https://jobicy.com/jobs/161436-devops-engineer-gcp",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "GCP",
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "efd4215050ad",
+    "title": "DevOps",
+    "company": "Cumplo",
+    "url": "https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ea57b7724075",
+    "title": "Dev Full-Stack Integraciones [Contractor]",
+    "company": "Rankmi",
+    "url": "https://www.getonbrd.com/jobs/dev-fullstack-ror-react-integraciones-rankmi-santiago",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "a73720b2bce3",
+    "title": "Desarrollador/a Front-end React",
+    "company": "42Labs",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-frontend-react-42labs-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "Frontend",
+    "tags": [
+      "React"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c904265c55c5",
+    "title": "Desarrollador/a Back-end Python (AWS)",
+    "company": "42Labs",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-python-aws-42labs-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-11",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Python",
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "2c2442b69965",
+    "title": "Data Engineer (Tableau)",
+    "company": "Particle41",
+    "url": "https://jobicy.com/jobs/161424-data-engineer-tableau",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "AI / Data",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "e449c74f836e",
+    "title": "AI Product Engineer",
+    "company": "3Y Health",
+    "url": "https://jobicy.com/jobs/161428-ai-product-engineer",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-11",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "bb1bc851cfc2",
+    "title": "Support Engineer (AMER - Weekends)",
+    "company": "Supabase",
+    "url": "https://jobicy.com/jobs/152807-support-engineer-amer-weekends",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "f637f39d18e4",
+    "title": "Staff Corporate IT Engineer",
+    "company": "Wellhub",
+    "url": "https://jobicy.com/jobs/161109-staff-corporate-it-engineer",
+    "location": "Brazil",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "0d976d29658c",
+    "title": "Software Engineering Manager (Backend SaaS)",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/161192-software-engineering-manager-backend-saas",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "283d9af3a926",
+    "title": "Software Engineer - Console",
+    "company": "XBOW",
+    "url": "https://jobicy.com/jobs/160794-software-engineer-console",
+    "location": "Argentina, Europe, USA",
+    "region": "argentina",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "b23371217246",
+    "title": "Software Developer (Backend SaaS)",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/161191-software-developer-backend-saas",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "180e8002fd9f",
+    "title": "Software Alliances Director, Americas",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/161190-software-alliances-director-americas",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "1d2b780bbc89",
+    "title": "Senior Software Engineer",
+    "company": "Cloudbeds",
+    "url": "https://jobicy.com/jobs/160792-senior-software-engineer-23",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
     "id": "9b0c94b95522",
     "title": "Senior React Full-stack Developer",
     "company": "Lemon.io",
     "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
     "location": "LATAM, Europe, USA, Canada, APAC",
+    "region": "latam",
     "date": "2026-11-10",
     "category": "Fullstack",
     "tags": [
@@ -18,11 +447,153 @@
     "source": "Remotive"
   },
   {
+    "id": "2210e785d18f",
+    "title": "Senior Go Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/go-engineer-microservices-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Backend",
+    "tags": [
+      "Go"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "1635d5529bb8",
+    "title": "Senior Fullstack Engineer (BR based only)",
+    "company": "Double",
+    "url": "https://jobicy.com/jobs/154967-senior-fullstack-engineer-br-based-only",
+    "location": "Brazil",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "db481c2a25f9",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Caylent",
+    "url": "https://jobicy.com/jobs/161041-senior-forward-deployed-engineer-3",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "cf2c6363fbb9",
+    "title": "Senior Engineer",
+    "company": "Caylent",
+    "url": "https://jobicy.com/jobs/160802-senior-engineer",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "1f1da2ae629f",
+    "title": "Public Cloud Solution Architect",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/161108-public-cloud-solution-architect",
+    "location": "LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "3dbb5e657063",
+    "title": "Mid-level DevOps Engineer (Remote) - Brazil",
+    "company": "AlphaSights",
+    "url": "https://jobicy.com/jobs/160788-mid-level-devops-engineer-remote-brazil",
+    "location": "Brazil",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "bd2034ee061c",
+    "title": "Full-Stack AI Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/fullstack-ai-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Fullstack",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "6ee35d269b43",
+    "title": "DevOps - Remote (Only Mexico)",
+    "company": "Orion Innovation",
+    "url": "https://jobicy.com/jobs/161184-devops-remote-only-mexico",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "559657fe851a",
+    "title": "Desarrollador/a Full-Stack Senior",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-senior-factor-it-santiago-3250",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "9f51ad464b0e",
+    "title": "Desarrollador/a Full-Stack Java/angular",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-angular-bc-tecnologia-santiago-ac9f",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "6b8d7094adbc",
     "title": "Data Engineer",
     "company": "Addepto",
     "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-10",
     "category": "AI / Data",
     "tags": [
@@ -38,6 +609,7 @@
     "company": "Knack",
     "url": "https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-11-10",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -45,11 +617,53 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "f25a19648392",
+    "title": "AWS IoT Back-end Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/aws-iot-backend-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-10",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c809561d5255",
+    "title": "Wireless Engineer",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/wireless-engineer-niuro-san-salvador",
+    "location": "El Salvador · No remote",
+    "region": "latam",
+    "date": "2026-11-09",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "bda58486f2e6",
+    "title": "Web App Full-Stack Engineer",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/web-app-full-stack-engineer-niuro-remote-03c6",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-09",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "ce6d2e4afa19",
     "title": "Senior Software Engineer — Kubernetes Control Plane",
     "company": "Buoyant",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-09",
     "category": "DevOps / Cloud",
     "tags": [
@@ -65,6 +679,7 @@
     "company": "Halcyon",
     "url": "https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-11-09",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -77,6 +692,7 @@
     "company": "GT",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710",
     "location": "Warsaw",
+    "region": "europe",
     "date": "2026-11-09",
     "category": "AI / Data",
     "tags": [
@@ -89,11 +705,42 @@
     "source": "RemoteOK"
   },
   {
+    "id": "7ef183615121",
+    "title": "Senior .NET Back-end Engineer (Modern Platform)",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/senior-net-backend-engineer-modern-platform-niuro-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-09",
+    "category": "Backend",
+    "tags": [
+      ".NET"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "0891dd1dcfb2",
+    "title": "Senior .NET Back-end Developer (Legacy Platform)",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/senior-net-backend-developer-legacy-platform-niuro-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-09",
+    "category": "Backend",
+    "tags": [
+      ".NET"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "83950a2d706d",
     "title": "Full-Stack Platform Engineer",
     "company": "Edgewater Federal Solutions, Inc.",
     "url": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-11-09",
     "category": "Fullstack",
     "tags": [],
@@ -101,11 +748,38 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "6caa416ffc57",
+    "title": "Engineering Manager - Linux Hardware Enablement",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement",
+    "location": "APAC, EMEA, LATAM, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-09",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "c2693f7dca8b",
+    "title": "Devices & IOT Field Engineering Manager",
+    "company": "Canonical",
+    "url": "https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas",
+    "location": "Anywhere",
+    "region": "worldwide",
+    "date": "2026-11-09",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
     "id": "3d51bffc1e4f",
     "title": "UI Developer",
     "company": "RainFocus",
     "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
     "location": "Any State",
+    "region": "usa",
     "date": "2026-11-08",
     "category": "Frontend",
     "tags": [
@@ -119,11 +793,103 @@
     "source": "RemoteOK"
   },
   {
+    "id": "e8dc410cd726",
+    "title": "Senior AI Engineer (AI Automation)",
+    "company": "TRM Labs",
+    "url": "https://jobicy.com/jobs/159726-senior-ai-engineer-ai-automation",
+    "location": "Brazil, Canada, USA",
+    "region": "latam",
+    "date": "2026-11-08",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "a8e00ca4059e",
+    "title": "Security Engineer",
+    "company": "Caylent",
+    "url": "https://jobicy.com/jobs/159882-security-engineer-5",
+    "location": "Argentina",
+    "region": "argentina",
+    "date": "2026-11-08",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Security"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "08ddeb357ca1",
+    "title": "Python ML & Optimization Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/python-ml-optimization-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-08",
+    "category": "AI / Data",
+    "tags": [
+      "ML",
+      "Python"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "051c4151004c",
+    "title": "Full-Stack Software Engineer (React + Python)",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/full-stack-software-engineer-react-python-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-08",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "React"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ee2b30f9a20e",
+    "title": "Forward Deployed Engineer",
+    "company": "Caylent",
+    "url": "https://jobicy.com/jobs/159734-forward-deployed-engineer-9",
+    "location": "Mexico",
+    "region": "latam",
+    "date": "2026-11-08",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "b3571df5e37c",
+    "title": "DevOps & Security Engineer - Entertainment",
+    "company": "Truelogic",
+    "url": "https://jobicy.com/jobs/159724-devops-security-engineer-entertainment",
+    "location": "Brazil",
+    "region": "latam",
+    "date": "2026-11-08",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps",
+      "Security"
+    ],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
     "id": "17f629b43a72",
     "title": "Tier III Service Desk Engineer",
     "company": "Unio Digital",
     "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
     "location": "Worldwide",
+    "region": "worldwide",
     "date": "2026-11-07",
     "category": "DevOps / Cloud",
     "tags": [
@@ -139,6 +905,7 @@
     "company": "Salvo Software",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-07",
     "category": "AI / Data",
     "tags": [
@@ -152,11 +919,59 @@
     "source": "RemoteOK"
   },
   {
+    "id": "20d418660f07",
+    "title": "Software Engineer (.NET & Azure)",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-net-azure-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-06",
+    "category": "DevOps / Cloud",
+    "tags": [
+      ".NET",
+      "Azure"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "e82d66504014",
+    "title": "Full-Stack Software Engineer ( Angular + Microservices)",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/full-stack-software-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-06",
+    "category": "Fullstack",
+    "tags": [
+      "Angular"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "b5ff50ba87a7",
+    "title": "Back-end Developer (Java/Spring Boot/apigee)",
+    "company": "42Labs",
+    "url": "https://www.getonbrd.com/jobs/back-end-developer-java-springboot-apigee-42labs-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-06",
+    "category": "Backend",
+    "tags": [
+      "Java",
+      "Spring"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "550ac28a094c",
     "title": "Senior Vue Developer",
     "company": "Lemon.io",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-05",
     "category": "Frontend",
     "tags": [
@@ -175,6 +990,7 @@
     "company": "CivilGrid",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687",
     "location": "Boston",
+    "region": "usa",
     "date": "2026-11-05",
     "category": "DevOps / Cloud",
     "tags": [
@@ -190,6 +1006,7 @@
     "company": "Toptal",
     "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
     "location": "Anywhere in the World",
+    "region": "worldwide",
     "date": "2026-11-05",
     "category": "AI / Data",
     "tags": [
@@ -201,11 +1018,25 @@
     "source": "RemoteOK"
   },
   {
+    "id": "09f480383172",
+    "title": "Full-Stack Developer",
+    "company": "Blueworks CRM",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-blueworks-crm-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$1,200 - $1,800",
+    "source": "Get on Board"
+  },
+  {
     "id": "d2e6a127bc1a",
     "title": "Feltsense AI Engineer",
     "company": "Silver.dev",
     "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-05",
     "category": "AI / Data",
     "tags": [
@@ -219,11 +1050,81 @@
     "source": "RemoteOK"
   },
   {
+    "id": "97645d7a4acf",
+    "title": "Desarrollador Full-Stack React",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-react-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [
+      "React"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "cecca46775c3",
+    "title": "Desarrollador Full-Stack Java",
+    "company": "CI Canadá",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ae645ee63c57",
+    "title": "Desarrollador Full-Stack",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-bc-tecnologia-santiago-c766",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,000 - $2,200",
+    "source": "Get on Board"
+  },
+  {
+    "id": "113a9ad9cf46",
+    "title": "Control Engineer",
+    "company": "VAME Ltd",
+    "url": "https://www.getonbrd.com/jobs/control-engineer-vame-ltd-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,000 - $2,800",
+    "source": "Get on Board"
+  },
+  {
+    "id": "1a483cf9c4d0",
+    "title": "Analista de Sistemas Full-Stack",
+    "company": "Agilesoft SpA",
+    "url": "https://www.getonbrd.com/jobs/analista-de-sistemas-full-stack-agilesoft-spa-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-05",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "30a5d9b191f4",
     "title": "Software Engineer",
     "company": "Claims",
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-04",
     "category": "AI / Data",
     "tags": [
@@ -234,11 +1135,38 @@
     "source": "RemoteOK"
   },
   {
+    "id": "c920f5620f7e",
+    "title": "Desarrollador/a Full-Stack – Front-end & Datos",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-04",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,000 - $2,400",
+    "source": "Get on Board"
+  },
+  {
+    "id": "ee32c629efc0",
+    "title": "Desarrollador Full-Stack (Web/Foco Back-end)",
+    "company": "WiTi",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-back-end-witi-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-04",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "7734b1a8419e",
     "title": "Tech lead",
     "company": "Ringbook Limited",
     "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-03",
     "category": "General",
     "tags": [],
@@ -246,11 +1174,233 @@
     "source": "RemoteOK"
   },
   {
+    "id": "172afbf36df3",
+    "title": "Senior Full-Stack Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "f9707bf007e2",
+    "title": "Senior .NET Engineer",
+    "company": "AutoRaptor",
+    "url": "https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "General",
+    "tags": [
+      ".NET"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "f7d87c504584",
+    "title": "React Front-end Engineer (Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Frontend",
+    "tags": [
+      "React"
+    ],
+    "salary": "$2,700 - $3,700",
+    "source": "Get on Board"
+  },
+  {
+    "id": "beec4b5cdc9a",
+    "title": "React Front-end Engineer (Semi Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/react-front-end-engineer-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Frontend",
+    "tags": [
+      "React"
+    ],
+    "salary": "$2,000 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "bb2949782666",
+    "title": "Node.js Back-end Engineer (Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/node-backend-engineer-senior-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Backend",
+    "tags": [
+      "Node"
+    ],
+    "salary": "$2,700 - $3,700",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c8e8376cf24d",
+    "title": "Full-Stack Engineer (TypeScript/React)",
+    "company": "Dynamic Devs",
+    "url": "https://www.getonbrd.com/jobs/full-stack-engineer-typescript-react-dynamic-devs-santiago-d476",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "TypeScript",
+      "React"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "23d82a30433e",
+    "title": "Full-Stack Developer: React & Node.js",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "6f6b5afa9042",
+    "title": "Full-Stack Developer Semi Senior",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-semi-senior-factor-it-santiago-00d4",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "0605cbe09be4",
+    "title": "Founding GTM Engineer",
+    "company": "Hostop",
+    "url": "https://www.getonbrd.com/jobs/founding-gtm-engineer-hostop-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "General",
+    "tags": [],
+    "salary": "$4,500 - $6,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "bdb74cefdf7b",
+    "title": "Desarrollador/a Full-Stack Cloud AWS",
+    "company": "RyC Tech Group",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-cloud-aws-ryc-tech-group-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "AWS"
+    ],
+    "salary": "$1,300 - $2,200",
+    "source": "Get on Board"
+  },
+  {
+    "id": "12af97b285de",
+    "title": "Desarrollador/a Full-Stack",
+    "company": "Xintec",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-xintec-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "f91cfe5a52f6",
+    "title": "Desarrollador Full-Stack: Java & Angular",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "1ac4f1bc7845",
+    "title": "Back-end Senior Java – Sagas y GCP",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-java-spring-boot-factor-it-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Java",
+      "GCP"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "0e40863dc208",
+    "title": "AI Engineering Lead",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/ai-engineering-lead-niuro-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": "$5,500 - $6,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c22e9c071fa7",
+    "title": "AI Back-end Engineer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-11-03",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": "$3,800 - $5,000",
+    "source": "Get on Board"
+  },
+  {
     "id": "aa0421abfcb4",
     "title": "Software Engineer Infrastructure",
     "company": "Sodalis, Inc.",
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614",
     "location": "Palo Alto",
+    "region": "usa",
     "date": "2026-11-02",
     "category": "DevOps / Cloud",
     "tags": [
@@ -266,6 +1416,7 @@
     "company": "Salesloft",
     "url": "https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-11-02",
     "category": "DevOps / Cloud",
     "tags": [
@@ -275,11 +1426,27 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "025b04601fd8",
+    "title": "Back-end Software Engineer – NestJS | Cloud Native | AWS",
+    "company": "WiTi",
+    "url": "https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-11-02",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "951ef410ac78",
     "title": "AI ML Engineer",
     "company": "Docusketch",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-11-02",
     "category": "AI / Data",
     "tags": [
@@ -297,6 +1464,7 @@
     "company": "Carrot",
     "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-30",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -304,11 +1472,40 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "3ba35a9f0321",
+    "title": "Full-Stack Senior con IA & Agentes",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/full-stack-senior-con-ia-agentes-bc-tecnologia-remote-9cff",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-30",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "7b1a28c15f20",
+    "title": "Front-end Angular",
+    "company": "Grupo Mariposa",
+    "url": "https://www.getonbrd.com/jobs/front-end-angular-grupo-mariposa-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-30",
+    "category": "Frontend",
+    "tags": [
+      "Angular"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "d712314a179f",
     "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
     "company": "Smartsheet",
     "url": "https://weworkremotely.com/remote-jobs/smartsheet-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-30",
     "category": "DevOps / Cloud",
     "tags": [
@@ -318,11 +1515,27 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "1193bbd8f871",
+    "title": "Desarrollador Full-Stack AWS",
+    "company": "RyC Tech Group",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-aws-ryc-tech-group-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-30",
+    "category": "Fullstack",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "2019bfc40112",
     "title": "CloudOps Engineer (Network Engineer)",
     "company": "Wrike",
     "url": "https://weworkremotely.com/remote-jobs/wrike-cloudops-engineer-network-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-30",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -330,11 +1543,41 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "f7e011939a89",
+    "title": "Back-end Senior Java – Apigee y GCP",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/backend-developer-senior-java-25-spring-boot-3-factor-it-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-30",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Java",
+      "GCP"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "97cdb1269775",
+    "title": "Back-end Developer",
+    "company": "Grupo Mariposa",
+    "url": "https://www.getonbrd.com/jobs/back-end-developer-grupo-mariposa-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-30",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "744c7ed9f1fd",
     "title": "Autonomous Systems Security Engineer",
     "company": "Anthropic",
     "url": "https://weworkremotely.com/remote-jobs/anthropic-autonomous-systems-security-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-30",
     "category": "DevOps / Cloud",
     "tags": [
@@ -349,6 +1592,7 @@
     "company": "Cloudary SAS",
     "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-30",
     "category": "DevOps / Cloud",
     "tags": [
@@ -362,11 +1606,27 @@
     "source": "RemoteOK"
   },
   {
+    "id": "50f3ed150c0c",
+    "title": "Senior JavaScript Developer",
+    "company": "LeytonMedia",
+    "url": "https://www.getonbrd.com/jobs/senior-javascript-developer-leytonmedia-santiago-d2d0",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "General",
+    "tags": [
+      "JavaScript"
+    ],
+    "salary": "$3,100 - $4,800",
+    "source": "Get on Board"
+  },
+  {
     "id": "0141e497b061",
     "title": "Principal Data Engineer",
     "company": "ZoomInfo Technologies LLC",
     "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-data-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-29",
     "category": "AI / Data",
     "tags": [],
@@ -374,11 +1634,57 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "0bae141a79df",
+    "title": "Full-Stack Sr (Java, Spring Boot, Angular, Apigee)",
+    "company": "42Labs",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-42labs-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Java",
+      "Spring"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "392174d253db",
+    "title": "Full-Stack Software Engineer",
+    "company": "Llamabara Tech SAC",
+    "url": "https://www.getonbrd.com/jobs/full-stack-software-engineer-llamabara-tech-sac-lima",
+    "location": "Peru · Hybrid",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$1,500 - $2,100",
+    "source": "Get on Board"
+  },
+  {
+    "id": "dd0428eee0d2",
+    "title": "Full-Stack Python Developer",
+    "company": "CreativeWorks",
+    "url": "https://www.getonbrd.com/jobs/full-stack-python-developer-creativeworks-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "Fullstack",
+    "tags": [
+      "Python"
+    ],
+    "salary": "$1,500 - $2,000",
+    "source": "Get on Board"
+  },
+  {
     "id": "58095814e4e2",
     "title": "Full-Stack Developer",
     "company": "Fluence International, Inc.",
     "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
     "location": "Worldwide",
+    "region": "worldwide",
     "date": "2026-10-29",
     "category": "Fullstack",
     "tags": [
@@ -392,11 +1698,38 @@
     "source": "Remotive"
   },
   {
+    "id": "b1eecc81f2a4",
+    "title": "Developer Full-Stack",
+    "company": "BICE VIDA",
+    "url": "https://www.getonbrd.com/jobs/developer-full-stack-bice-vida-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "287290d761a9",
+    "title": "Desarrollador Back-end",
+    "company": "3IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-backend-3it-santiago-ea61",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$2,000 - $2,500",
+    "source": "Get on Board"
+  },
+  {
     "id": "e4dc1f4c55bd",
     "title": "Cloud Engineer Automation",
     "company": "Smile Digital Health",
     "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
     "location": "Toronto, Ontario",
+    "region": "canada",
     "date": "2026-10-29",
     "category": "DevOps / Cloud",
     "tags": [
@@ -408,11 +1741,25 @@
     "source": "RemoteOK"
   },
   {
+    "id": "f3572ba749d3",
+    "title": "Arquitecto de Integración (Software)",
+    "company": "Devsu",
+    "url": "https://www.getonbrd.com/jobs/arquitecto-de-integracion-software-sector-ban-devsu-quito",
+    "location": "Ecuador · No remote",
+    "region": "latam",
+    "date": "2026-10-29",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "96564c66658e",
     "title": "Front End Developer",
     "company": "Cambridge Information Group",
     "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-28",
     "category": "Frontend",
     "tags": [],
@@ -420,11 +1767,40 @@
     "source": "RemoteOK"
   },
   {
+    "id": "c306d4fe060b",
+    "title": "Desarrollador Full-Stack Golang",
+    "company": "3IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-golang-net-react-3it-santiago-8fed",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-28",
+    "category": "Fullstack",
+    "tags": [
+      "Go"
+    ],
+    "salary": "$1,800 - $2,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "16d8a877042a",
+    "title": "Back-end Developer para Datos Industriales",
+    "company": "Detroit S.A.",
+    "url": "https://www.getonbrd.com/jobs/back-end-developer-para-datos-industriales-detroit-s-a-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-10-28",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$2,000 - $2,500",
+    "source": "Get on Board"
+  },
+  {
     "id": "abff4951661e",
     "title": "Senior IT Systems Engineer",
     "company": "Upsun",
     "url": "https://weworkremotely.com/remote-jobs/upsun-senior-it-systems-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-27",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -437,6 +1813,7 @@
     "company": "Lemon.io",
     "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
     "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
+    "region": "latam",
     "date": "2026-10-27",
     "category": "Mobile",
     "tags": [
@@ -450,11 +1827,84 @@
     "source": "Remotive"
   },
   {
+    "id": "61298308acff",
+    "title": "Junior Back-end Engineer Santiago",
+    "company": "Krunchbox",
+    "url": "https://www.getonbrd.com/jobs/junior-backend-engineer-santiago-krunchbox-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-27",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$1,400 - $2,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "409ebf6d7a14",
+    "title": "Full-Stack Engineer (React / .NET / AWS)",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/full-stack-engineer-react-net-aws-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-27",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      ".NET",
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "3837a28ec646",
+    "title": "Full-Stack (.NET + AngularJS + React)",
+    "company": "3IT",
+    "url": "https://www.getonbrd.com/jobs/full-stack-net-angularjs-react-3it-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-27",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      ".NET"
+    ],
+    "salary": "$1,700 - $2,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "92189b9c0d4d",
+    "title": "Desarrollador/a Full-Stack",
+    "company": "Financia Capital",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-financia-capital-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-10-27",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$1,700 - $2,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "255d4393ab3b",
+    "title": "Senior Software Engineer – Serverless Workflow",
+    "company": "Hyqoo",
+    "url": "https://www.getonbrd.com/jobs/senior-software-engineer-serverless-workflow-hyqoo-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-26",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,000 - $4,500",
+    "source": "Get on Board"
+  },
+  {
     "id": "19b383a3a655",
     "title": "Senior Software Engineer LATAM",
     "company": "Wagmo",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-26",
     "category": "Frontend",
     "tags": [
@@ -472,6 +1922,7 @@
     "company": "Lemon.io",
     "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
     "location": "Worldwide",
+    "region": "worldwide",
     "date": "2026-10-26",
     "category": "AI / Data",
     "tags": [],
@@ -479,11 +1930,42 @@
     "source": "Remotive"
   },
   {
+    "id": "1e7323091b42",
+    "title": "Full-Stack Engineer Senior (Node.js, React, AWS)",
+    "company": "Continuum",
+    "url": "https://www.getonbrd.com/jobs/fullstack-engineer-senior-node-js-react-aws-continuum-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-26",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "Node",
+      "AWS"
+    ],
+    "salary": "$3,000 - $3,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "1f588f7defc9",
+    "title": "Full-Stack Developer",
+    "company": "TCIT",
+    "url": "https://www.getonbrd.com/jobs/fullstack-developer-tcit-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-26",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "8a4051324822",
     "title": "DevOps Engineer II, Cloud Platform",
     "company": "Upstart",
     "url": "https://weworkremotely.com/remote-jobs/upstart-devops-engineer-ii-cloud-platform",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-26",
     "category": "DevOps / Cloud",
     "tags": [
@@ -493,11 +1975,29 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "39f858f21505",
+    "title": "Desarrollador/a Full-Stack – Angular / .NET / Azure (Perú)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-angular-net-azure-peru-bc-tecnologia-lima-3961",
+    "location": "Peru · Hybrid",
+    "region": "latam",
+    "date": "2026-10-26",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      ".NET",
+      "Azure"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "9551e6db7514",
     "title": "Senior Software Engineer",
     "company": "Klardaten",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-25",
     "category": "Fullstack",
     "tags": [
@@ -513,6 +2013,7 @@
     "company": "Onebrief",
     "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-24",
     "category": "Backend",
     "tags": [
@@ -529,6 +2030,7 @@
     "company": "Discord",
     "url": "https://weworkremotely.com/remote-jobs/discord-qa-devops-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-23",
     "category": "DevOps / Cloud",
     "tags": [
@@ -543,6 +2045,7 @@
     "company": "Discord",
     "url": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-platform-security",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-23",
     "category": "DevOps / Cloud",
     "tags": [
@@ -557,6 +2060,7 @@
     "company": "Lemon.io",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-22",
     "category": "AI / Data",
     "tags": [
@@ -570,11 +2074,127 @@
     "source": "RemoteOK"
   },
   {
+    "id": "59f964f0d926",
+    "title": "PHP Developer/ Laravel (AWS)",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/senior-php-developer-laravel-aws-improving-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "PHP",
+      "Laravel",
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "763dc3cf51f7",
+    "title": "Technical Lead Senior",
+    "company": "Bci",
+    "url": "https://www.getonbrd.com/jobs/technical-lead-senior-bci-santiago-3e19",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-21",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "1595f338a953",
+    "title": "Desarrollador Full-Stack Semi Senior",
+    "company": "3IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-semi-senior-3it-santiago-6005",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-21",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,000 - $2,300",
+    "source": "Get on Board"
+  },
+  {
+    "id": "fc1f1e93896f",
+    "title": "Desarrollador Full-Stack",
+    "company": "Mediastream",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-mediastream-remote-971f",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-21",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$3,000 - $4,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "385709be9492",
+    "title": "Desarrollador Full-Stack",
+    "company": "Grafton Latam",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-grafton-latam-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-21",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,300 - $2,400",
+    "source": "Get on Board"
+  },
+  {
+    "id": "fea602094ebe",
+    "title": "Ingeniero Full-Stack Laravel/Vue",
+    "company": "PoderJudicialVirtual.com",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-full-stack-laravel-vue-poderjudicialvirtual-com-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-20",
+    "category": "Fullstack",
+    "tags": [
+      "Vue",
+      "Laravel"
+    ],
+    "salary": "$2,000 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "1af1594120d3",
+    "title": "Full-Stack Senior (Angular + Java o .NET)",
+    "company": "3IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-angular-3it-santiago-07c4",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-20",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Java",
+      ".NET"
+    ],
+    "salary": "$2,200 - $2,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "3dcf91af23db",
+    "title": "Desarrollador Full-Stack Liferay LATAM",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-liferay-bc-tecnologia-santiago",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-20",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "d88124743793",
     "title": "Senior Security Engineer, Detection & Response",
     "company": "Flexport",
     "url": "https://weworkremotely.com/remote-jobs/flexport-senior-security-engineer-detection-response",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-19",
     "category": "DevOps / Cloud",
     "tags": [
@@ -589,6 +2209,7 @@
     "company": "Proxify AB",
     "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-19",
     "category": "Fullstack",
     "tags": [
@@ -604,6 +2225,7 @@
     "company": "Proxify AB",
     "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-19",
     "category": "Backend",
     "tags": [
@@ -618,6 +2240,7 @@
     "company": "Proxify AB",
     "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-19",
     "category": "Backend",
     "tags": [
@@ -627,11 +2250,25 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "31b0370ab4c0",
+    "title": "Junior Integrations Developer",
+    "company": "Inversiones Vertice Limitada",
+    "url": "https://www.getonbrd.com/jobs/junior-integrations-developer-inversiones-vertice-limitada-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-10-19",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,000 - $1,400",
+    "source": "Get on Board"
+  },
+  {
     "id": "422b5574751c",
     "title": "Freelance Marketo Email Engineer",
     "company": "Current",
     "url": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-19",
     "category": "General",
     "tags": [],
@@ -639,11 +2276,27 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "665f8a37d2cf",
+    "title": "Back-end Developer – AWS",
+    "company": "HF Solutions",
+    "url": "https://www.getonbrd.com/jobs/backend-developer-pci-aws-hf-solutions-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-19",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "8e16e0ec5021",
     "title": "Staff Software Engineer, Revenue Systems",
     "company": "Squarespace",
     "url": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -656,6 +2309,7 @@
     "company": "Dremio",
     "url": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -668,6 +2322,7 @@
     "company": "Lithic",
     "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -680,6 +2335,7 @@
     "company": "Lithic",
     "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -692,6 +2348,7 @@
     "company": "Sotheby’s",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "Backend",
     "tags": [
@@ -706,6 +2363,7 @@
     "company": "Rain",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "Backend",
     "tags": [
@@ -720,6 +2378,7 @@
     "company": "Airbnb",
     "url": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -732,6 +2391,7 @@
     "company": "Alloy",
     "url": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -744,6 +2404,7 @@
     "company": "PlanetScale",
     "url": "https://weworkremotely.com/remote-jobs/planetscale-enterprise-support-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-18",
     "category": "General",
     "tags": [],
@@ -751,11 +2412,25 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "73466a0f38f7",
+    "title": "Technical Lead (Back-end Hubspot Integrations & Migrations)",
+    "company": "Wendt Partners",
+    "url": "https://www.getonbrd.com/jobs/technical-lead-backend-hubspot-integrations-migrations-wendt-partners-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-17",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$3,000 - $5,000",
+    "source": "Get on Board"
+  },
+  {
     "id": "0aa4a402154a",
     "title": "Software Engineer, AI Coding Tasks",
     "company": "Askable",
     "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
     "location": "Worldwide",
+    "region": "worldwide",
     "date": "2026-10-17",
     "category": "AI / Data",
     "tags": [
@@ -774,6 +2449,7 @@
     "company": "Expel",
     "url": "https://weworkremotely.com/remote-jobs/expel-senior-detection-response-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-17",
     "category": "General",
     "tags": [],
@@ -786,6 +2462,7 @@
     "company": "Mixpanel",
     "url": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-17",
     "category": "Backend",
     "tags": [],
@@ -798,6 +2475,7 @@
     "company": "Askable",
     "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-16",
     "category": "AI / Data",
     "tags": [
@@ -812,6 +2490,7 @@
     "company": "Sanctuary Computer",
     "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-16",
     "category": "Fullstack",
     "tags": [],
@@ -824,6 +2503,7 @@
     "company": "Hippocratic AI",
     "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
     "location": "Menlo Park",
+    "region": "usa",
     "date": "2026-10-16",
     "category": "General",
     "tags": [
@@ -838,6 +2518,7 @@
     "company": "BeyondTrust",
     "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-network-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-16",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -845,11 +2526,25 @@
     "source": "WeWorkRemotely"
   },
   {
+    "id": "606218292344",
+    "title": "Software Engineer",
+    "company": "Examedi",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-examedi-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-15",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,600 - $2,400",
+    "source": "Get on Board"
+  },
+  {
     "id": "6590c4d8d5ae",
     "title": "Senior Software Engineer, Infrastructure Platform",
     "company": "Lattice",
     "url": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-15",
     "category": "DevOps / Cloud",
     "tags": [],
@@ -862,6 +2557,7 @@
     "company": "Wrapbook",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-15",
     "category": "AI / Data",
     "tags": [
@@ -880,6 +2576,7 @@
     "company": "Medify",
     "url": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-15",
     "category": "General",
     "tags": [],
@@ -892,6 +2589,7 @@
     "company": "Abnormal",
     "url": "https://weworkremotely.com/remote-jobs/abnormal-customer-solutions-engineer-emea",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-15",
     "category": "General",
     "tags": [],
@@ -904,6 +2602,7 @@
     "company": "Upgrade",
     "url": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-10-15",
     "category": "AI / Data",
     "tags": [
@@ -918,6 +2617,7 @@
     "company": "Mitre Media",
     "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
     "location": "USA, Canada, USA timezones",
+    "region": "usa",
     "date": "2026-10-14",
     "category": "Fullstack",
     "tags": [
@@ -931,11 +2631,77 @@
     "source": "Remotive"
   },
   {
+    "id": "a8284529a7e1",
+    "title": "Senior Software Engineer",
+    "company": "Solvo Global",
+    "url": "https://www.getonbrd.com/jobs/senior-software-engineer-solvo-global-ciudad-de-mexico-552f",
+    "location": "Mexico · Hybrid",
+    "region": "latam",
+    "date": "2026-10-14",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,000 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "3ebd48791eac",
+    "title": "Senior Product Engineer",
+    "company": "Chipax",
+    "url": "https://www.getonbrd.com/jobs/senior-product-engineer-chipax-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-14",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,800 - $3,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "935c961f37a6",
+    "title": "Growth Engineer",
+    "company": "Capitaria",
+    "url": "https://www.getonbrd.com/jobs/growth-engineer-capitaria-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-14",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,500 - $2,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "2688c94ebb2e",
+    "title": "GTM Engineer",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/gtm-engineer-niuro-remote-9639",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-14",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "56753d49df69",
+    "title": "Desarrollador Front-end Senior",
+    "company": "TCIT",
+    "url": "https://www.getonbrd.com/jobs/senior-front-end-developer-tcit-santiago-ccfa",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-14",
+    "category": "Frontend",
+    "tags": [],
+    "salary": "$1,900 - $2,500",
+    "source": "Get on Board"
+  },
+  {
     "id": "df260e3d457f",
     "title": "Principal Software Engineer",
     "company": "Vytalize Health",
     "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
     "location": "Kansas",
+    "region": "usa",
     "date": "2026-10-13",
     "category": "Backend",
     "tags": [
@@ -948,11 +2714,27 @@
     "source": "RemoteOK"
   },
   {
+    "id": "ad8644fb5906",
+    "title": "Developer Java",
+    "company": "BICE VIDA",
+    "url": "https://www.getonbrd.com/jobs/developer-java-bice-vida-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-13",
+    "category": "Backend",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "ba5a1fd0cb58",
     "title": "Product Engineering Lead",
     "company": "Tether Operations Limited",
     "url": "https://remoteOK.com/remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-10",
     "category": "Frontend",
     "tags": [
@@ -963,11 +2745,188 @@
     "source": "RemoteOK"
   },
   {
+    "id": "e6879de759b9",
+    "title": "Developer Front-end",
+    "company": "BICE VIDA",
+    "url": "https://www.getonbrd.com/jobs/developer-frontend-bice-vida-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-10",
+    "category": "Frontend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "35c0a6f02b4a",
+    "title": "Engineering Manager Senior",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/engineering-manager-senior-factor-it-bogota",
+    "location": "Mexico · Hybrid",
+    "region": "latam",
+    "date": "2026-10-08",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "a9c401c2e53c",
+    "title": "Desarrollador Full-Stack Senior Bilingüe",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-factor-it-bogota",
+    "location": "Colombia · Hybrid",
+    "region": "latam",
+    "date": "2026-10-08",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "7771f1150fcd",
+    "title": "Tech Lead Outsystems con Inglés y Español (LATAM)",
+    "company": "I2B Technologies",
+    "url": "https://www.getonbrd.com/jobs/tech-lead-outsystems-con-ingles-y-espanol-latam-i2b-technologies-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-07",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "87db935740b7",
+    "title": "Operational Automation Engineer",
+    "company": "ComunidadFeliz",
+    "url": "https://www.getonbrd.com/jobs/operational-automation-engineer-comunidadfeliz-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-07",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,100 - $1,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "af3c75f95e06",
+    "title": "Back-end Software Engineer",
+    "company": "Zaelot",
+    "url": "https://www.getonbrd.com/jobs/backend-software-engineer-zaelot-remote-fbc2",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-07",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$4,000 - $6,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "3fb9e5681d2e",
+    "title": "Senior Back-end Engineer (Java & Google Cloud Platform)",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/senior-back-end-engineer-java-google-cloud-platform-factor-it-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "bd06c03f34c2",
+    "title": "Ingeniero de Software Sr / Back y Fontend",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-de-software-sr-back-y-fontend-checkr-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,500 - $4,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "d5dfea7a98bb",
+    "title": "Head of Product Engineering",
+    "company": "IT Trusted Partner",
+    "url": "https://www.getonbrd.com/jobs/head-of-product-engineering-it-trusted-partner-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,500 - $4,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "ea5f8664c113",
+    "title": "Desarrollador/a Full-Stack( Node.js NestJS. Ionic, Angular)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-fullstack-bc-tecnologia-santiago-8935",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "b964498b4c13",
+    "title": "Desarrollador Front-end SEO y Tracking",
+    "company": "DSAC Chile",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-front-end-seo-y-tracking-dsac-chile-bogota",
+    "location": "Colombia · Hybrid",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "Frontend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "5728668962d7",
+    "title": "Back-end Senior – GCP & Microservices",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/backend-senior-gcp-microservices-factor-it-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-06",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "GCP"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c99b6914ff41",
+    "title": "Senior Outsystems Developer con Inglés y Español",
+    "company": "I2B Technologies",
+    "url": "https://www.getonbrd.com/jobs/senior-outsystems-developer-con-ingles-y-espanol-i2b-technologies-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-10-05",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "8f163dd1eae8",
     "title": "Platform and Integration Engineer Security Telemetry",
     "company": "RedMimicry",
     "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-10-05",
     "category": "DevOps / Cloud",
     "tags": [
@@ -978,11 +2937,394 @@
     "source": "RemoteOK"
   },
   {
+    "id": "c5436d395e8b",
+    "title": "Líder Técnico Full-Stack (Python + Angular + Azure)",
+    "company": "GRUPO SUD",
+    "url": "https://www.getonbrd.com/jobs/lider-tecnico-full-stack-python-angular-azure-grupo-sud-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-05",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "Angular",
+      "Azure"
+    ],
+    "salary": "$4,300 - $4,900",
+    "source": "Get on Board"
+  },
+  {
+    "id": "d3bc7990fe9e",
+    "title": "Desarrollador/a Full-Stack Semi Senior",
+    "company": "HF Solutions",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-fullstack-semi-senior-hf-solutions-santiago-5a5d",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-10-01",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "de2d277b903d",
+    "title": "Desarrollador/a Full-Stack (Node.js/angular)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-node-angular-bc-tecnologia-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-01",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "eaea4493e74d",
+    "title": "AI Automation Engineer — Contract",
+    "company": "Blupax Pharmaceuticals",
+    "url": "https://www.getonbrd.com/jobs/ai-automation-engineer-contract-blupax-pharmaceuticals-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-10-01",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "56ce292c2b19",
+    "title": "Senior Outsystems Solution Architect con Inglés y Español",
+    "company": "I2B Technologies",
+    "url": "https://www.getonbrd.com/jobs/outsystems-solution-architect-i2b-technologies-remote-c9f1",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-30",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "b51471c4a374",
+    "title": "Ingeniero Full-Stack Semi Senior Laravel React",
+    "company": "rFlex.io",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-full-stack-semi-senior-laravel-react-rflex-io-santiago-bd8c",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-30",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "Laravel"
+    ],
+    "salary": "$2,100 - $2,400",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c05ea1908a66",
+    "title": "Desarrollador Full-Stack (Híbrido)",
+    "company": "Agilesoft SpA",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-hibrido-agilesoft-spa-santiago-d50c",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-30",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "d460894354f6",
+    "title": "Desarrollador Back-end Java / Quarkus / Kafka",
+    "company": "Agilesoft SpA",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-back-end-agilesoft-spa-remote-b90b",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-30",
+    "category": "Backend",
+    "tags": [
+      "Java",
+      "Kafka"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "665e93d0d2b2",
+    "title": "Ingeniero de Software Senior",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-de-software-senior-checkr-santiago-e09f",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-29",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,000 - $4,200",
+    "source": "Get on Board"
+  },
+  {
+    "id": "09ef502f6d96",
+    "title": "Front-end Engineer",
+    "company": "Cumplo",
+    "url": "https://www.getonbrd.com/jobs/frontend-engineer-cumplo-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-29",
+    "category": "Frontend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "69a60025cf62",
+    "title": "Desarrollador Full-Stack",
+    "company": "GeoVictoria",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-geovictoria-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-29",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "47ef3a12fdac",
+    "title": "Senior Forward Deployed Engineer",
+    "company": "Niuro",
+    "url": "https://www.getonbrd.com/jobs/forward-deployed-engineer-niuro-remote-87ec",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-28",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,500 - $4,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "ce86e73d837c",
+    "title": "Developer Back-end Python + Fastapi",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/developer-back-end-python-fastapi-bc-tecnologia-remote",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-28",
+    "category": "Backend",
+    "tags": [
+      "Python",
+      "FastAPI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "48838559831a",
+    "title": "Back-end Data Engineer (Java)",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/backend-data-engineer-java-factor-it-lima",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-28",
+    "category": "AI / Data",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "41f7af1f889f",
+    "title": "Arquitecto de Software/ Líder Técnico Java Senior",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/arquitecto-de-software-lider-tecnico-java-senior-bc-tecnologia-santiago-d401",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-09-28",
+    "category": "Backend",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "eb6c1728b19d",
+    "title": "Full-Stack Developer",
+    "company": "Lead Gen Team LLC",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-lead-gen-team-llc-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-25",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "d3e643dfbe67",
+    "title": "Developer Full-Stack Tribu Producto",
+    "company": "BICE VIDA",
+    "url": "https://www.getonbrd.com/jobs/developer-full-stack-tribu-producto-bice-vida-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-09-25",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "a65fc8abb801",
+    "title": "Back-end Developer Senior",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/backend-developer-senior-factor-it-santiago-d533",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-25",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "752782291bea",
+    "title": "Software Engineer (Node.js/React)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-node-js-react-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Frontend",
+    "tags": [
+      "React",
+      "Node"
+    ],
+    "salary": "$2,800 - $2,900",
+    "source": "Get on Board"
+  },
+  {
+    "id": "92b8546e5a51",
+    "title": "Software Engineer (Node.js/NestJS)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-node-js-nestjs-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Backend",
+    "tags": [
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "a759bf969d52",
+    "title": "Senior React Developer (Inglés) Commerce Team",
+    "company": "Smith",
+    "url": "https://www.getonbrd.com/jobs/sr-react-developer-ingles-intermedio-e-commerce-smith-remote-7b09",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Frontend",
+    "tags": [
+      "React"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c74b208f8127",
+    "title": "SAP Integration Suit (Cpi) Developer Team Inglés",
+    "company": "Smith",
+    "url": "https://www.getonbrd.com/jobs/sap-integration-suite-developer-cpi-ingles-smith-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ac275d5629f1",
+    "title": "Front-end Developer (Web y BD)",
+    "company": "Detroit S.A.",
+    "url": "https://www.getonbrd.com/jobs/front-end-developer-web-y-bd-detroit-s-a-lima-puerto-montt-santiago",
+    "location": "Chile, Peru · Hybrid",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Frontend",
+    "tags": [],
+    "salary": "$2,000 - $2,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "b888c9e75498",
+    "title": "Fractional Full-Stack Engineer",
+    "company": "Valsnapp",
+    "url": "https://www.getonbrd.com/jobs/fractional-full-stack-engineer-valsnapp-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "231ca5e8a69a",
+    "title": "Desarrollador Full-Stack Laravel",
+    "company": "Usercode SpA",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-laravel-usercode-spa-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-24",
+    "category": "Fullstack",
+    "tags": [
+      "Laravel"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "108bf18c742d",
+    "title": "Technical Lead Full-Stack",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/technical-lead-full-stack-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-23",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$3,500 - $4,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "474d135c2b91",
+    "title": "Software Engineer Semi Senior",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-semi-senior-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-23",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,000 - $2,400",
+    "source": "Get on Board"
+  },
+  {
     "id": "9c294732edfe",
     "title": "Software Engineer",
     "company": "Prenosis",
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-09-23",
     "category": "Backend",
     "tags": [
@@ -992,11 +3334,66 @@
     "source": "RemoteOK"
   },
   {
+    "id": "43e9f74d64ce",
+    "title": "Ingeniero Senior Back-end",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-senior-backend-checkr-santiago-c60a",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-23",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$3,700 - $4,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "6ff3cf9b8eb9",
+    "title": "Front-end Software Engineer",
+    "company": "Zaelot",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-zaelot-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-23",
+    "category": "Frontend",
+    "tags": [],
+    "salary": "$4,000 - $6,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "649e7abe92b8",
+    "title": "Senior Go Software Engineer",
+    "company": "The Configurations Lab",
+    "url": "https://www.getonbrd.com/jobs/senior-software-engineer-the-configurations-lab-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-21",
+    "category": "Backend",
+    "tags": [
+      "Go"
+    ],
+    "salary": "$5,000 - $7,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "7fd1057adf78",
+    "title": "Principal Engineer",
+    "company": "Cocoon",
+    "url": "https://www.getonbrd.com/jobs/principal-engineer-cocoon-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-21",
+    "category": "General",
+    "tags": [],
+    "salary": "$7,100 - $9,600",
+    "source": "Get on Board"
+  },
+  {
     "id": "c1c33c69f7c8",
     "title": "Frontend Engineer",
     "company": "Bjak",
     "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
     "location": "Ireland",
+    "region": "europe",
     "date": "2026-09-20",
     "category": "Frontend",
     "tags": [
@@ -1015,6 +3412,7 @@
     "company": "Twikey",
     "url": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-09-17",
     "category": "Backend",
     "tags": [
@@ -1029,6 +3427,7 @@
     "company": "ExtraHop",
     "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
     "location": "Remote",
+    "region": "worldwide",
     "date": "2026-09-15",
     "category": "Backend",
     "tags": [
@@ -1039,11 +3438,55 @@
     "source": "RemoteOK"
   },
   {
+    "id": "cd1bb109edcd",
+    "title": "Desarrollador/a Drupal Full-Stack",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-drupal-full-stack-bc-tecnologia-lima",
+    "location": "Peru · Hybrid",
+    "region": "latam",
+    "date": "2026-09-15",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "6b8bffae70c1",
+    "title": "Full-Stack Developer – Python / Fastapi / React",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/fullstack-developer-python-fastapi-react-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-14",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "React",
+      "FastAPI"
+    ],
+    "salary": "$2,500 - $2,800",
+    "source": "Get on Board"
+  },
+  {
+    "id": "1cae27b5cde7",
+    "title": "Senior Full-Stack Engineer",
+    "company": "LDD",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-ldd-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-13",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$3,500 - $4,000",
+    "source": "Get on Board"
+  },
+  {
     "id": "944905be04cb",
     "title": "Technical Product Lead AI Finance App",
     "company": "Bjak",
     "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
     "location": "Seoul",
+    "region": "apac",
     "date": "2026-09-12",
     "category": "AI / Data",
     "tags": [
@@ -1059,6 +3502,7 @@
     "company": "Mirantis",
     "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-09-12",
     "category": "Backend",
     "tags": [
@@ -1068,11 +3512,304 @@
     "source": "RemoteOK"
   },
   {
+    "id": "f7f7aec9953e",
+    "title": "Developer – Dynamics 365 & Integraciones",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/senior-backend-developer-dynamics-365-i-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-11",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "5a24aae039d8",
+    "title": "Desarrollador(a) Back-end",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-bc-tecnologia-lima",
+    "location": "Peru · Hybrid",
+    "region": "latam",
+    "date": "2026-09-11",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "de263a55559b",
+    "title": "Desarrollador Full-Stack (React, Spring Boot, Oracle DB)",
+    "company": "SONDA",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-react-spring-boot-oracle-db-sonda-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-10",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "Spring"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "89215c6003a1",
+    "title": "Desarrollador Full-Stack",
+    "company": "Lisit",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-lisit-santiago-f0dd",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-10",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$1,500 - $1,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "58861c334e90",
+    "title": "Tech Lead Senior",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/tech-lead-senior-factor-it-bogota",
+    "location": "Colombia · Hybrid",
+    "region": "latam",
+    "date": "2026-09-09",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "309f32f900a0",
+    "title": "Forward Deployed Engineer",
+    "company": "Diverse Programmers",
+    "url": "https://www.getonbrd.com/jobs/forward-deployed-engineer-diverse-programmers-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-09",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,500 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "b438fe6c8300",
+    "title": "Full-Stack Developer – Node.js / TypeScript / React / AWS",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/fullstack-developer-node-js-typescript-react-aws-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-08",
+    "category": "Fullstack",
+    "tags": [
+      "TypeScript",
+      "React",
+      "Node",
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "f64f4837c5c2",
+    "title": "E-commerce Developer",
+    "company": "Fullkom",
+    "url": "https://www.getonbrd.com/jobs/e-commerce-developer-fullkom-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-08",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,300 - $1,800",
+    "source": "Get on Board"
+  },
+  {
+    "id": "e6f685c1e90b",
+    "title": "Desarrollador/a Full-Stack Node.js",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-node-js-bc-tecnologia-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-08",
+    "category": "Fullstack",
+    "tags": [
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "02a209d1790d",
+    "title": "Desarrollador Full-Stack (MEAN)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-mean-bc-tecnologia-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-08",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "6377f61c30b7",
+    "title": "Software Engineer II",
+    "company": "Dugu",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-ii-dugu-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-05",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,400 - $5,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "ed9617bf6aaa",
+    "title": "Full-Stack C#/.NET + React — Freelance 4 Meses",
+    "company": "Continuum",
+    "url": "https://www.getonbrd.com/jobs/fullstack-c-net-react-freelance-4-meses-remoto-continuum-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-09-05",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "C#",
+      ".NET"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "06fd5e12f745",
+    "title": "Ingeniero de Software Mid Senior",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-de-software-mid-senior-checkr-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-04",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,600 - $3,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "3f8a441cfb3d",
+    "title": "Tech Lead",
+    "company": "Factor IT",
+    "url": "https://www.getonbrd.com/jobs/tech-lead-factor-it-ciudad-de-mexico",
+    "location": "Mexico · Hybrid",
+    "region": "latam",
+    "date": "2026-09-02",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "2dd66b1fd308",
+    "title": "Full-Stack .NET Developer",
+    "company": "Improving",
+    "url": "https://www.getonbrd.com/jobs/middle-net-developer-improving-south-america-ciudad-de-mexico-guadalajara-monterrey-aguascalientes-queretaro",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-02",
+    "category": "Fullstack",
+    "tags": [
+      ".NET"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "a24e25fc5699",
+    "title": "Software Engineer Back-end",
+    "company": "Capital Express",
+    "url": "https://www.getonbrd.com/jobs/senior-ai-engineer-capital-express-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-09-01",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$1,500 - $2,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "2315405e48d1",
+    "title": "Senior Full-Stack Engineer",
+    "company": "Vequity",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-vequity-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-01",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$3,000 - $5,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "27b621e014e6",
+    "title": "Programador Full-Stack (Contabilidad)",
+    "company": "C&D Agromanagement",
+    "url": "https://www.getonbrd.com/jobs/programador-fullstack-contabilidad-c-d-agromanagement-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-09-01",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$1,500 - $2,200",
+    "source": "Get on Board"
+  },
+  {
+    "id": "0035ed657dc7",
+    "title": "Front-end Developer React / Next.JS (SEO)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/front-end-developer-react-next-js-seo-bc-tecnologia-buenos-aires",
+    "location": "Argentina · Hybrid",
+    "region": "argentina",
+    "date": "2026-09-01",
+    "category": "Frontend",
+    "tags": [
+      "React",
+      "Next.js"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "2c3789a8efc7",
+    "title": "Software Engineer",
+    "company": "Carvuk",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-carvuk-santiago-154f",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-08-31",
+    "category": "General",
+    "tags": [],
+    "salary": "$2,000 - $2,900",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c5b5f9514e21",
+    "title": "Desarrollador Full-Stack Semi Senior",
+    "company": "HF Solutions",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-semi-senior-hf-solutions-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-31",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "1261a5bcd5d3",
     "title": "AI Engineer Data APIs",
     "company": "Benzinga",
     "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-08-30",
     "category": "AI / Data",
     "tags": [
@@ -1083,11 +3820,87 @@
     "source": "RemoteOK"
   },
   {
+    "id": "a4ed6dd2c06a",
+    "title": "Software Engineer (Operaciones TI)",
+    "company": "GeoVictoria",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-operaciones-ti-geovictoria-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-28",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "2e0d2c3b9553",
+    "title": "Senior Full-Stack Engineer (Go + Next.JS + React Native)",
+    "company": "California Injury Group, APC",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-go-react-native-california-injury-group-apc-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-08-28",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "React Native",
+      "Next.js",
+      "Go"
+    ],
+    "salary": "$3,500 - $5,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "08cee7e552b9",
+    "title": "Desarrollador Full-Stack Senior Java/angular",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-senior-java-angular-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-28",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "9ec567db10e1",
+    "title": "Back-end Developer – TypeScript / NestJS + IA Generati",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/backend-developer-typescript-nestjs-ia-generati-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-28",
+    "category": "Backend",
+    "tags": [
+      "TypeScript"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "7c2bf91624b1",
+    "title": "Senior Software Engineer Front-end",
+    "company": "Capital Express",
+    "url": "https://www.getonbrd.com/jobs/technical-lead-capital-express-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-27",
+    "category": "Frontend",
+    "tags": [],
+    "salary": "$2,400 - $3,600",
+    "source": "Get on Board"
+  },
+  {
     "id": "8b63708c34e5",
     "title": "Principal Engineer",
     "company": "The AI Whistleblower Initiative",
     "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-08-27",
     "category": "Backend",
     "tags": [
@@ -1097,11 +3910,81 @@
     "source": "RemoteOK"
   },
   {
+    "id": "0261e3aea1ca",
+    "title": "Node.js Back-end Engineer (Semi Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/node-backend-engineer-semi-senior-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-08-27",
+    "category": "Backend",
+    "tags": [
+      "Node"
+    ],
+    "salary": "$2,000 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "82167d065d9b",
+    "title": "Ingeniero/a de Software C/C++",
+    "company": "ATENTUS",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-a-de-software-c-c-atentus-cordoba-buenos-aires-mendoza-santiago",
+    "location": "Chile, Argentina · Hybrid",
+    "region": "argentina",
+    "date": "2026-08-27",
+    "category": "General",
+    "tags": [],
+    "salary": "$1,500 - $2,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "610e891cf4f7",
+    "title": "Full-Stack Engineer (Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/full-stack-engineer-senior-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-08-27",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,700 - $3,700",
+    "source": "Get on Board"
+  },
+  {
+    "id": "02b51ad10193",
+    "title": "Full-Stack Engineer (Semi Senior)",
+    "company": "ProntoPaga",
+    "url": "https://www.getonbrd.com/jobs/full-stack-engineer-semi-senior-prontopaga-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-08-27",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,000 - $3,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "83cd62b7a71e",
+    "title": "Senior Back-end Developer – TypeScript / NestJS",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/senior-backend-developer-typescript-nestjs-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-26",
+    "category": "Backend",
+    "tags": [
+      "TypeScript"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "24fd8ccceb72",
     "title": "Senior Backend Engineer Build AI Agents",
     "company": "Salesforge",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-08-25",
     "category": "AI / Data",
     "tags": [
@@ -1112,11 +3995,25 @@
     "source": "RemoteOK"
   },
   {
+    "id": "37b82e591d90",
+    "title": "Full-Stack Developer",
+    "company": "Laboratorio Laboral SPA",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-laboratorio-laboral-spa-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-24",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$2,500 - $2,700",
+    "source": "Get on Board"
+  },
+  {
     "id": "911da99485ea",
     "title": "DESARROLLADOR FULL STACK",
     "company": "Kruger NearShore LLC - Rekluti",
     "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
     "location": "Worldwide Remote",
+    "region": "worldwide",
     "date": "2026-08-22",
     "category": "Fullstack",
     "tags": [
@@ -1130,11 +4027,25 @@
     "source": "RemoteOK"
   },
   {
+    "id": "af9c56b8ba1f",
+    "title": "Head of Engineering Kastor",
+    "company": "KASTOR SPA",
+    "url": "https://www.getonbrd.com/jobs/vp-of-engineering-kastor-acp-s-a-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-20",
+    "category": "General",
+    "tags": [],
+    "salary": "$3,000 - $4,000",
+    "source": "Get on Board"
+  },
+  {
     "id": "f724e65bc8b7",
     "title": "Consultant Implementation Engineer",
     "company": "Harbor",
     "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
     "location": "Remote",
+    "region": "worldwide",
     "date": "2026-08-20",
     "category": "Backend",
     "tags": [
@@ -1144,11 +4055,89 @@
     "source": "RemoteOK"
   },
   {
+    "id": "7f96486d809f",
+    "title": "WordPress Content Publishing Specialist / Junior Front-end D",
+    "company": "Josh Brown Consulting",
+    "url": "https://www.getonbrd.com/jobs/wordpress-content-publishing-specialist-junior-front-end-d-josh-brown-consulting-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-08-19",
+    "category": "Frontend",
+    "tags": [
+      "WordPress"
+    ],
+    "salary": "$1,200 - $1,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "f1dd6268820b",
+    "title": "Full-Stack Developer Python Node.js",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-python-nodejs-bc-tecnologia-santiago",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-08-19",
+    "category": "Fullstack",
+    "tags": [
+      "Python",
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c67ec3990efc",
+    "title": "Desarrollador(a) Full-Stack – IA / React / Node.js",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-ia-react-node-js-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-08-19",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "Node"
+    ],
+    "salary": "$3,000 - $3,300",
+    "source": "Get on Board"
+  },
+  {
+    "id": "8de17addb1ac",
+    "title": "Full-Stack Developer AWS",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-aws-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-08-18",
+    "category": "Fullstack",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "c0f8465a6b32",
+    "title": "Tech Lead AI Cloud",
+    "company": "NeuralWorks",
+    "url": "https://www.getonbrd.com/jobs/tech-lead-neuralworks-santiago-dc0f",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-17",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
     "id": "e110da9a8e46",
     "title": "Staff Software Engineer",
     "company": "Samsara",
     "url": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
     "location": "Worldwide / Remote",
+    "region": "worldwide",
     "date": "2026-08-17",
     "category": "General",
     "tags": [],
@@ -1161,6 +4150,7 @@
     "company": "Pivotal Health",
     "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
     "location": "New York City",
+    "region": "usa",
     "date": "2026-08-16",
     "category": "Frontend",
     "tags": [
@@ -1175,10 +4165,314 @@
     "company": "Ace IT Careers",
     "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
     "location": "Remote",
+    "region": "worldwide",
     "date": "2026-08-15",
     "category": "General",
     "tags": [],
     "salary": null,
     "source": "RemoteOK"
+  },
+  {
+    "id": "27a44c966cf0",
+    "title": "Sr Software Engineer Devx",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/sr-software-engineer-devx-checkr-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-14",
+    "category": "General",
+    "tags": [],
+    "salary": "$4,000 - $5,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "eb5da15c9577",
+    "title": "Desarrollador/a Full-Stack (Semi Senior / Senior)",
+    "company": "TIMINING",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-semi-senior-senior-timining-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-08-13",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "3a7fe672e273",
+    "title": "Desarrollador/a Back-end Junior",
+    "company": "Inversiones Vertice Limitada",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-backend-junior-inversiones-vertice-limitada-santiago",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-08-11",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$1,200 - $1,600",
+    "source": "Get on Board"
+  },
+  {
+    "id": "03dc1696d731",
+    "title": "Arquitecto/a de Software Cloud AWS",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/arquitecto-a-de-software-cloud-aws-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-10",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "4633888e694c",
+    "title": "Senior Full-Stack Engineer",
+    "company": "Bavardio",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-engineer-bavardio-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-08-06",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$4,000 - $6,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "c24b169c0bfb",
+    "title": "WordPress Developer (AI First)",
+    "company": "Brand & Bot",
+    "url": "https://www.getonbrd.com/jobs/wordpress-developer-ai-first-brand-bot-remote",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-08-04",
+    "category": "AI / Data",
+    "tags": [
+      "AI",
+      "WordPress"
+    ],
+    "salary": "$3,000 - $5,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "3fe0dccc02ca",
+    "title": "Senior Full-Stack Node.js/GCP",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/senior-fullstack-node-js-gcp-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-08-03",
+    "category": "Fullstack",
+    "tags": [
+      "Node",
+      "GCP"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "14b6a08af0b1",
+    "title": "Senior Full-Stack Software Developer",
+    "company": "One Click Technology LLC",
+    "url": "https://www.getonbrd.com/jobs/senior-full-stack-software-developer-one-click-technology-llc-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-31",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$5,500 - $7,000",
+    "source": "Get on Board"
+  },
+  {
+    "id": "0c5a5c71dd4a",
+    "title": "Desarrollador Full-Stack",
+    "company": "SONDA",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-sonda-santiago-333d",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-30",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "506a9d1f2832",
+    "title": "Ingeniero Software Senior Back-end",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/ingeniero-software-senior-backend-checkr-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-29",
+    "category": "Backend",
+    "tags": [],
+    "salary": "$3,600 - $4,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "25ce43a8ff03",
+    "title": "Tech Lead Engineer",
+    "company": "Checkr",
+    "url": "https://www.getonbrd.com/jobs/tech-lead-engineer-checkr-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-28",
+    "category": "General",
+    "tags": [],
+    "salary": "$4,700 - $5,700",
+    "source": "Get on Board"
+  },
+  {
+    "id": "5033a1c35154",
+    "title": "Desarrollador Full-Stack Node.js / Angular",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-node-js-angular-bc-tecnologia-remote-2c3b",
+    "location": "Remote · Remote (local)",
+    "region": "latam",
+    "date": "2026-07-27",
+    "category": "Fullstack",
+    "tags": [
+      "Angular",
+      "Node"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "d9bdfe81b8df",
+    "title": "Desarrollador Full-Stack Java",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-full-stack-java-bc-tecnologia-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-27",
+    "category": "Fullstack",
+    "tags": [
+      "Java"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ba5390bb7979",
+    "title": "Back-end Developer .NET + Python",
+    "company": "RyC Tech Group",
+    "url": "https://www.getonbrd.com/jobs/backend-developer-net-python-ryc-tech-group-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-23",
+    "category": "Backend",
+    "tags": [
+      "Python",
+      ".NET"
+    ],
+    "salary": "$2,000 - $2,500",
+    "source": "Get on Board"
+  },
+  {
+    "id": "233a4d028eb3",
+    "title": "Senior Back-end Engineer Go GCP",
+    "company": "Continuum",
+    "url": "https://www.getonbrd.com/jobs/software-engineer-backend-senior-continuum-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Go",
+      "GCP"
+    ],
+    "salary": "$3,200 - $4,400",
+    "source": "Get on Board"
+  },
+  {
+    "id": "9e10241c5b75",
+    "title": "Applied AI Developer, APIs and Business Intelligence",
+    "company": "PaperStreet Web Design",
+    "url": "https://www.getonbrd.com/jobs/applied-ai-developer-apis-and-business-intelligence-paperstreet-web-design-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-21",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "dd9681432467",
+    "title": "Desarrollador Full-Stack",
+    "company": "KDU Ingeniería",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-fullstack-kdu-ingenieria-santiago-2470",
+    "location": "Chile · No remote",
+    "region": "latam",
+    "date": "2026-07-18",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$3,400 - $4,400",
+    "source": "Get on Board"
+  },
+  {
+    "id": "df7eadea1f52",
+    "title": "Real Time Voice & Video Streaming Engineer WebRTC / Livekit",
+    "company": "SugarShan Inc",
+    "url": "https://www.getonbrd.com/jobs/real-time-ai-orchestration-engineer-sugarshan-inc-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-14",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "43ae1ccae765",
+    "title": "Full-Stack Developer React + AWS Serverless",
+    "company": "RyC Tech Group",
+    "url": "https://www.getonbrd.com/jobs/full-stack-developer-react-aws-serverless-ryc-tech-group-santiago",
+    "location": "Chile · Hybrid",
+    "region": "latam",
+    "date": "2026-07-14",
+    "category": "Fullstack",
+    "tags": [
+      "React",
+      "AWS"
+    ],
+    "salary": "$1,800 - $2,800",
+    "source": "Get on Board"
+  },
+  {
+    "id": "2ac25b808560",
+    "title": "Senior Back-end Engineer (Node.js / TypeScript / AWS)",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/senior-backend-engineer-node-js-typescript-aws-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-13",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "TypeScript",
+      "Node",
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "905a22dde4f4",
+    "title": "Freelance Full-Stack AI Automation",
+    "company": "The Future Perfect",
+    "url": "https://www.getonbrd.com/jobs/freelance-full-stack-ai-automation-the-future-perfect-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "date": "2026-07-13",
+    "category": "Fullstack",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "Get on Board"
   }
 ]

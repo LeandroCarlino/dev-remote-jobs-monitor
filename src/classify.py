@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import html
 import re
+import unicodedata
 from collections.abc import Iterable, Sequence
 
 # --------------------------------------------------------------------------- #
@@ -215,6 +216,202 @@ _CATEGORY_PATTERNS = tuple(
     for category, patterns in _CATEGORY_RULES
 )
 DEFAULT_CATEGORY = "General"
+
+
+# --------------------------------------------------------------------------- #
+# Region detection (Latam / Argentina / global)
+# --------------------------------------------------------------------------- #
+def fold(text: str | None) -> str:
+    """Lowercase and strip accents, so "México" and "Mexico" match."""
+    decomposed = unicodedata.normalize("NFKD", text or "")
+    return "".join(
+        char for char in decomposed if not unicodedata.combining(char)
+    ).lower()
+
+
+_REGION_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
+    (
+        "argentina",
+        (
+            r"\bargentin",
+            r"\bbuenos aires\b",
+            r"\bcaba\b",
+            r"\bcordoba\b",
+            r"\brosario\b",
+            r"\bmendoza\b",
+            r"\bla plata\b",
+            r"\bmar del plata\b",
+            r"\btucuman\b",
+            r"\bsalta\b",
+            r"\bneuquen\b",
+        ),
+    ),
+    (
+        "latam",
+        (
+            r"\blatam\b",
+            r"\blatin america\b",
+            r"\blatinoamerica\b",
+            r"\bsudamerica\b",
+            r"\bsouth america\b",
+            r"\bchile\b",
+            r"\buruguay\b",
+            r"\bcolombia\b",
+            r"\bmexico\b",
+            r"\bperu\b",
+            r"\bbrasil\b",
+            r"\bbrazil\b",
+            r"\becuador\b",
+            r"\bbolivia\b",
+            r"\bparaguay\b",
+            r"\bvenezuela\b",
+            r"\bcosta rica\b",
+            r"\bpanama\b",
+            r"\bguatemala\b",
+            r"\bhonduras\b",
+            r"\bel salvador\b",
+            r"\bnicaragua\b",
+            r"\bcuba\b",
+            r"\bdominicana?\b",
+            r"\bpuerto rico\b",
+        ),
+    ),
+    (
+        "spain",
+        (
+            r"\bspain\b",
+            r"\bespana\b",
+            r"\bmadrid\b",
+            r"\bbarcelona\b",
+            r"\bvalencia\b",
+            r"\bsevilla\b",
+        ),
+    ),
+    (
+        "europe",
+        (
+            r"\beurope\b",
+            r"\bemea\b",
+            r"\bunited kingdom\b",
+            r"\buk\b",
+            r"\bgermany\b",
+            r"\bfrance\b",
+            r"\bnetherlands\b",
+            r"\bportugal\b",
+            r"\bpoland\b",
+            r"\bireland\b",
+            r"\bsweden\b",
+            r"\bswitzerland\b",
+            r"\bitaly\b",
+            r"\bnorway\b",
+            r"\bdenmark\b",
+            r"\bfinland\b",
+            r"\baustria\b",
+            r"\bbelgium\b",
+            r"\bczech\b",
+            r"\bromania\b",
+            r"\bgreece\b",
+            r"\bwarsaw\b",
+            r"\bberlin\b",
+            r"\blondon\b",
+            r"\bparis\b",
+            r"\bamsterdam\b",
+            r"\bdublin\b",
+            r"\blisbon\b",
+            r"\bmunich\b",
+            r"\bstockholm\b",
+            r"\bzurich\b",
+            r"\bmilan\b",
+            r"\bprague\b",
+        ),
+    ),
+    (
+        "usa",
+        (
+            r"\bunited states\b",
+            r"\busa\b",
+            r"\bu\.s\.\b",
+            r"\bus only\b",
+            r"\bany state\b",
+            r"\bnew york\b",
+            r"\bcalifornia\b",
+            r"\btexas\b",
+            r"\bremote \(us",
+            r"\bseattle\b",
+            r"\baustin\b",
+            r"\bboston\b",
+            r"\bpalo alto\b",
+            r"\bmenlo park\b",
+            r"\bsan francisco\b",
+            r"\bkansas\b",
+            r"\bchicago\b",
+            r"\bdenver\b",
+            r"\batlanta\b",
+            r"\bmiami\b",
+            r"\blos angeles\b",
+            r"\bphiladelphia\b",
+            r"\bsan diego\b",
+        ),
+    ),
+    ("canada", (r"\bcanada\b", r"\btoronto\b", r"\bvancouver\b", r"\bmontreal\b")),
+    (
+        "apac",
+        (
+            r"\bapac\b",
+            r"\basia\b",
+            r"\bindia\b",
+            r"\bsingapore\b",
+            r"\baustralia\b",
+            r"\bjapan\b",
+            r"\bphilippines\b",
+            r"\bindonesia\b",
+            r"\bvietnam\b",
+            r"\bchina\b",
+            r"\bkorea\b",
+            r"\bnew zealand\b",
+            r"\bseoul\b",
+            r"\btokyo\b",
+            r"\btaipei\b",
+            r"\bhong kong\b",
+            r"\bbangalore\b",
+            r"\bsydney\b",
+            r"\bmelbourne\b",
+        ),
+    ),
+    (
+        "africa",
+        (r"\bafrica\b", r"\bnigeria\b", r"\bkenya\b", r"\begypt\b", r"\bmorocco\b"),
+    ),
+    (
+        "worldwide",
+        (
+            r"\bworldwide\b",
+            r"\banywhere\b",
+            r"\bglobal\b",
+            r"\bworld\b",
+            r"\bremote\b",
+            r"\binternational\b",
+            r"\bany location\b",
+        ),
+    ),
+)
+_REGION_PATTERNS = tuple(
+    (region, tuple(re.compile(p) for p in patterns))
+    for region, patterns in _REGION_RULES
+)
+DEFAULT_REGION = "other"
+
+
+def detect_region(location: str | None, default: str = DEFAULT_REGION) -> str:
+    """Map a free-text location to a coarse region used by the dashboard filter."""
+    haystack = fold(location)
+    if not haystack:
+        return default
+    for region, patterns in _REGION_PATTERNS:
+        if _matches(patterns, haystack):
+            return region
+    return default
+
 
 # --------------------------------------------------------------------------- #
 # Dev job detection

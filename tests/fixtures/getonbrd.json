@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": "desarrollador-back-end-python-aws-acme-santiago",
+      "type": "job",
+      "attributes": {
+        "title": "Desarrollador/a Back-end Python (AWS)",
+        "remote": false,
+        "remote_modality": "hybrid",
+        "countries": ["Chile"],
+        "published_at": 1762819200,
+        "min_salary": 2800,
+        "max_salary": 3000,
+        "company": {
+          "data": {
+            "id": "acme",
+            "type": "company",
+            "attributes": { "name": "Acme SpA" }
+          }
+        }
+      }
+    },
+    {
+      "id": "senior-backend-engineer-globex-buenos-aires",
+      "type": "job",
+      "attributes": {
+        "title": "Senior Backend Engineer",
+        "remote": true,
+        "remote_modality": "remote",
+        "countries": ["Argentina"],
+        "published_at": 1762819200,
+        "min_salary": null,
+        "max_salary": null,
+        "company": {
+          "data": {
+            "id": "globex",
+            "type": "company",
+            "attributes": { "name": "Globex" }
+          }
+        }
+      }
+    },
+    {
+      "id": "product-manager-initech-santiago",
+      "type": "job",
+      "attributes": {
+        "title": "Product Manager",
+        "remote": true,
+        "remote_modality": "remote",
+        "countries": ["Chile"],
+        "published_at": 1762819200,
+        "company": {
+          "data": {
+            "id": "initech",
+            "type": "company",
+            "attributes": { "name": "Initech" }
+          }
+        }
+      }
+    }
+  ],
+  "meta": { "page": 1, "per_page": 120, "total_pages": 1 }
+}

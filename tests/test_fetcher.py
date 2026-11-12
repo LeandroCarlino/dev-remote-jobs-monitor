@@ -12,6 +12,8 @@ from src import main as pipeline
 from src.fetcher import (
     dedupe,
     format_salary,
+    parse_getonbrd,
+    parse_jobicy,
     parse_remotive,
     parse_remoteok,
     parse_weworkremotely,
@@ -75,6 +77,7 @@ class RemoteOkParsingTest(unittest.TestCase):
             "company",
             "url",
             "location",
+            "region",
             "date",
             "category",
             "tags",
@@ -142,6 +145,96 @@ class RemotiveParsingTest(unittest.TestCase):
     def test_mobile_category(self):
         by_title = {job["title"]: job for job in self.jobs}
         self.assertEqual(by_title["Mobile Engineer (Flutter)"]["category"], "Mobile")
+
+
+class GetOnBoardParsingTest(unittest.TestCase):
+    def setUp(self):
+        self.jobs = parse_getonbrd(load_fixture("getonbrd.json"))
+        self.by_title = {job["title"]: job for job in self.jobs}
+
+    def test_non_dev_listing_is_dropped(self):
+        self.assertEqual(len(self.jobs), 2)
+        self.assertNotIn("Product Manager", self.by_title)
+
+    def test_company_is_expanded_from_the_relation(self):
+        self.assertEqual(self.by_title["Senior Backend Engineer"]["company"], "Globex")
+
+    def test_public_url_is_built_from_the_slug(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer"]["url"],
+            "https://www.getonbrd.com/jobs/senior-backend-engineer-globex-buenos-aires",
+        )
+
+    def test_region_comes_from_the_country_list(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer"]["region"], "argentina"
+        )
+        self.assertEqual(
+            self.by_title["Desarrollador/a Back-end Python (AWS)"]["region"],
+            "latam",
+        )
+
+    def test_salary_does_not_guess_a_currency(self):
+        self.assertEqual(
+            self.by_title["Desarrollador/a Back-end Python (AWS)"]["salary"],
+            "$2,800 - $3,000",
+        )
+        self.assertIsNone(self.by_title["Senior Backend Engineer"]["salary"])
+
+    def test_location_keeps_the_modality(self):
+        self.assertEqual(
+            self.by_title["Senior Backend Engineer"]["location"],
+            "Argentina · Remote",
+        )
+        self.assertEqual(
+            self.by_title["Desarrollador/a Back-end Python (AWS)"]["location"],
+            "Chile · Hybrid",
+        )
+
+    def test_unknown_modality_is_humanised(self):
+        payload = {
+            "data": [
+                {
+                    "id": "dev-remote-x",
+                    "attributes": {
+                        "title": "Backend Developer",
+                        "countries": ["Chile"],
+                        "remote_modality": "fully_remote",
+                    },
+                }
+            ]
+        }
+        job = parse_getonbrd(payload)[0]
+        self.assertEqual(job["location"], "Chile · Fully remote")
+
+    def test_empty_payload_is_safe(self):
+        self.assertEqual(parse_getonbrd({}), [])
+        self.assertEqual(parse_getonbrd(None), [])
+
+
+class JobicyParsingTest(unittest.TestCase):
+    def setUp(self):
+        self.jobs = parse_jobicy(load_fixture("jobicy.json"))
+        self.by_title = {job["title"]: job for job in self.jobs}
+
+    def test_non_dev_listing_is_dropped(self):
+        self.assertEqual(len(self.jobs), 2)
+        self.assertNotIn("Product Marketing Manager", self.by_title)
+
+    def test_region_comes_from_job_geo(self):
+        self.assertEqual(
+            self.by_title["Senior Integration Engineer"]["region"], "latam"
+        )
+        self.assertEqual(self.by_title["Backend Developer"]["region"], "argentina")
+
+    def test_salary_is_formatted_with_currency(self):
+        self.assertEqual(
+            self.by_title["Backend Developer"]["salary"],
+            "$60,000 - $80,000 USD",
+        )
+
+    def test_date_is_trimmed_to_the_day(self):
+        self.assertEqual(self.by_title["Backend Developer"]["date"], "2026-11-10")
 
 
 class DedupeTest(unittest.TestCase):

@@ -1,0 +1,41 @@
+{
+  "apiVersion": "2.2.19",
+  "jobCount": 3,
+  "jobs": [
+    {
+      "id": 155132,
+      "url": "https://jobicy.com/jobs/155132-senior-integration-engineer",
+      "jobSlug": "155132-senior-integration-engineer",
+      "jobTitle": "Senior Integration Engineer",
+      "companyName": "Legion",
+      "jobIndustry": ["Software Engineering"],
+      "jobGeo": "Mexico",
+      "jobLevel": "Senior",
+      "pubDate": "2026-11-12T03:41:11+00:00",
+      "jobExcerpt": "Senior Integration Engineer Remote, Mexico"
+    },
+    {
+      "id": 155133,
+      "url": "https://jobicy.com/jobs/155133-product-marketing-manager",
+      "jobSlug": "155133-product-marketing-manager",
+      "jobTitle": "Product Marketing Manager",
+      "companyName": "Acme",
+      "jobIndustry": ["Marketing"],
+      "jobGeo": "Argentina",
+      "pubDate": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "id": 155134,
+      "url": "https://jobicy.com/jobs/155134-backend-developer",
+      "jobSlug": "155134-backend-developer",
+      "jobTitle": "Backend Developer",
+      "companyName": "Globex",
+      "jobIndustry": ["Software Engineering"],
+      "jobGeo": "Argentina,  Brazil",
+      "pubDate": "2026-11-10T08:00:00+00:00",
+      "annualSalaryMin": 60000,
+      "annualSalaryMax": 80000,
+      "salaryCurrency": "USD"
+    }
+  ]
+}

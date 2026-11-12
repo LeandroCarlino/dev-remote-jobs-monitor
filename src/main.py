@@ -51,6 +51,9 @@ def build_stats(jobs: list[dict]) -> dict:
         "categories": dict(
             Counter(job.get("category", "General") for job in jobs).most_common()
         ),
+        "regions": dict(
+            Counter(job.get("region", "other") for job in jobs).most_common()
+        ),
         "sources": dict(
             Counter(job.get("source", "Unknown") for job in jobs).most_common()
         ),

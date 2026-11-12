@@ -8,6 +8,7 @@ from src.classify import (
     DEFAULT_CATEGORY,
     clean_html,
     detect_category,
+    detect_region,
     extract_tags,
     is_dev_job,
     shorten,
@@ -94,6 +95,41 @@ class DetectCategoryTest(unittest.TestCase):
             detect_category("Mobile Engineer", [], ["backend"]),
             "Mobile",
         )
+
+
+class DetectRegionTest(unittest.TestCase):
+    CASES = (
+        ("Argentina", "argentina"),
+        ("Buenos Aires, Argentina", "argentina"),
+        ("CABA", "argentina"),
+        ("Córdoba, Argentina", "argentina"),
+        ("LATAM,  Europe,  USA,  Canada,  APAC", "latam"),
+        ("Latin America", "latam"),
+        ("Chile · remote", "latam"),
+        ("Mexico", "latam"),
+        ("Brazil", "latam"),
+        ("Spain", "spain"),
+        ("Europe, USA", "europe"),
+        ("United States", "usa"),
+        ("Anywhere in the World", "worldwide"),
+        ("Worldwide Remote", "worldwide"),
+        ("Remote", "worldwide"),
+        ("Warsaw", "europe"),
+        ("Palo Alto", "usa"),
+        ("Seoul", "apac"),
+        ("", "other"),
+    )
+
+    def test_region_matrix(self):
+        for location, expected in self.CASES:
+            with self.subTest(location=location):
+                self.assertEqual(detect_region(location), expected)
+
+    def test_default_region_can_be_overridden(self):
+        self.assertEqual(detect_region("", "latam"), "latam")
+
+    def test_accents_are_ignored(self):
+        self.assertEqual(detect_region("Perú"), detect_region("Peru"))
 
 
 class IsDevJobTest(unittest.TestCase):
