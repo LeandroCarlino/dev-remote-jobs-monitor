@@ -83,6 +83,14 @@ def _cell(value: str) -> str:
     return (value or "").replace("|", "-").replace("\n", " ")
 
 
+def _display_date(iso: str) -> str:
+    """ISO in the data, dd/mm/yyyy in the README (Argentine format)."""
+    try:
+        return datetime.strptime((iso or "")[:10], "%Y-%m-%d").strftime("%d/%m/%Y")
+    except (TypeError, ValueError):
+        return iso or ""
+
+
 def _badge(label: str, count: int) -> str:
     # shields.io: "-" -> "--", "_" -> "__", spaces -> "_" (or %20, both render).
     escaped = label.replace("-", "--").replace("_", "__").replace(" ", "_")
@@ -105,7 +113,7 @@ def generate_markdown_table(jobs: list[dict], limit: int = README_TABLE_SIZE) ->
         location = _cell(job.get("location", "Remote"))
         lines.append(
             f"| **[{title}]({url})** | {company} | `{job.get('category', 'General')}` "
-            f"| {tags} | {location} | {job.get('date', '')} |"
+            f"| {tags} | {location} | {_display_date(job.get('date', ''))} |"
         )
     return "\n".join(lines)
 

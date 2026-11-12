@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="DevJobs Remote — vacantes remotas para developers">
+  <title>DevJobs Remote</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="55%" stop-color="#101728"/>
+      <stop offset="100%" stop-color="#141b30"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.05" r="0.75">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.92" cy="1.05" r="0.6">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+  <rect width="1200" height="320" fill="url(#glow2)"/>
+
+  <g font-family="Segoe UI, Inter, system-ui, -apple-system, sans-serif">
+    <!-- logo -->
+    <g transform="translate(72,70)">
+      <rect width="68" height="68" rx="18" fill="url(#accent)"/>
+      <path d="M22 24l11 10-11 10" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M38 44h12" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+    </g>
+
+    <!-- title -->
+    <text x="164" y="118" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="-1">DevJobs <tspan fill="#818cf8">Remote</tspan></text>
+    <text x="166" y="154" font-size="21" fill="#94a3b8">Vacantes remotas para developers · foco Latam y Argentina</text>
+
+    <!-- pills -->
+    <g font-size="15" font-weight="600" fill="#c7d2fe">
+      <g transform="translate(72,214)">
+        <rect width="128" height="40" rx="20" fill="#111827" stroke="#1f2937"/>
+        <circle cx="24" cy="20" r="4" fill="#34d399"/>
+        <text x="40" y="25">API JSON</text>
+      </g>
+      <g transform="translate(216,214)">
+        <rect width="108" height="40" rx="20" fill="#111827" stroke="#1f2937"/>
+        <circle cx="24" cy="20" r="4" fill="#fbbf24"/>
+        <text x="40" y="25">RSS</text>
+      </g>
+      <g transform="translate(340,214)">
+        <rect width="126" height="40" rx="20" fill="#111827" stroke="#1f2937"/>
+        <circle cx="24" cy="20" r="4" fill="#22d3ee"/>
+        <text x="40" y="25">5 fuentes</text>
+      </g>
+      <g transform="translate(482,214)">
+        <rect width="146" height="40" rx="20" fill="#111827" stroke="#1f2937"/>
+        <circle cx="24" cy="20" r="4" fill="#818cf8"/>
+        <text x="40" y="25">cada 6 horas</text>
+      </g>
+      <g transform="translate(644,214)">
+        <rect width="164" height="40" rx="20" fill="#111827" stroke="#1f2937"/>
+        <circle cx="24" cy="20" r="4" fill="#f472b6"/>
+        <text x="40" y="25">sin claves</text>
+      </g>
+    </g>
+
+    <!-- right side decoration: tiny job card -->
+    <g transform="translate(880,58)">
+      <rect width="250" height="200" rx="18" fill="#0f172a" stroke="#1f2937"/>
+      <rect x="20" y="22" width="120" height="12" rx="6" fill="#1e293b"/>
+      <rect x="20" y="46" width="70" height="10" rx="5" fill="#312e81"/>
+      <rect x="20" y="76" width="190" height="12" rx="6" fill="#334155"/>
+      <rect x="20" y="96" width="150" height="12" rx="6" fill="#334155"/>
+      <g fill="#1e293b">
+        <rect x="20" y="126" width="56" height="22" rx="11"/>
+        <rect x="84" y="126" width="64" height="22" rx="11"/>
+        <rect x="156" y="126" width="48" height="22" rx="11"/>
+      </g>
+      <rect x="20" y="162" width="86" height="24" rx="12" fill="url(#accent)"/>
+    </g>
+  </g>
+</svg>

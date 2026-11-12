@@ -372,6 +372,24 @@ class ReadmeRenderingTest(unittest.TestCase):
         self.assertIn("C%23", pipeline._badge("C#", 3))
         self.assertIn("Machine_Learning", pipeline._badge("Machine Learning", 3))
 
+    def test_table_dates_use_the_argentine_format(self):
+        jobs = [
+            {
+                "title": "Backend Developer",
+                "company": "Acme",
+                "url": "https://example.test/job",
+                "location": "Remote",
+                "category": "Backend",
+                "tags": ["Python"],
+                "date": "2026-11-12",
+                "salary": None,
+                "source": "Test",
+            }
+        ]
+        table = pipeline.generate_markdown_table(jobs)
+        self.assertIn("12/11/2026", table)
+        self.assertNotIn("2026-11-12", table)
+
 
 if __name__ == "__main__":
     unittest.main()
