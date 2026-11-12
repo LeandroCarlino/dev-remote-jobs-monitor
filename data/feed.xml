@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevJobs Remote — vacantes remotas para desarrolladores</title>
+    <link>https://leandrocarlino.github.io/dev-remote-jobs-monitor/</link>
+    <description>Ofertas remotas de desarrollo, actualizadas cada 6 horas. Incluye vacantes de Latam y Argentina.</description>
+    <language>es-AR</language>
+    <lastBuildDate>Thu, 12 Nov 2026 07:23:55 +0000</lastBuildDate>
+    <atom:link href="https://leandrocarlino.github.io/dev-remote-jobs-monitor/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Software Engineer - Python - Container Images — Canonical</title>
+      <link>https://jobicy.com/jobs/150364-software-engineer-python-container-images</link>
+      <guid isPermaLink="false">f2d7d2483e4c</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Canonical · APAC, EMEA, LATAM, Canada, USA · General · Python · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Integration Engineer — Legion</title>
+      <link>https://jobicy.com/jobs/155132-senior-integration-engineer-2</link>
+      <guid isPermaLink="false">ec60c8de7059</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Legion · Mexico · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Open Source Networking Software Engineer - ToR Switch / SmartNIC / DPU — Canonical</title>
+      <link>https://jobicy.com/jobs/150360-open-source-networking-software-engineer-tor-switch-smartnic-dpu</link>
+      <guid isPermaLink="false">fd8983e0f1be</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Canonical · APAC, LATAM, Canada, China, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Software Engineer(python) — Softtechassociate</title>
+      <link>https://www.getonbrd.com/jobs/software-engineer-python-softtechassociate-remote</link>
+      <guid isPermaLink="false">5c17ea73e79a</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Softtechassociate · Remote · Fully remote · General · Python · $3,000 - $5,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Observability (Go) — FastCTO</title>
+      <link>https://www.getonbrd.com/jobs/senior-software-engineer-observability-go-fastcto-remote</link>
+      <guid isPermaLink="false">4035400844ab</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>FastCTO · Remote · Remote (local) · Backend · Go · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Data Product — TRM Labs</title>
+      <link>https://jobicy.com/jobs/155044-senior-software-engineer-data-product</link>
+      <guid isPermaLink="false">592c3c33e39c</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>TRM Labs · LATAM · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Fullstack Engineer — Toptal</title>
+      <link>https://jobicy.com/jobs/161444-senior-fullstack-engineer-4</link>
+      <guid isPermaLink="false">f3dccf2f302d</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Toptal · LATAM, Europe · Fullstack · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Data Analyst — Tremendous</title>
+      <link>https://jobicy.com/jobs/152859-senior-data-analyst</link>
+      <guid isPermaLink="false">20ec92a996ea</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Tremendous · LATAM, Canada, USA · AI / Data · Jobicy</description>
+    </item>
+    <item>
+      <title>Semi Senior Full-Stack Java Developer (QA &amp; AI) Bilingüe — 23people</title>
+      <link>https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago</link>
+      <guid isPermaLink="false">510475e6a094</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>23people · Chile · Hybrid · Fullstack · AI, Java · $2,800 - $3,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Engineer (TypeScript, Next.JS, Postgres) — OpsBox AI</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-engineer-typescript-next-js-postgres-opsbox-ai-remote</link>
+      <guid isPermaLink="false">b7b2c46a120d</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>OpsBox AI · Remote · Remote (local) · Fullstack · TypeScript, Next.js, PostgreSQL · $4,500+ · Get on Board</description>
+    </item>
+    <item>
+      <title>Full Stack Engineer — 3Y Health</title>
+      <link>https://jobicy.com/jobs/161435-full-stack-engineer-9</link>
+      <guid isPermaLink="false">c868da263713</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>3Y Health · Argentina · Fullstack · Jobicy</description>
+    </item>
+    <item>
+      <title>Full Stack AI Engineer — 3Y Health</title>
+      <link>https://jobicy.com/jobs/161438-full-stack-ai-engineer</link>
+      <guid isPermaLink="false">ed39caa5c7c0</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>3Y Health · Argentina · Fullstack · AI · Jobicy</description>
+    </item>
+    <item>
+      <title>Founding Engineer — 3Y Health</title>
+      <link>https://jobicy.com/jobs/161432-founding-engineer</link>
+      <guid isPermaLink="false">811c2838e6be</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>3Y Health · Argentina · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Devops Engineer (Azure) — Particle41</title>
+      <link>https://jobicy.com/jobs/161433-devops-engineer-azure</link>
+      <guid isPermaLink="false">6ed158edee74</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Particle41 · Mexico · DevOps / Cloud · Azure, DevOps · Jobicy</description>
+    </item>
+    <item>
+      <title>Devops Engineer (AWS) — Particle41</title>
+      <link>https://jobicy.com/jobs/161429-devops-engineer-aws</link>
+      <guid isPermaLink="false">269369e58ea6</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Particle41 · Argentina · DevOps / Cloud · AWS, DevOps · Jobicy</description>
+    </item>
+    <item>
+      <title>Developer IA (Go/Node.js/React/GCP) — Agilistik</title>
+      <link>https://www.getonbrd.com/jobs/developer-ia-go-node-react-gcp-agilistik-santiago</link>
+      <guid isPermaLink="false">dc164be163ce</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Agilistik · Chile · Hybrid · DevOps / Cloud · React, Node, Go, GCP · Get on Board</description>
+    </item>
+    <item>
+      <title>DevOps Engineer (GCP) — Particle41</title>
+      <link>https://jobicy.com/jobs/161436-devops-engineer-gcp</link>
+      <guid isPermaLink="false">c0ba342d626a</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Particle41 · Mexico · DevOps / Cloud · GCP, DevOps · Jobicy</description>
+    </item>
+    <item>
+      <title>DevOps — Cumplo</title>
+      <link>https://www.getonbrd.com/jobs/dev-ops-cumplo-santiago</link>
+      <guid isPermaLink="false">efd4215050ad</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Cumplo · Chile · Hybrid · DevOps / Cloud · DevOps · Get on Board</description>
+    </item>
+    <item>
+      <title>Dev Full-Stack Integraciones [Contractor] — Rankmi</title>
+      <link>https://www.getonbrd.com/jobs/dev-fullstack-ror-react-integraciones-rankmi-santiago</link>
+      <guid isPermaLink="false">ea57b7724075</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Rankmi · Remote · Remote (local) · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Front-end React — 42Labs</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-frontend-react-42labs-santiago</link>
+      <guid isPermaLink="false">a73720b2bce3</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Frontend</category>
+      <description>42Labs · Chile · Hybrid · Frontend · React · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Back-end Python (AWS) — 42Labs</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-backend-python-aws-42labs-santiago</link>
+      <guid isPermaLink="false">c904265c55c5</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>42Labs · Chile · Hybrid · DevOps / Cloud · Python, AWS · Get on Board</description>
+    </item>
+    <item>
+      <title>Data Engineer (Tableau) — Particle41</title>
+      <link>https://jobicy.com/jobs/161424-data-engineer-tableau</link>
+      <guid isPermaLink="false">2c2442b69965</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Particle41 · Argentina · AI / Data · Jobicy</description>
+    </item>
+    <item>
+      <title>AI Product Engineer — 3Y Health</title>
+      <link>https://jobicy.com/jobs/161428-ai-product-engineer</link>
+      <guid isPermaLink="false">e449c74f836e</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>3Y Health · Argentina · AI / Data · AI · Jobicy</description>
+    </item>
+    <item>
+      <title>Support Engineer (AMER - Weekends) — Supabase</title>
+      <link>https://jobicy.com/jobs/152807-support-engineer-amer-weekends</link>
+      <guid isPermaLink="false">bb1bc851cfc2</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Supabase · LATAM, Canada, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Staff Corporate IT Engineer — Wellhub</title>
+      <link>https://jobicy.com/jobs/161109-staff-corporate-it-engineer</link>
+      <guid isPermaLink="false">f637f39d18e4</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Wellhub · Brazil · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Software Engineering Manager (Backend SaaS) — Canonical</title>
+      <link>https://jobicy.com/jobs/161192-software-engineering-manager-backend-saas</link>
+      <guid isPermaLink="false">0d976d29658c</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Canonical · LATAM, Canada, USA · Backend · Jobicy</description>
+    </item>
+    <item>
+      <title>Software Engineer - Console — XBOW</title>
+      <link>https://jobicy.com/jobs/160794-software-engineer-console</link>
+      <guid isPermaLink="false">283d9af3a926</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>XBOW · Argentina, Europe, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Software Developer (Backend SaaS) — Canonical</title>
+      <link>https://jobicy.com/jobs/161191-software-developer-backend-saas</link>
+      <guid isPermaLink="false">b23371217246</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Canonical · LATAM, Canada, USA · Backend · Jobicy</description>
+    </item>
+    <item>
+      <title>Software Alliances Director, Americas — Canonical</title>
+      <link>https://jobicy.com/jobs/161190-software-alliances-director-americas</link>
+      <guid isPermaLink="false">180e8002fd9f</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Canonical · LATAM, Canada, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer — Cloudbeds</title>
+      <link>https://jobicy.com/jobs/160792-senior-software-engineer-23</link>
+      <guid isPermaLink="false">1d2b780bbc89</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Cloudbeds · LATAM, Canada, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior React Full-stack Developer — Lemon.io</title>
+      <link>https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136</link>
+      <guid isPermaLink="false">9b0c94b95522</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Lemon.io · LATAM, Europe, USA, Canada, APAC · Fullstack · Python, JavaScript, TypeScript, React, React Native · Remotive</description>
+    </item>
+    <item>
+      <title>Senior Go Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/go-engineer-microservices-improving-remote</link>
+      <guid isPermaLink="false">2210e785d18f</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Improving · Remote · Remote (local) · Backend · Go · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior Fullstack Engineer (BR based only) — Double</title>
+      <link>https://jobicy.com/jobs/154967-senior-fullstack-engineer-br-based-only</link>
+      <guid isPermaLink="false">1635d5529bb8</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Double · Brazil · Fullstack · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Forward Deployed Engineer — Caylent</title>
+      <link>https://jobicy.com/jobs/161041-senior-forward-deployed-engineer-3</link>
+      <guid isPermaLink="false">db481c2a25f9</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Caylent · Mexico · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Engineer — Caylent</title>
+      <link>https://jobicy.com/jobs/160802-senior-engineer</link>
+      <guid isPermaLink="false">cf2c6363fbb9</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Caylent · Mexico · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Public Cloud Solution Architect — Canonical</title>
+      <link>https://jobicy.com/jobs/161108-public-cloud-solution-architect</link>
+      <guid isPermaLink="false">1f1da2ae629f</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Canonical · LATAM, Canada, USA · DevOps / Cloud · Jobicy</description>
+    </item>
+    <item>
+      <title>Mid-level DevOps Engineer (Remote) - Brazil — AlphaSights</title>
+      <link>https://jobicy.com/jobs/160788-mid-level-devops-engineer-remote-brazil</link>
+      <guid isPermaLink="false">3dbb5e657063</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>AlphaSights · Brazil · DevOps / Cloud · DevOps · Jobicy</description>
+    </item>
+    <item>
+      <title>Full-Stack AI Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/fullstack-ai-engineer-improving-remote</link>
+      <guid isPermaLink="false">bd2034ee061c</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · AI · Get on Board</description>
+    </item>
+    <item>
+      <title>DevOps - Remote (Only Mexico) — Orion Innovation</title>
+      <link>https://jobicy.com/jobs/161184-devops-remote-only-mexico</link>
+      <guid isPermaLink="false">6ee35d269b43</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Orion Innovation · Mexico · DevOps / Cloud · DevOps · Jobicy</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Full-Stack Senior — Factor IT</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-senior-factor-it-santiago-3250</link>
+      <guid isPermaLink="false">559657fe851a</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Factor IT · Chile · Hybrid · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Full-Stack Java/angular — BC Tecnología</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-java-angular-bc-tecnologia-santiago-ac9f</link>
+      <guid isPermaLink="false">9f51ad464b0e</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>BC Tecnología · Chile · Hybrid · Fullstack · Angular, Java · Get on Board</description>
+    </item>
+    <item>
+      <title>Data Engineer — Addepto</title>
+      <link>https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714</link>
+      <guid isPermaLink="false">6b8d7094adbc</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Addepto · Worldwide Remote · AI / Data · Python, Salesforce · RemoteOK</description>
+    </item>
+    <item>
+      <title>Cloud Engineer — Knack</title>
+      <link>https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1</link>
+      <guid isPermaLink="false">a3b293adf305</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Knack · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>AWS IoT Back-end Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/aws-iot-backend-engineer-improving-remote</link>
+      <guid isPermaLink="false">f25a19648392</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Improving · Remote · Remote (local) · DevOps / Cloud · AWS · Get on Board</description>
+    </item>
+    <item>
+      <title>Wireless Engineer — Niuro</title>
+      <link>https://www.getonbrd.com/jobs/wireless-engineer-niuro-san-salvador</link>
+      <guid isPermaLink="false">c809561d5255</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Niuro · El Salvador · No remote · General · Get on Board</description>
+    </item>
+    <item>
+      <title>Web App Full-Stack Engineer — Niuro</title>
+      <link>https://www.getonbrd.com/jobs/web-app-full-stack-engineer-niuro-remote-03c6</link>
+      <guid isPermaLink="false">bda58486f2e6</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Niuro · Remote · Remote (local) · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer — Kubernetes Control Plane — Buoyant</title>
+      <link>https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713</link>
+      <guid isPermaLink="false">ce6d2e4afa19</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Buoyant · Worldwide Remote · DevOps / Cloud · Go, Kubernetes · RemoteOK</description>
+    </item>
+    <item>
+      <title>Senior Backend Cloud Engineer — Halcyon</title>
+      <link>https://weworkremotely.com/remote-jobs/halcyon-senior-backend-cloud-engineer</link>
+      <guid isPermaLink="false">2f0f67f7ffd7</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Halcyon · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Senior Agentic AI Engineer NDA — GT</title>
+      <link>https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710</link>
+      <guid isPermaLink="false">38a7c6fd303c</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>GT · Warsaw · AI / Data · AI, Python, React, Docker · RemoteOK</description>
+    </item>
+    <item>
+      <title>Senior .NET Back-end Engineer (Modern Platform) — Niuro</title>
+      <link>https://www.getonbrd.com/jobs/senior-net-backend-engineer-modern-platform-niuro-remote</link>
+      <guid isPermaLink="false">7ef183615121</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Niuro · Remote · Remote (local) · Backend · .NET · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior .NET Back-end Developer (Legacy Platform) — Niuro</title>
+      <link>https://www.getonbrd.com/jobs/senior-net-backend-developer-legacy-platform-niuro-remote</link>
+      <guid isPermaLink="false">0891dd1dcfb2</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Niuro · Remote · Remote (local) · Backend · .NET · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Platform Engineer — Edgewater Federal Solutions, Inc.</title>
+      <link>https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-inc-full-stack-platform-engineer</link>
+      <guid isPermaLink="false">83950a2d706d</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Edgewater Federal Solutions, Inc. · Worldwide / Remote · Fullstack · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Engineering Manager - Linux Hardware Enablement — Canonical</title>
+      <link>https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement</link>
+      <guid isPermaLink="false">6caa416ffc57</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Canonical · APAC, EMEA, LATAM, Canada, USA · General · Jobicy</description>
+    </item>
+    <item>
+      <title>Devices &amp; IOT Field Engineering Manager — Canonical</title>
+      <link>https://jobicy.com/jobs/150274-devices-iot-field-engineering-manager-americas</link>
+      <guid isPermaLink="false">c2693f7dca8b</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Canonical · Anywhere · General · Jobicy</description>
+    </item>
+    <item>
+      <title>UI Developer — RainFocus</title>
+      <link>https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704</link>
+      <guid isPermaLink="false">3d51bffc1e4f</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Frontend</category>
+      <description>RainFocus · Any State · Frontend · JavaScript, React, Java, CSS, HTML · RemoteOK</description>
+    </item>
+    <item>
+      <title>Senior AI Engineer (AI Automation) — TRM Labs</title>
+      <link>https://jobicy.com/jobs/159726-senior-ai-engineer-ai-automation</link>
+      <guid isPermaLink="false">e8dc410cd726</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>TRM Labs · Brazil, Canada, USA · AI / Data · AI · Jobicy</description>
+    </item>
+    <item>
+      <title>Security Engineer — Caylent</title>
+      <link>https://jobicy.com/jobs/159882-security-engineer-5</link>
+      <guid isPermaLink="false">a8e00ca4059e</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Caylent · Argentina · DevOps / Cloud · Security · Jobicy</description>
+    </item>
+    <item>
+      <title>Python ML &amp; Optimization Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/python-ml-optimization-engineer-improving-remote</link>
+      <guid isPermaLink="false">08ddeb357ca1</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Improving · Remote · Remote (local) · AI / Data · ML, Python · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Software Engineer (React + Python) — Improving</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-software-engineer-react-python-improving-remote</link>
+      <guid isPermaLink="false">051c4151004c</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · Python, React · Get on Board</description>
+    </item>
+    <item>
+      <title>Forward Deployed Engineer — Caylent</title>
+      <link>https://jobicy.com/jobs/159734-forward-deployed-engineer-9</link>
+      <guid isPermaLink="false">ee2b30f9a20e</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Caylent · Mexico · General · Jobicy</description>
+    </item>
+    <item>
+      <title>DevOps &amp; Security Engineer - Entertainment — Truelogic</title>
+      <link>https://jobicy.com/jobs/159724-devops-security-engineer-entertainment</link>
+      <guid isPermaLink="false">b3571df5e37c</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Truelogic · Brazil · DevOps / Cloud · DevOps, Security · Jobicy</description>
+    </item>
+    <item>
+      <title>Tier III Service Desk Engineer — Unio Digital</title>
+      <link>https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045</link>
+      <guid isPermaLink="false">17f629b43a72</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Unio Digital · Worldwide · DevOps / Cloud · Azure, Security · Remotive</description>
+    </item>
+    <item>
+      <title>AI Developer — Salvo Software</title>
+      <link>https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701</link>
+      <guid isPermaLink="false">f7ef3c8a803e</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Salvo Software · Worldwide Remote · AI / Data · AI, Python, Go, Docker, DevOps · RemoteOK</description>
+    </item>
+    <item>
+      <title>Software Engineer (.NET &amp; Azure) — Improving</title>
+      <link>https://www.getonbrd.com/jobs/software-engineer-net-azure-improving-remote</link>
+      <guid isPermaLink="false">20d418660f07</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Improving · Remote · Remote (local) · DevOps / Cloud · .NET, Azure · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Software Engineer ( Angular + Microservices) — Improving</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-software-engineer-improving-remote</link>
+      <guid isPermaLink="false">e82d66504014</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · Angular · Get on Board</description>
+    </item>
+    <item>
+      <title>Back-end Developer (Java/Spring Boot/apigee) — 42Labs</title>
+      <link>https://www.getonbrd.com/jobs/back-end-developer-java-springboot-apigee-42labs-santiago</link>
+      <guid isPermaLink="false">b5ff50ba87a7</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>42Labs · Chile · Hybrid · Backend · Java, Spring · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior Vue Developer — Lemon.io</title>
+      <link>https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688</link>
+      <guid isPermaLink="false">550ac28a094c</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Frontend</category>
+      <description>Lemon.io · Worldwide Remote · Frontend · Python, JavaScript, TypeScript, Vue, Node · $50,000 - $180,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Senior Staff Infrastructure &amp; Security Engineer — CivilGrid</title>
+      <link>https://remoteOK.com/remote-jobs/remote-senior-staff-infrastructure-security-engineer-civilgrid-1137687</link>
+      <guid isPermaLink="false">7a603d137e8d</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>CivilGrid · Boston · DevOps / Cloud · DevOps, Security · $137,318 - $192,960 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>ML Inference Engineer – Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM) — Toptal</title>
+      <link>https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689</link>
+      <guid isPermaLink="false">e928574803da</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Toptal · Anywhere in the World · AI / Data · ML, LLM, Docker · RemoteOK</description>
+    </item>
+    <item>
+      <title>Full-Stack Developer — Blueworks CRM</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-developer-blueworks-crm-remote</link>
+      <guid isPermaLink="false">09f480383172</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Blueworks CRM · Remote · Remote (local) · Fullstack · $1,200 - $1,800 · Get on Board</description>
+    </item>
+    <item>
+      <title>Feltsense AI Engineer — Silver.dev</title>
+      <link>https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691</link>
+      <guid isPermaLink="false">d2e6a127bc1a</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Silver.dev · Worldwide Remote · AI / Data · AI, JavaScript, TypeScript, Node, PostgreSQL · $60,000 - $110,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Desarrollador Full-Stack React — BC Tecnología</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-full-stack-react-bc-tecnologia-santiago</link>
+      <guid isPermaLink="false">97645d7a4acf</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>BC Tecnología · Chile · Hybrid · Fullstack · React · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador Full-Stack Java — CI Canadá</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-full-stack-java-ci-canada-remote</link>
+      <guid isPermaLink="false">cecca46775c3</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>CI Canadá · Remote · Remote (local) · Fullstack · Java · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador Full-Stack — BC Tecnología</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-full-stack-bc-tecnologia-santiago-c766</link>
+      <guid isPermaLink="false">ae645ee63c57</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>BC Tecnología · Chile · No remote · Fullstack · $2,000 - $2,200 · Get on Board</description>
+    </item>
+    <item>
+      <title>Control Engineer — VAME Ltd</title>
+      <link>https://www.getonbrd.com/jobs/control-engineer-vame-ltd-remote</link>
+      <guid isPermaLink="false">113a9ad9cf46</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>VAME Ltd · Remote · Fully remote · General · $2,000 - $2,800 · Get on Board</description>
+    </item>
+    <item>
+      <title>Analista de Sistemas Full-Stack — Agilesoft SpA</title>
+      <link>https://www.getonbrd.com/jobs/analista-de-sistemas-full-stack-agilesoft-spa-remote</link>
+      <guid isPermaLink="false">1a483cf9c4d0</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Agilesoft SpA · Remote · Remote (local) · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Software Engineer — Claims</title>
+      <link>https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685</link>
+      <guid isPermaLink="false">30a5d9b191f4</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Claims · Worldwide Remote · AI / Data · AI, Blockchain · $10,000 - $30,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Full-Stack – Front-end &amp; Datos — BC Tecnología</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-frontend-datos-bc-tecnologia-remote</link>
+      <guid isPermaLink="false">c920f5620f7e</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>BC Tecnología · Remote · Remote (local) · Fullstack · $2,000 - $2,400 · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador Full-Stack (Web/Foco Back-end) — WiTi</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-full-stack-web-foco-back-end-witi-santiago</link>
+      <guid isPermaLink="false">ee32c629efc0</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>WiTi · Chile · Hybrid · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Tech lead — Ringbook Limited</title>
+      <link>https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673</link>
+      <guid isPermaLink="false">7734b1a8419e</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Ringbook Limited · Worldwide Remote · General · $40,000 - $50,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Senior Full-Stack Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/senior-full-stack-engineer-improving-remote</link>
+      <guid isPermaLink="false">172afbf36df3</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior .NET Engineer — AutoRaptor</title>
+      <link>https://www.getonbrd.com/jobs/net-engineer-autoraptor-remote</link>
+      <guid isPermaLink="false">f9707bf007e2</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>AutoRaptor · Remote · Remote (local) · General · .NET · Get on Board</description>
+    </item>
+    <item>
+      <title>React Front-end Engineer (Senior) — ProntoPaga</title>
+      <link>https://www.getonbrd.com/jobs/react-front-end-engineer-senior-prontopaga-santiago</link>
+      <guid isPermaLink="false">f7d87c504584</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Frontend</category>
+      <description>ProntoPaga · Chile · No remote · Frontend · React · $2,700 - $3,700 · Get on Board</description>
+    </item>
+    <item>
+      <title>React Front-end Engineer (Semi Senior) — ProntoPaga</title>
+      <link>https://www.getonbrd.com/jobs/react-front-end-engineer-prontopaga-santiago</link>
+      <guid isPermaLink="false">beec4b5cdc9a</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Frontend</category>
+      <description>ProntoPaga · Chile · No remote · Frontend · React · $2,000 - $3,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Node.js Back-end Engineer (Senior) — ProntoPaga</title>
+      <link>https://www.getonbrd.com/jobs/node-backend-engineer-senior-prontopaga-santiago</link>
+      <guid isPermaLink="false">bb2949782666</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>ProntoPaga · Chile · No remote · Backend · Node · $2,700 - $3,700 · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Engineer (TypeScript/React) — Dynamic Devs</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-engineer-typescript-react-dynamic-devs-santiago-d476</link>
+      <guid isPermaLink="false">c8e8376cf24d</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Dynamic Devs · Chile · No remote · Fullstack · TypeScript, React · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Developer: React &amp; Node.js — Improving</title>
+      <link>https://www.getonbrd.com/jobs/fullstack-developer-react-node-js-improving-remote</link>
+      <guid isPermaLink="false">23d82a30433e</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · React, Node · Get on Board</description>
+    </item>
+    <item>
+      <title>Full-Stack Developer Semi Senior — Factor IT</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-developer-semi-senior-factor-it-santiago-00d4</link>
+      <guid isPermaLink="false">6f6b5afa9042</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Factor IT · Chile · Hybrid · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Founding GTM Engineer — Hostop</title>
+      <link>https://www.getonbrd.com/jobs/founding-gtm-engineer-hostop-remote</link>
+      <guid isPermaLink="false">0605cbe09be4</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Hostop · Remote · Fully remote · General · $4,500 - $6,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Full-Stack Cloud AWS — RyC Tech Group</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-cloud-aws-ryc-tech-group-santiago</link>
+      <guid isPermaLink="false">bdb74cefdf7b</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>RyC Tech Group · Chile · Hybrid · Fullstack · AWS · $1,300 - $2,200 · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador/a Full-Stack — Xintec</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-xintec-santiago</link>
+      <guid isPermaLink="false">12af97b285de</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Xintec · Chile · Hybrid · Fullstack · Get on Board</description>
+    </item>
+    <item>
+      <title>Desarrollador Full-Stack: Java &amp; Angular — Improving</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-fullstack-java-angular-improving-remote</link>
+      <guid isPermaLink="false">f91cfe5a52f6</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Improving · Remote · Remote (local) · Fullstack · Angular, Java · Get on Board</description>
+    </item>
+    <item>
+      <title>Back-end Senior Java – Sagas y GCP — Factor IT</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-a-backend-java-spring-boot-factor-it-remote</link>
+      <guid isPermaLink="false">1ac4f1bc7845</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Factor IT · Remote · Remote (local) · DevOps / Cloud · Java, GCP · Get on Board</description>
+    </item>
+    <item>
+      <title>AI Engineering Lead — Niuro</title>
+      <link>https://www.getonbrd.com/jobs/ai-engineering-lead-niuro-remote</link>
+      <guid isPermaLink="false">0e40863dc208</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Niuro · Remote · Remote (local) · AI / Data · AI · $5,500 - $6,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>AI Back-end Engineer — Improving</title>
+      <link>https://www.getonbrd.com/jobs/ai-backend-engineer-improving-remote</link>
+      <guid isPermaLink="false">c22e9c071fa7</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Improving · Remote · Remote (local) · AI / Data · AI · $3,800 - $5,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Software Engineer Infrastructure — Sodalis, Inc.</title>
+      <link>https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-sodalis-inc-1137614</link>
+      <guid isPermaLink="false">aa0421abfcb4</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Sodalis, Inc. · Palo Alto · DevOps / Cloud · Go, Ruby · $185,000 - $215,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Salesforce Business Systems Administrator — Salesloft</title>
+      <link>https://weworkremotely.com/remote-jobs/salesloft-salesforce-business-systems-administrator</link>
+      <guid isPermaLink="false">14a622c0b69a</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Salesloft · Worldwide / Remote · DevOps / Cloud · Salesforce · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Back-end Software Engineer – NestJS | Cloud Native | AWS — WiTi</title>
+      <link>https://www.getonbrd.com/jobs/back-end-software-engineer-nestjs-cloud-native-aws-witi-remote</link>
+      <guid isPermaLink="false">025b04601fd8</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>WiTi · Remote · Fully remote · DevOps / Cloud · AWS · Get on Board</description>
+    </item>
+    <item>
+      <title>AI ML Engineer — Docusketch</title>
+      <link>https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619</link>
+      <guid isPermaLink="false">951ef410ac78</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Docusketch · Worldwide Remote · AI / Data · AI, ML, Machine Learning, Deep Learning · $10,000 - $120,000 USD · RemoteOK</description>
+    </item>
+    <item>
+      <title>Sr. IT Systems Engineer — Carrot</title>
+      <link>https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer</link>
+      <guid isPermaLink="false">6ac600c01c10</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Carrot · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
+    </item>
+  </channel>
+</rss>

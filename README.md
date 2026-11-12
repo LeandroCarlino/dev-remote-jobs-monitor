@@ -25,7 +25,6 @@ Un repositorio que es a la vez **un dashboard web** y **una API JSON pública y 
 Todo el pipeline (fetch → normalización → deduplicación → publicación) corre en la nube, gratis, dentro de **GitHub Actions**. No hay backend, ni base de datos, ni cuota de API.
 
 ### Diferencias con un scraper ingenuo
-
 | Problema típico | Qué hace este repo |
 |:--|:--|
 | Se cuelan ofertas que no son de desarrollo | Filtro `is_dev_job`: solo roles de software/IT (nunca "Registered Nurse" ni "Accountant") |
@@ -35,6 +34,16 @@ Todo el pipeline (fetch → normalización → deduplicación → publicación) 
 | Todo parece "remoto global" | Campo `region` (`argentina`, `latam`, `worldwide`, ...) y filtro Latam/AR en el dashboard |
 | Un feed roto vacía la API pública | Guard: aborta sin escribir si hay <20 ofertas o una caída >50% |
 | Sin tests | 61 tests con `unittest` y fixtures congeladas (cero dependencias) |
+
+### El dashboard
+
+- **Búsqueda instantánea** con debounce por puesto, empresa, tecnología o ubicación.
+- **Filtros**: categoría, región (Latam/AR) y fuente, combinables.
+- **Orden**: más recientes, más antiguas, mejor salario o empresa A-Z.
+- **Paginación** de 40 en 40 (no se renderizan 300 tarjetas de golpe).
+- **Favoritos** guardados en `localStorage`: marcás ofertas con la estrella y volvés cuando quieras.
+- **Fechas en formato argentino** (`dd/mm/yyyy`) + "hace N días" + badge `Nuevo`.
+- **Enlaces directos** a la postulación y a la fuente original.
 
 ---
 
@@ -49,7 +58,7 @@ Todo el pipeline (fetch → normalización → deduplicación → publicación) 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-12 07:19 UTC** · Ofertas activas: **308***
+*Última actualización automática: **2026-11-12 07:23 UTC** · Ofertas activas: **308***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
@@ -85,11 +94,12 @@ Todo el pipeline (fetch → normalización → deduplicación → publicación) 
 
 ## API pública
 
-Dos endpoints estáticos, sin token, sin rate limit y con CORS abierto:
+Tres endpoints estáticos, sin token, sin rate limit y con CORS abierto:
 
 ```bash
 curl https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/jobs.json
 curl https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/stats.json
+curl https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/feed.xml
 ```
 
 ```js
@@ -97,6 +107,19 @@ const jobs = await (
   await fetch('https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/jobs.json')
 ).json();
 ```
+
+### Suscripción RSS
+
+Además del JSON hay un feed **RSS 2.0** con las últimas 100 vacantes:
+
+- Web: <https://leandrocarlino.github.io/dev-remote-jobs-monitor/feed.xml>
+- Raw: <https://raw.githubusercontent.com/LeandroCarlino/dev-remote-jobs-monitor/main/data/feed.xml>
+
+Funciona en cualquier lector (Feedly, NetNewsWire, Thunderbird): agregás la URL y recibís las ofertas nuevas sin escribir una línea de código.
+
+### Fechas
+
+La API mantiene `date` en **ISO 8601** (`YYYY-MM-DD`) para que sea fácil de ordenar y parsear. El dashboard muestra el formato argentino **dd/mm/yyyy**, con la fecha relativa ("hoy", "ayer", "hace 3 días") en el tooltip y un badge **Nuevo** para las publicadas en los últimos 2 días.
 
 ### Esquema de `jobs.json`
 
@@ -188,6 +211,7 @@ web/
 data/
   jobs.json     API pública
   stats.json    agregados para el dashboard y los badges
+  feed.xml      feed RSS con las últimas 100 ofertas
 ```
 
 ## Limitaciones conocidas

@@ -6,6 +6,7 @@ import json
 import os
 import tempfile
 import unittest
+import xml.etree.ElementTree as ET
 from unittest import mock
 
 from src import main as pipeline
@@ -278,6 +279,57 @@ class StatsTest(unittest.TestCase):
         self.assertEqual(set(stats["sources"]), {"RemoteOK"})
         self.assertGreater(stats["salary_coverage"], 0)
         self.assertLessEqual(stats["salary_coverage"], 100)
+
+
+class FeedTest(unittest.TestCase):
+    def setUp(self):
+        self.jobs = parse_remoteok(load_fixture("remoteok.json"))
+        self.feed = pipeline.build_feed(
+            self.jobs, last_build="Wed, 12 Nov 2026 00:00:00 +0000"
+        )
+
+    def test_feed_is_valid_rss(self):
+        root = ET.fromstring(self.feed)
+        self.assertEqual(root.tag, "rss")
+        self.assertEqual(len(root.findall("./channel/item")), len(self.jobs))
+        self.assertIn("DevJobs", root.findtext("./channel/title"))
+
+    def test_item_fields_are_usable(self):
+        root = ET.fromstring(self.feed)
+        item = root.findall("./channel/item")[0]
+        self.assertTrue(item.findtext("link").startswith("https://"))
+        self.assertRegex(item.findtext("pubDate"), r"^\w{3}, \d{2} \w{3} \d{4}")
+        self.assertEqual(len(item.findtext("guid") or ""), 12)
+        self.assertIsNotNone(item.findtext("description"))
+
+    def test_special_characters_are_escaped(self):
+        jobs = [
+            {
+                "id": "a" * 12,
+                "title": "Backend & Frontend <Dev>",
+                "company": "A&B",
+                "url": "https://example.test/?a=1&b=2",
+                "location": "Remote",
+                "region": "worldwide",
+                "date": "2026-11-12",
+                "category": "Backend",
+                "tags": ["C#"],
+                "salary": None,
+                "source": "Test",
+            }
+        ]
+        feed = pipeline.build_feed(jobs)
+        ET.fromstring(feed)  # would raise on malformed XML
+        self.assertIn("&amp;", feed)
+
+    def test_limit_is_respected(self):
+        feed = pipeline.build_feed(self.jobs, limit=2)
+        self.assertEqual(len(ET.fromstring(feed).findall("./channel/item")), 2)
+
+    def test_invalid_date_falls_back_to_today(self):
+        feed = pipeline.build_feed([{"id": "x" * 12, "title": "Dev", "date": ""}])
+        item = ET.fromstring(feed).findall("./channel/item")[0]
+        self.assertRegex(item.findtext("pubDate"), r"^\w{3}, \d{2} \w{3} \d{4}")
 
 
 class ReadmeRenderingTest(unittest.TestCase):

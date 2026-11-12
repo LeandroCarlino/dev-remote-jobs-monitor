@@ -30,7 +30,8 @@ jobs:
         run: |
           mkdir -p _site/data
           cp -r web/. _site/
-          cp data/jobs.json data/stats.json _site/data/
+          cp data/jobs.json data/stats.json data/feed.xml _site/data/
+          cp data/feed.xml _site/feed.xml
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

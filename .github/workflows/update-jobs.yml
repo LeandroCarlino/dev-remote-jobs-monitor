@@ -37,4 +37,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(jobs): auto-update remote dev listings [skip ci]"
-          file_pattern: "data/jobs.json data/stats.json README.md"
+          file_pattern: "data/jobs.json data/stats.json data/feed.xml README.md"

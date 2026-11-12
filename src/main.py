@@ -18,6 +18,7 @@ import sys
 from collections import Counter
 from datetime import datetime, timezone
 from urllib.parse import quote
+from xml.sax.saxutils import escape
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if ROOT not in sys.path:
@@ -28,6 +29,7 @@ from src.fetcher import get_all_jobs  # noqa: E402
 DATA_DIR = os.path.join(ROOT, "data")
 JOBS_PATH = os.path.join(DATA_DIR, "jobs.json")
 STATS_PATH = os.path.join(DATA_DIR, "stats.json")
+FEED_PATH = os.path.join(DATA_DIR, "feed.xml")
 README_PATH = os.path.join(ROOT, "README.md")
 
 MIN_EXPECTED_JOBS = 20
@@ -171,6 +173,82 @@ def write_json(path: str, payload: object) -> None:
         handle.write("\n")
 
 
+# --------------------------------------------------------------------------- #
+# RSS feed (open subscription format, no keys involved)
+# --------------------------------------------------------------------------- #
+def _rfc822(iso_date: str) -> str:
+    """Turn YYYY-MM-DD into the RFC 822 date RSS readers expect."""
+    try:
+        day = datetime.strptime(iso_date[:10], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+    except (TypeError, ValueError):
+        day = datetime.now(timezone.utc).replace(
+            hour=0, minute=0, second=0, microsecond=0
+        )
+    return day.strftime("%a, %d %b %Y %H:%M:%S +0000")
+
+
+def build_feed(
+    jobs: list[dict],
+    *,
+    limit: int = 100,
+    last_build: str | None = None,
+) -> str:
+    """Build an RSS 2.0 feed so anyone can subscribe without an API key."""
+    stamp = last_build or datetime.now(timezone.utc).strftime(
+        "%a, %d %b %Y %H:%M:%S +0000"
+    )
+    items = []
+    for job in jobs[:limit]:
+        title = escape(
+            f"{job.get('title', 'Untitled')} — {job.get('company', '')}".strip(" —")
+        )
+        details = " · ".join(
+            part
+            for part in (
+                job.get("company", ""),
+                job.get("location", ""),
+                job.get("category", ""),
+                ", ".join(job.get("tags", [])),
+                job.get("salary") or "",
+                job.get("source", ""),
+            )
+            if part
+        )
+        items.append(
+            "    <item>\n"
+            f"      <title>{title}</title>\n"
+            f"      <link>{escape(job.get('url', ''))}</link>\n"
+            f'      <guid isPermaLink="false">{escape(job.get("id", ""))}</guid>\n'
+            f"      <pubDate>{_rfc822(job.get('date', ''))}</pubDate>\n"
+            f"      <category>{escape(job.get('category', 'General'))}</category>\n"
+            f"      <description>{escape(details)}</description>\n"
+            "    </item>"
+        )
+
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "  <channel>\n"
+        "    <title>DevJobs Remote — vacantes remotas para desarrolladores</title>\n"
+        "    <link>https://leandrocarlino.github.io/dev-remote-jobs-monitor/</link>\n"
+        "    <description>Ofertas remotas de desarrollo, actualizadas cada 6 horas. "
+        "Incluye vacantes de Latam y Argentina.</description>\n"
+        "    <language>es-AR</language>\n"
+        f"    <lastBuildDate>{stamp}</lastBuildDate>\n"
+        '    <atom:link href="https://leandrocarlino.github.io/dev-remote-jobs-monitor/feed.xml" '
+        'rel="self" type="application/rss+xml"/>\n'
+        f"{chr(10).join(items)}\n"
+        "  </channel>\n"
+        "</rss>\n"
+    )
+
+
+def write_feed(jobs: list[dict]) -> None:
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(FEED_PATH, "w", encoding="utf-8", newline="\n") as handle:
+        handle.write(build_feed(jobs))
+
+
 def guard(jobs: list[dict], force: bool) -> str | None:
     """Return an error message when the result looks like a failed crawl."""
     if force:
@@ -207,9 +285,11 @@ def main(argv: list[str] | None = None) -> int:
     stats = build_stats(jobs)
     write_json(JOBS_PATH, jobs)
     write_json(STATS_PATH, stats)
+    write_feed(jobs)
     readme_updated = update_readme(jobs, stats)
 
     print(f"[*] data/jobs.json  -> {len(jobs)} listings")
+    print(f"[*] data/feed.xml   -> {min(len(jobs), 100)} items")
     print(
         f"[*] data/stats.json -> {stats['salary_coverage']}% salary coverage, "
         f"sources: {', '.join(f'{k} ({v})' for k, v in stats['sources'].items())}"
