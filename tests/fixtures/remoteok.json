@@ -1,0 +1,90 @@
+[
+  { "legal": "RemoteOK API legal disclaimer" },
+  {
+    "id": "1",
+    "position": "Senior Python Engineer",
+    "company": "Acme",
+    "url": "/remote-jobs/remote-senior-python-engineer-acme-1",
+    "apply_url": "https://remoteok.com/remote-jobs/remote-senior-python-engineer-acme-1",
+    "tags": ["python", "aws", "dev", "engineer"],
+    "description": "<p>We build <b>FastAPI</b> services on AWS.</p>",
+    "location": "Worldwide Remote",
+    "epoch": 1762819200,
+    "salary_min": 90000,
+    "salary_max": 130000
+  },
+  {
+    "id": "2",
+    "position": "Registered Nurse",
+    "company": "Caringhand",
+    "url": "/remote-jobs/remote-registered-nurse-caringhand-2",
+    "tags": ["medical", "nurse", "education"],
+    "description": "Patient care, telehealth support.",
+    "location": "Worldwide Remote",
+    "epoch": 1762819200
+  },
+  {
+    "id": "3",
+    "position": "Accountant",
+    "company": "Serve Robotics",
+    "url": "/remote-jobs/remote-accountant-serve-robotics-3",
+    "tags": ["finance", "accounting"],
+    "description": "Bookkeeping and payroll.",
+    "epoch": 1762819200
+  },
+  {
+    "id": "4",
+    "position": "Paid Media Manager US",
+    "company": "Growth Co",
+    "url": "/remote-jobs/remote-paid-media-manager-growth-4",
+    "tags": ["marketing", "exec"],
+    "description": "Manage paid social campaigns and email retargeting.",
+    "epoch": 1762819200
+  },
+  {
+    "id": "5",
+    "position": "Data Engineer",
+    "company": "Addepto",
+    "url": "/remote-jobs/remote-data-engineer-addepto-5",
+    "tags": ["data", "sql", "airflow", "python"],
+    "description": "Build ELT pipelines in Snowflake.",
+    "epoch": 1762819200,
+    "salary_min": 70000
+  },
+  {
+    "id": "6",
+    "position": "Systems Integrator",
+    "company": "Globex",
+    "url": "/remote-jobs/remote-systems-integrator-globex-6",
+    "tags": ["dev", "software", "backend"],
+    "description": "Glue internal services together.",
+    "epoch": 1762819200
+  },
+  {
+    "id": "7",
+    "position": "Full Stack Developer (React, Node)",
+    "company": "Initech",
+    "url": "/remote-jobs/remote-full-stack-developer-initech-7",
+    "tags": ["react", "node.js", "typescript"],
+    "description": "Ship product features end to end.",
+    "epoch": 1762819200
+  },
+  {
+    "id": "8",
+    "position": "Senior Software Engineer — Kubernetes Control Plane",
+    "company": "Buoyant",
+    "url": "/remote-jobs/remote-senior-software-engineer-buoyant-8",
+    "tags": ["golang", "kubernetes", "dev"],
+    "description": "Work on the control plane in Go.",
+    "epoch": 1762819200
+  },
+  {
+    "id": "9",
+    "position": "HIL Support Specialist",
+    "company": "Extend Your Team",
+    "url": "/remote-jobs/remote-hil-support-specialist-9",
+    "tags": ["Design", "C sharp", "Dev", "Finance"],
+    "description": "<p>Hardware in the loop support. Exposure to AI, LLM and Kubernetes.</p>",
+    "epoch": 1762819200
+  }
+]

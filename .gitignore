@@ -8,3 +8,7 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+
+# Local preview of the static site (data lives in data/, copied at deploy time)
+_site/
+web/data/

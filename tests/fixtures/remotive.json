@@ -1,0 +1,45 @@
+{
+  "0-legal-notice": "https://remotive.com/api/remote-jobs",
+  "job-count": 3,
+  "jobs": [
+    {
+      "id": 2086540,
+      "url": "https://remotive.com/remote-jobs/software-dev/senior-backend-engineer-2086540",
+      "title": "Senior Backend Engineer",
+      "company_name": "Credit Wellness",
+      "category": "Software Development",
+      "tags": ["python", "django", "postgres"],
+      "job_type": "full_time",
+      "publication_date": "2026-11-08T12:04:27",
+      "candidate_required_location": "Worldwide",
+      "salary": "$120,000 - $150,000",
+      "description": "<p>Django + PostgreSQL platform work.</p>"
+    },
+    {
+      "id": 2086541,
+      "url": "https://remotive.com/remote-jobs/customer-service/support-specialist-2086541",
+      "title": "Support Specialist",
+      "company_name": "VXI",
+      "category": "Customer Service",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2026-11-06T09:00:00",
+      "candidate_required_location": "USA",
+      "salary": "",
+      "description": "<p>Answer chat tickets from patients.</p>"
+    },
+    {
+      "id": 2086542,
+      "url": "https://remotive.com/remote-jobs/software-dev/mobile-engineer-2086542",
+      "title": "Mobile Engineer (Flutter)",
+      "company_name": "Pebl",
+      "category": "Software Development",
+      "tags": ["flutter", "dart"],
+      "job_type": "full_time",
+      "publication_date": "2026-11-05T15:30:00",
+      "candidate_required_location": "Europe",
+      "salary": "",
+      "description": "<p>Flutter app for iOS and Android.</p>"
+    }
+  ]
+}

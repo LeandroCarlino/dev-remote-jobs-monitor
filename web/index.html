@@ -42,7 +42,7 @@
       </div>
 
       <div class="flex items-center gap-3">
-        <a href="https://github.com" target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-lg border border-slate-800 bg-slate-900 text-slate-300 text-xs font-semibold hover:bg-slate-800 transition-colors">
+        <a href="https://github.com/LeandroCarlino/dev-remote-jobs-monitor" target="_blank" rel="noopener" class="flex items-center gap-2 px-3 py-1.5 rounded-lg border border-slate-800 bg-slate-900 text-slate-300 text-xs font-semibold hover:bg-slate-800 transition-colors">
           <i data-lucide="github" class="w-4 h-4"></i> GitHub Repo & API
         </a>
       </div>
@@ -73,6 +73,10 @@
         <div class="flex items-center gap-1.5">
           <i data-lucide="clock" class="w-4 h-4 text-cyan-400"></i>
           <span>Actualizado: <strong id="last-updated" class="text-white">—</strong></span>
+        </div>
+        <div class="flex items-center gap-1.5">
+          <i data-lucide="radio" class="w-4 h-4 text-emerald-400"></i>
+          <span>Fuentes: <strong id="sources" class="text-white">—</strong></span>
         </div>
       </div>
     </div>
@@ -111,6 +115,12 @@
         </button>
         <button data-cat="DevOps / Cloud" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
           DevOps
+        </button>
+        <button data-cat="Mobile" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          Mobile
+        </button>
+        <button data-cat="General" class="cat-btn px-3 py-2 rounded-xl text-xs font-semibold bg-slate-900 border border-slate-800 text-slate-400 hover:text-white whitespace-nowrap">
+          Otros
         </button>
       </div>
     </div>
@@ -154,24 +164,35 @@
     let allJobs = [];
     let activeCategory = 'all';
 
+    // On GitHub Pages the site is served from the root (data/ next to index.html).
+    // Locally we serve the repo root, so the page lives at /web/ and data is one
+    // level up. Pick the right base first to avoid a 404 on every load.
+    const DATA_BASE = location.pathname.startsWith('/web/') ? '../data' : 'data';
+
+    async function loadJson(paths) {
+      for (const path of paths) {
+        try {
+          const res = await fetch(path);
+          if (res.ok) return await res.json();
+        } catch (err) {
+          // try the next candidate
+        }
+      }
+      throw new Error(`no data found in ${paths.join(', ')}`);
+    }
+
     async function loadData() {
       try {
-        // Try local data first, fallback to root data
-        let res = await fetch('data/jobs.json');
-        if (!res.ok) res = await fetch('../data/jobs.json');
-        allJobs = await res.json();
+        const candidates = [`${DATA_BASE}/jobs.json`, 'data/jobs.json', '../data/jobs.json'];
+        allJobs = await loadJson(candidates);
 
-        // Try load stats
-        let statsRes = await fetch('data/stats.json');
-        if (!statsRes.ok) statsRes = await fetch('../data/stats.json');
-        if (statsRes.ok) {
-          const stats = await statsRes.json();
-          document.getElementById('total-count').textContent = stats.total_jobs;
-          document.getElementById('last-updated').textContent = new Date(stats.last_updated).toLocaleDateString('es-ES', {
-            day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit'
-          });
-        } else {
-          document.getElementById('total-count').textContent = allJobs.length;
+        const stats = await loadJson([`${DATA_BASE}/stats.json`, 'data/stats.json', '../data/stats.json']);
+        document.getElementById('total-count').textContent = stats.total_jobs ?? allJobs.length;
+        document.getElementById('last-updated').textContent = new Date(stats.last_updated).toLocaleDateString('es-ES', {
+          day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit'
+        });
+        if (stats.sources) {
+          document.getElementById('sources').textContent = Object.keys(stats.sources).join(' · ');
         }
 
         renderJobs();
@@ -207,11 +228,11 @@
 
       const filtered = allJobs.filter(j => {
         const matchesCategory = activeCategory === 'all' || j.category === activeCategory;
-        const matchesQuery = !query || 
-          j.title.toLowerCase().includes(query) ||
-          j.company.toLowerCase().includes(query) ||
+        const matchesQuery = !query ||
+          (j.title || '').toLowerCase().includes(query) ||
+          (j.company || '').toLowerCase().includes(query) ||
           (j.tags && j.tags.some(t => t.toLowerCase().includes(query))) ||
-          j.location.toLowerCase().includes(query);
+          (j.location || '').toLowerCase().includes(query);
 
         return matchesCategory && matchesQuery;
       });
