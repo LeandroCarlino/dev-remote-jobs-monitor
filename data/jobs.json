@@ -1,5 +1,62 @@
 [
   {
+    "id": "38a188cc2960",
+    "title": "Strategy & Operations Coach APAC",
+    "company": "Mento",
+    "url": "https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717",
+    "location": "Worldwide Remote",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [
+      "Education",
+      "Marketing",
+      "Exec",
+      "Senior",
+      "Ops",
+      "Part time"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "b91ceee7a783",
+    "title": "Bilingual Patient Engagement Specialist I English Spanish",
+    "company": "Sprinter Health",
+    "url": "https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716",
+    "location": "Menlo Park",
+    "date": "2026-11-11",
+    "category": "Fullstack",
+    "tags": [
+      "Dev",
+      "Speech",
+      "Ops",
+      "Excel",
+      "Medical",
+      "Non tech"
+    ],
+    "salary": "$21 - $21 USD",
+    "source": "RemoteOK"
+  },
+  {
+    "id": "6b8d7094adbc",
+    "title": "Data Engineer",
+    "company": "Addepto",
+    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
+    "location": "Worldwide Remote",
+    "date": "2026-11-10",
+    "category": "AI / Data",
+    "tags": [
+      "Design",
+      "Saas",
+      "Salesforce",
+      "Python",
+      "Education",
+      "Consulting"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "a3b293adf305",
     "title": "Cloud Engineer",
     "company": "Knack",
@@ -877,25 +934,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "e4dc1f4c55bd",
-    "title": "Cloud Engineer Automation",
-    "company": "Smile Digital Health",
-    "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
-    "location": "Toronto, Ontario",
-    "date": "2026-10-29",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Design",
-      "Grafana",
-      "Infosec",
-      "Python",
-      "Marketing",
-      "Dev"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "0141e497b061",
     "title": "Principal Data Engineer",
     "company": "ZoomInfo Technologies LLC",
@@ -925,21 +963,6 @@
     ],
     "salary": "$3.5k–$5k/month",
     "source": "Remotive"
-  },
-  {
-    "id": "96564c66658e",
-    "title": "Front End Developer",
-    "company": "Cambridge Information Group",
-    "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
-    "location": "Worldwide Remote",
-    "date": "2026-10-28",
-    "category": "Fullstack",
-    "tags": [
-      "Front end",
-      "Other"
-    ],
-    "salary": "$80,000 - $100,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "abff4951661e",
@@ -989,25 +1012,6 @@
     ],
     "salary": null,
     "source": "Remotive"
-  },
-  {
-    "id": "19b383a3a655",
-    "title": "Senior Software Engineer LATAM",
-    "company": "Wagmo",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-    "location": "Worldwide Remote",
-    "date": "2026-10-26",
-    "category": "Frontend",
-    "tags": [
-      "Dev",
-      "Design",
-      "React",
-      "Sys admin",
-      "Python",
-      "Django"
-    ],
-    "salary": "$100,000 - $140,000 USD",
-    "source": "RemoteOK"
   },
   {
     "id": "1b502e823a3a",
@@ -1179,6 +1183,54 @@
     "category": "Fullstack",
     "tags": [
       ".net"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "29c98a1c9238",
+    "title": "SAP Berater FI/CO (M/W/D)",
+    "company": "BDF EXPERTS",
+    "url": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "cd40d5ff9a71",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Proxify AB",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "Frontend",
+    "tags": [
+      "React",
+      "Node",
+      "Sql",
+      "Mongodb"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "69ad0be1ac85",
+    "title": "Senior Backend Developer (Python)",
+    "company": "Proxify AB",
+    "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
+    "location": "Worldwide / Remote",
+    "date": "2026-10-19",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Python",
+      "Django",
+      "Sql",
+      "Aws",
+      "Gcp",
+      "Docker"
     ],
     "salary": null,
     "source": "WeWorkRemotely"
@@ -1546,49 +1598,6 @@
     ],
     "salary": "$170k - $200k",
     "source": "Remotive"
-  },
-  {
-    "id": "9acee1a0bf55",
-    "title": "Applied AI Engineers for telecommunications company",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "AI / Data",
-    "tags": [
-      "AI",
-      "Machine learning"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "9aae66a56c4b",
-    "title": "Apigee Engineer for Global Consumer Food Company",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Aws"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "89a9ae132db9",
-    "title": "Salesforce Developers with AI-Assisted Coding Experience",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
-    "location": "Worldwide / Remote",
-    "date": "2026-10-12",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
   },
   {
     "id": "b04976922f30",

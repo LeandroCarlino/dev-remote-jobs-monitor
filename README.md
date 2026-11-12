@@ -23,7 +23,7 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 <!-- STATS_START -->
 ### 📊 Tecnologías con más demanda hoy
 
-![AI](https://img.shields.io/badge/AI-24_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-17_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-16_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-14_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-10_vacantes-indigo) ![.net](https://img.shields.io/badge/.net-9_vacantes-indigo) ![Rails](https://img.shields.io/badge/Rails-8_vacantes-indigo) ![Finance](https://img.shields.io/badge/Finance-8_vacantes-indigo)
+![AI](https://img.shields.io/badge/AI-22_vacantes-indigo) ![Exec](https://img.shields.io/badge/Exec-18_vacantes-indigo) ![Dev](https://img.shields.io/badge/Dev-15_vacantes-indigo) ![Design](https://img.shields.io/badge/Design-13_vacantes-indigo) ![Education](https://img.shields.io/badge/Education-10_vacantes-indigo) ![Marketing](https://img.shields.io/badge/Marketing-10_vacantes-indigo) ![.net](https://img.shields.io/badge/.net-9_vacantes-indigo) ![Rails](https://img.shields.io/badge/Rails-8_vacantes-indigo)
 
 <!-- STATS_END -->
 
@@ -33,10 +33,13 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 
 <!-- JOBS_START -->
 
-*Última actualización automática: **2026-11-11 13:56 UTC** | Ofertas activas monitoreadas: **105***
+*Última actualización automática: **2026-11-12 00:25 UTC** | Ofertas activas monitoreadas: **105***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
+| **[Strategy & Operations Coach APAC](https://remoteOK.com/remote-jobs/remote-strategy-operations-coach-apac-mento-1137717)** | Mento | `Fullstack` | `Education` `Marketing` `Exec` | Worldwide Remote | 2026-11-11 |
+| **[Bilingual Patient Engagement Specialist I English Spanish](https://remoteOK.com/remote-jobs/remote-bilingual-patient-engagement-specialist-i-english-spanish-sprinter-health-1137716)** | Sprinter Health | `Fullstack` | `Dev` `Speech` `Ops` | Menlo Park | 2026-11-11 |
+| **[Data Engineer](https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714)** | Addepto | `AI / Data` | `Design` `Saas` `Salesforce` | Worldwide Remote | 2026-11-10 |
 | **[Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1)** | Knack | `AI / Data` | `.net` `Rails` | Worldwide / Remote | 2026-11-10 |
 | **[Senior Software Engineer â Kubernetes Control Plane](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713)** | Buoyant | `DevOps / Cloud` | `Golang` `Dev` `Senior` | Worldwide Remote | 2026-11-09 |
 | **[HIL Support Specialist](https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711)** | Extend Your Team | `Fullstack` | `Design` `C sharp` `Amazon` | Worldwide Remote | 2026-11-09 |
@@ -59,9 +62,6 @@ Todo el proceso de rastreo, normalización, deduplicación y publicación corre 
 | **[US Remote Patient Care Advocate (Customer Service)](https://remotive.com/remote-jobs/customer-service/us-remote-patient-care-advocate-customer-service-2091168)** | VXI Global Solutions | `Fullstack` | - | USA | 2026-11-06 |
 | **[Agile Program Manager](https://remoteOK.com/remote-jobs/remote-agile-program-manager-toptal-1137692)** | Toptal | `Fullstack` | `Agile` `Scrum` | Anywhere in the World | 2026-11-05 |
 | **[Feltsense AI Engineer](https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691)** | Silver.dev | `AI / Data` | `Design` `Sys admin` `Exec` | Worldwide Remote | 2026-11-05 |
-| **[Operations Expert with Python for AI Supply Chain Task Design](https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690)** | Toptal | `AI / Data` | `Docker` `Git` `Supply chain` | Anywhere in the World | 2026-11-05 |
-| **[ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)](https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689)** | Toptal | `AI / Data` | `Docker` `Git` `Llm` | Anywhere in the World | 2026-11-05 |
-| **[Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** | Lemon.io | `Frontend` | `Engineer` `Dev` `Full time` | Worldwide Remote | 2026-11-05 |
 <!-- JOBS_END -->
 
 ---
