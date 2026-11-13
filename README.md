@@ -57,43 +57,43 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 <!-- STATS_START -->
 ### Tecnologías con más demanda hoy
 
-![Python](https://img.shields.io/badge/Python-36%20vacantes-indigo) ![React](https://img.shields.io/badge/React-35%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-33%20vacantes-indigo) ![Go](https://img.shields.io/badge/Go-23%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-22%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-22%20vacantes-indigo) ![JavaScript](https://img.shields.io/badge/JavaScript-19%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-18%20vacantes-indigo)
+![React](https://img.shields.io/badge/React-39%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-37%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-29%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-26%20vacantes-indigo) ![Go](https://img.shields.io/badge/Go-23%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-21%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-21%20vacantes-indigo) ![JavaScript](https://img.shields.io/badge/JavaScript-20%20vacantes-indigo)
 
-<sub>377 ofertas activas · 7 fuentes · 30% con salario publicado · actualizado cada 6 h</sub>
+<sub>382 ofertas activas · 7 fuentes · 30% con salario publicado · actualizado cada 6 h</sub>
 <!-- STATS_END -->
 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-13 06:29 UTC** · Ofertas activas: **377***
+*Última actualización automática: **2026-11-13 19:28 UTC** · Ofertas activas: **382***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
-| **[Technical Support Engineer III - German](https://himalayas.app/companies/docusign/jobs/technical-support-engineer-iii-german?utm_source=api)** | Docusign | `General` | - | Egypt | 13/11/2026 |
-| **[Systems Engineer II](https://himalayas.app/companies/akamai-technologies/jobs/systems-engineer-ii?utm_source=api)** | Akamai Technologies | `DevOps / Cloud` | - | Costa Rica | 13/11/2026 |
-| **[Sr. QA Manager](https://himalayas.app/companies/concept-plus/jobs/sr-qa-manager?utm_source=api)** | Concept Plus | `General` | - | United States | 13/11/2026 |
-| **[Software Architect](https://himalayas.app/companies/harris/jobs/software-architect-9749758387?utm_source=api)** | Harris | `Backend` | - | United States | 13/11/2026 |
-| **[Software Architect](https://himalayas.app/companies/alliance-laundry-system/jobs/software-architect?utm_source=api)** | Alliance Laundry System | `Backend` | - | United States | 13/11/2026 |
-| **[Senior Software Engineer, Elixir](https://himalayas.app/companies/pdq/jobs/senior-software-engineer-elixir?utm_source=api)** | PDQ | `General` | `Elixir` | United States | 13/11/2026 |
+| **[Windows Systems Engineer](https://himalayas.app/companies/bright-vision-technologies/jobs/windows-systems-engineer-4294548853?utm_source=api)** | Bright Vision Technologies | `DevOps / Cloud` | - | United States | 13/11/2026 |
+| **[Web Developer with Ecommerce Expertise](https://himalayas.app/companies/remote-va/jobs/web-developer-with-ecommerce-expertise?utm_source=api)** | Remote VA | `General` | - | Pakistan | 13/11/2026 |
+| **[Veeva Solution Architect](https://himalayas.app/companies/futureproof/jobs/veeva-solution-architect?utm_source=api)** | futureproof | `Backend` | - | Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria… | 13/11/2026 |
+| **[Technical Solutions Engineer](https://himalayas.app/companies/altair-semiconductor/jobs/technical-solutions-engineer?utm_source=api)** | Altair Semiconductor | `General` | - | United States | 13/11/2026 |
+| **[Sênior Software Engineer - Back-End](https://himalayas.app/companies/grupo-olx/jobs/senior-software-engineer-back-end?utm_source=api)** | Grupo OLX | `Backend` | - | Brazil | 13/11/2026 |
+| **[Support Engineer (m/w/d) – Konstanz, Berlin oder remote](https://himalayas.app/companies/seitenbau/jobs/support-engineer-m-w-d-konstanz-berlin-oder-remote?utm_source=api)** | SEITENBAU | `General` | - | Germany | 13/11/2026 |
+| **[Staff Software Engineer, Identity and Authorization](https://jobicy.com/jobs/161940-staff-software-engineer-identity-and-authorization)** | Domino Data Lab | `General` | - | Argentina | 13/11/2026 |
+| **[Staff Motion Planning Engineer](https://himalayas.app/companies/motional/jobs/staff-motion-planning-engineer?utm_source=api)** | Motional | `General` | - | United States | 13/11/2026 |
+| **[Software Engineer Full-Stack](https://www.getonbrd.com/jobs/software-engineer-full-stack-logpilot-santiago-1ad9)** | Logpilot | `Fullstack` | - | Chile · No remote | 13/11/2026 |
+| **[Software Developer 1 (Hybrid Opportunity)](https://himalayas.app/companies/stanford-university/jobs/software-developer-1-hybrid-opportunity?utm_source=api)** | Stanford University | `General` | - | United States | 13/11/2026 |
+| **[Senior Software Engineer, Treasury (LATAM)](https://himalayas.app/companies/reap/jobs/senior-software-engineer-treasury-latam?utm_source=api)** | Reap | `General` | - | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize… | 13/11/2026 |
+| **[Senior Software Engineer, Patch Engineering & Vulnerability Remediation](https://jobicy.com/jobs/161935-senior-software-engineer-patch-engineering-vulnerability-remediation)** | Domino Data Lab | `General` | - | Argentina | 13/11/2026 |
 | **[Senior Software Engineer, Canvas Core](https://jobicy.com/jobs/155192-senior-software-engineer-canvas-core-3)** | Mural | `General` | - | Argentina, Canada, UK | 13/11/2026 |
+| **[Senior Software Engineer, Backend (ML Training and Serving)](https://himalayas.app/companies/affirm/jobs/senior-software-engineer-backend-ml-training-and-serving?utm_source=api)** | Affirm | `AI / Data` | `ML` | United States | 13/11/2026 |
 | **[Senior Software Engineer, Admin & IAM](https://jobicy.com/jobs/155185-senior-software-engineer-admin-iam)** | Mural | `General` | - | Argentina | 13/11/2026 |
-| **[Senior Software Engineer (Java)](https://himalayas.app/companies/alcor/jobs/senior-software-engineer-java?utm_source=api)** | Alcor | `Backend` | `Java` | Mexico | 13/11/2026 |
 | **[Senior Software Engineer (Full-Stack, JavaScript)](https://jobicy.com/jobs/155186-senior-software-engineer-full-stack-javascript)** | Able | `Fullstack` | `JavaScript` | LATAM | 13/11/2026 |
 | **[Senior Software Engineer (Full Stack - Node.js & React - AI Focus)](https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus)** | Oowlish Technology | `Fullstack` | `AI` `React` `Node` | Brazil | 13/11/2026 |
-| **[Senior Security Engineer](https://himalayas.app/companies/akamai-technologies/jobs/senior-security-engineer?utm_source=api)** | Akamai Technologies | `DevOps / Cloud` | `Security` | Brazil | 13/11/2026 |
-| **[Senior Linux Systems Administrator](https://himalayas.app/companies/peraton/jobs/senior-linux-systems-administrator?utm_source=api)** | Peraton | `DevOps / Cloud` | - | United States | 13/11/2026 |
-| **[Senior Licensing Engineer Energy - Remote](https://himalayas.app/companies/linxon/jobs/senior-licensing-engineer-energy-remote?utm_source=api)** | Linxon | `General` | - | United States | 13/11/2026 |
-| **[Senior II Software Development Engineer in Test - Remote Poland](https://himalayas.app/companies/akamai-technologies/jobs/senior-ii-software-development-engineer-in-test-remote-poland?utm_source=api)** | Akamai Technologies | `General` | - | Poland | 13/11/2026 |
-| **[Senior Full Stack Developer](https://himalayas.app/companies/colibri-digital/jobs/senior-full-stack-developer?utm_source=api)** | Colibri Digital | `Fullstack` | - | United Kingdom | 13/11/2026 |
-| **[Senior Forward Deployed Engineer, AI Platform - GP, Remote: Colombia - Costa Ric](https://himalayas.app/companies/gorilla-logic/jobs/senior-forward-deployed-engineer-ai-platform-gp-remote-colombia-costa-ric?utm_source=api)** | Gorilla Logic | `AI / Data` | `AI` | Colombia, Costa Rica | 13/11/2026 |
-| **[Senior Enterprise Security Architect](https://himalayas.app/companies/akamai-technologies/jobs/senior-enterprise-security-architect?utm_source=api)** | Akamai Technologies | `DevOps / Cloud` | `Security` | United States | 13/11/2026 |
-| **[Senior Data Engineer, Embedded](https://himalayas.app/companies/shopify/jobs/senior-data-engineer-embedded-8703439660?utm_source=api)** | Shopify | `AI / Data` | - | United States | 13/11/2026 |
-| **[SOFTWARE CONFIGURATION MANAGER III](https://himalayas.app/companies/vsolvit/jobs/software-configuration-manager-iii?utm_source=api)** | VSolvit | `General` | - | United States | 13/11/2026 |
-| **[QA automation - Développeur.euse de tests automatisés](https://himalayas.app/companies/itera/jobs/qa-automation-developpeur-euse-de-tests-automatises?utm_source=api)** | itera | `General` | - | Canada | 13/11/2026 |
-| **[QA Engineer (Malaysia-based)](https://himalayas.app/companies/kinobi-ai/jobs/qa-engineer-malaysia-based?utm_source=api)** | Kinobi AI | `General` | - | Malaysia | 13/11/2026 |
-| **[Principal, Enterprise Architect](https://himalayas.app/companies/pearson/jobs/principal-enterprise-architect?utm_source=api)** | Pearson | `Backend` | - | United States | 13/11/2026 |
-| **[Platform Automation Engineer](https://himalayas.app/companies/ninjaholdings/jobs/platform-automation-engineer?utm_source=api)** | NinjaHoldings | `General` | - | United States | 13/11/2026 |
-| **[Network Architect Cloud & AI Infrastructure (m/w/d)](https://himalayas.app/companies/yorizon/jobs/network-architect-cloud-ai-infrastructure-m-w-d?utm_source=api)** | Yorizon | `AI / Data` | `AI` | Austria, Germany | 13/11/2026 |
+| **[Senior Software Engineer (.NET)](https://himalayas.app/companies/abstra-co/jobs/senior-software-engineer-net?utm_source=api)** | Abstra | `General` | `.NET` | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize… | 13/11/2026 |
+| **[Senior Site Reliability Engineer (SRE) - Feeld](https://jobicy.com/jobs/161770-senior-site-reliability-engineer-sre-feeld-2)** | GT | `DevOps / Cloud` | `SRE` | Brazil | 13/11/2026 |
+| **[Senior Node.js Developer (Ukraine)](https://himalayas.app/companies/flosum/jobs/senior-node-js-developer-ukraine-8623306660?utm_source=api)** | Flosum | `Backend` | `Node` | Ukraine | 13/11/2026 |
+| **[Senior IT Systems Engineer](https://himalayas.app/companies/pantheon/jobs/senior-it-systems-engineer?utm_source=api)** | Pantheon | `DevOps / Cloud` | - | Ireland | 13/11/2026 |
+| **[Senior IBM Business Automation Workflow (BAW) Developer](https://jobicy.com/jobs/161941-senior-ibm-business-automation-workflow-baw-developer)** | Oowlish Technology | `General` | - | Brazil | 13/11/2026 |
+| **[Senior IBM BPM Developer](https://jobicy.com/jobs/161937-senior-ibm-bpm-developer)** | Oowlish Technology | `General` | - | Brazil | 13/11/2026 |
+| **[Senior Full Stack Web Developer](https://himalayas.app/companies/motorola-solutions/jobs/senior-full-stack-web-developer?utm_source=api)** | Motorola Solutions | `Fullstack` | - | Canada | 13/11/2026 |
+| **[Senior FPGA Prototyping Engineer](https://himalayas.app/companies/k2-space/jobs/senior-fpga-prototyping-engineer-7437661084?utm_source=api)** | K2 Space | `General` | - | United States | 13/11/2026 |
 
 <!-- JOBS_END -->
 
