@@ -1,62 +1,63 @@
 {
-  "last_updated": "2026-11-14T05:55:06+00:00",
-  "total_jobs": 385,
+  "last_updated": "2026-11-14T13:20:19+00:00",
+  "total_jobs": 374,
   "top_tags": {
     "React": 38,
     "Python": 36,
     "AI": 30,
-    "Node": 26,
-    "Go": 23,
-    "Java": 22,
-    "TypeScript": 22,
+    "Node": 25,
+    "Go": 24,
+    "TypeScript": 23,
     "JavaScript": 21,
-    "DevOps": 15,
+    "Java": 21,
+    "DevOps": 16,
     "AWS": 15,
     "Angular": 15,
+    "Security": 11,
     ".NET": 11,
     "SQL": 11,
     "Azure": 10,
-    "Security": 9,
     "GCP": 8,
+    "ML": 6,
     "Docker": 6,
     "PostgreSQL": 5,
-    "Machine Learning": 4,
-    "Salesforce": 4
+    "Machine Learning": 4
   },
   "categories": {
-    "Fullstack": 106,
-    "General": 93,
-    "DevOps / Cloud": 54,
-    "Backend": 52,
+    "Fullstack": 107,
+    "General": 90,
+    "DevOps / Cloud": 53,
+    "Backend": 51,
     "AI / Data": 48,
-    "Frontend": 23,
-    "Mobile": 9
+    "Frontend": 22,
+    "Mobile": 3
   },
   "regions": {
-    "latam": 233,
+    "latam": 234,
     "worldwide": 75,
-    "europe": 28,
-    "usa": 24,
+    "europe": 21,
+    "usa": 18,
     "argentina": 12,
-    "apac": 5,
-    "other": 4,
-    "canada": 4
+    "apac": 8,
+    "canada": 4,
+    "africa": 1,
+    "other": 1
   },
   "seniority": {
-    "unknown": 177,
-    "senior": 126,
-    "lead": 39,
-    "semi": 33,
-    "junior": 10
+    "unknown": 175,
+    "senior": 130,
+    "lead": 40,
+    "semi": 24,
+    "junior": 5
   },
   "sources": {
     "Get on Board": 194,
-    "Jobicy": 45,
-    "Himalayas": 40,
+    "Jobicy": 46,
     "RemoteOK": 40,
-    "WeWorkRemotely": 36,
+    "WeWorkRemotely": 34,
+    "Himalayas": 30,
     "Working Nomads": 22,
     "Remotive": 8
   },
-  "salary_coverage": 30
+  "salary_coverage": 29
 }
