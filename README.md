@@ -57,43 +57,43 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 <!-- STATS_START -->
 ### Tecnologías con más demanda hoy
 
-![React](https://img.shields.io/badge/React-35%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-26%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-24%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-23%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-21%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-21%20vacantes-indigo) ![JavaScript](https://img.shields.io/badge/JavaScript-19%20vacantes-indigo) ![Security](https://img.shields.io/badge/Security-13%20vacantes-indigo)
+![React](https://img.shields.io/badge/React-33%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-22%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-21%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-21%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-20%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-18%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-15%20vacantes-indigo) ![JavaScript](https://img.shields.io/badge/JavaScript-15%20vacantes-indigo)
 
-<sub>364 ofertas activas · 7 fuentes · 31% con salario publicado · actualizado cada 6 h</sub>
+<sub>372 ofertas activas · 7 fuentes · 29% con salario publicado · actualizado cada 6 h</sub>
 <!-- STATS_END -->
 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-20 15:14 UTC** · Ofertas activas: **364***
+*Última actualización automática: **2026-11-20 23:53 UTC** · Ofertas activas: **372***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
-| **[Strategic Customer Success Data Analyst](https://himalayas.app/companies/first-advantage/jobs/strategic-customer-success-data-analyst?utm_source=api)** | First Advantage | `AI / Data` | - | United States | 20/11/2026 |
-| **[Software QA Engineer](https://himalayas.app/companies/first-advantage/jobs/software-qa-engineer-4897211344?utm_source=api)** | First Advantage | `General` | - | Mexico | 20/11/2026 |
+| **[Technical Support Engineer](https://himalayas.app/companies/servicetitan/jobs/technical-support-engineer?utm_source=api)** | ServiceTitan | `General` | - | United States | 20/11/2026 |
+| **[Technical Presales Engineer, Sarawak](https://himalayas.app/companies/tp-link-usa-corporation/jobs/technical-presales-engineer-sarawak?utm_source=api)** | TP-Link USA Corporation | `General` | - | Malaysia | 20/11/2026 |
+| **[Staff Software Engineer, Enterprise Platform](https://weworkremotely.com/remote-jobs/discord-staff-software-engineer-enterprise-platform)** | Discord | `General` | - | Worldwide / Remote | 20/11/2026 |
+| **[Staff Software Engineer - Golang](https://himalayas.app/companies/rapid7/jobs/staff-software-engineer-golang?utm_source=api)** | Rapid7 | `Backend` | `Go` | United States | 20/11/2026 |
+| **[Staff Site Reliability Engineer (Remote in Brazil)](https://jobicy.com/jobs/163574-staff-site-reliability-engineer-remote-in-brazil)** | KnowBe4, Inc. | `DevOps / Cloud` | - | Brazil | 20/11/2026 |
+| **[Sr. Director, Process Engineering](https://himalayas.app/companies/r3-lithium-inc/jobs/sr-director-process-engineering?utm_source=api)** | R3 Lithium Inc. | `General` | - | United States | 20/11/2026 |
+| **[Software Engineering Manager - Sustaining Engineering](https://jobicy.com/jobs/163582-software-engineering-manager-sustaining-engineering)** | Canonical | `General` | - | LATAM, Canada, USA | 20/11/2026 |
+| **[Software Engineer](https://weworkremotely.com/remote-jobs/upsun-software-engineer)** | Upsun | `General` | - | Worldwide / Remote | 20/11/2026 |
 | **[Snr. Site Reliability Engineer (Remote in Brazil)](https://jobicy.com/jobs/163409-snr-site-reliability-engineer-remote-in-brazil)** | KnowBe4, Inc. | `DevOps / Cloud` | - | Brazil | 20/11/2026 |
-| **[Senior Solutions Architect, HPC and AI](https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-hpc-and-ai?utm_source=api)** | NVIDIA | `AI / Data` | `AI` | France, Germany | 20/11/2026 |
 | **[Senior Software Engineer, Data Platform](https://jobicy.com/jobs/163399-senior-software-engineer-data-platform-2)** | TRM Labs | `AI / Data` | - | Brazil | 20/11/2026 |
-| **[Senior Protection Engineer (Medium Voltage / Utility Distribution) – Remote (Wor](https://himalayas.app/companies/remotejobsone/jobs/senior-protection-engineer-medium-voltage-utility-distribution-remote-wor?utm_source=api)** | RemoteJobsOne | `General` | - | Canada, France, Germany, India, Netherlands, Pakistan, United Kingdom, United… | 20/11/2026 |
+| **[Senior Software Engineer](https://himalayas.app/companies/icomat/jobs/senior-software-engineer?utm_source=api)** | iCOMAT | `General` | - | Greece, United Kingdom | 20/11/2026 |
+| **[Senior QA Automation Developer (HELOC)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-developer-heloc)** | Upgrade | `General` | - | Worldwide / Remote | 20/11/2026 |
+| **[Senior Product Data Analyst](https://jobicy.com/jobs/163572-senior-product-data-analyst)** | CookUnity | `AI / Data` | - | LATAM | 20/11/2026 |
 | **[Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer)** | Discord | `DevOps / Cloud` | `Security` | Worldwide / Remote | 20/11/2026 |
+| **[Senior Platform Engineer — Kubernetes, DevOps, & Cloud Infra (US)](https://himalayas.app/companies/genios-ai/jobs/senior-platform-engineer-kubernetes-devops-cloud-infra-us?utm_source=api)** | Genios AI | `DevOps / Cloud` | `Kubernetes` `DevOps` | United States | 20/11/2026 |
+| **[Senior Full Stack Engineer](https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-engineer-8826763814?utm_source=api)** | Description Ciklum | `Fullstack` | - | Czechia | 20/11/2026 |
+| **[Senior Full Stack Developer](https://himalayas.app/companies/sharesource-australia-bpo-corporation/jobs/senior-full-stack-developer?utm_source=api)** | Sharesource Australia BPO Corporation | `Fullstack` | - | Philippines | 20/11/2026 |
 | **[Senior Front-End Engineer (Next.js/React) - Real Estate](https://jobicy.com/jobs/163397-senior-front-end-engineer-next-js-react-real-estate)** | Truelogic | `Frontend` | `React` `Next.js` | Mexico | 20/11/2026 |
-| **[Senior Electrical Engineer - Substation Design (PE Required)](https://himalayas.app/companies/electric-power-engineers/jobs/senior-electrical-engineer-substation-design-pe-required?utm_source=api)** | Electric Power Engineers | `General` | - | United States | 20/11/2026 |
-| **[Senior Data Scientist (AI Evaluation & Improvement)](https://himalayas.app/companies/evolent/jobs/senior-data-scientist-ai-evaluation-improvement?utm_source=api)** | Evolent | `AI / Data` | `AI` | United States | 20/11/2026 |
 | **[Senior Data Engineer - Advertising](https://jobicy.com/jobs/163404-senior-data-engineer-advertising)** | Truelogic | `AI / Data` | - | Brazil | 20/11/2026 |
 | **[Senior Data Engineer (Remote in Brazil)](https://jobicy.com/jobs/163406-senior-data-engineer-remote-in-brazil)** | KnowBe4, Inc. | `AI / Data` | - | Brazil | 20/11/2026 |
+| **[Senior CloudOps Engineer (Network Engineer)](https://weworkremotely.com/remote-jobs/wrike-senior-cloudops-engineer-network-engineer)** | Wrike | `DevOps / Cloud` | - | Worldwide / Remote | 20/11/2026 |
 | **[Senior Atlassian Cloud Engineer](https://jobicy.com/jobs/163403-senior-atlassian-cloud-engineer)** | Dropbox | `DevOps / Cloud` | - | Mexico | 20/11/2026 |
-| **[Salesforce CPQ Developer (Remote, IND)](https://himalayas.app/companies/crowdstrike/jobs/salesforce-cpq-developer-remote-ind?utm_source=api)** | Crowdstrike | `General` | `Salesforce` | India | 20/11/2026 |
-| **[SAP Solution Architect (m/w/d)](https://himalayas.app/companies/sd-worx/jobs/sap-solution-architect-m-w-d?utm_source=api)** | SD Worx | `Backend` | - | Germany | 20/11/2026 |
-| **[Principal Simulations Software Engineer](https://himalayas.app/companies/lanteris-space-llc/jobs/principal-simulations-software-engineer?utm_source=api)** | Lanteris Space LLC | `General` | - | United States | 20/11/2026 |
-| **[Principal Engineer, Drainage](https://himalayas.app/companies/parsons-corporation/jobs/principal-engineer-drainage?utm_source=api)** | Parsons Corporation | `General` | - | United States | 20/11/2026 |
-| **[PreSales Solutions Engineer](https://weworkremotely.com/remote-jobs/sumo-logic-presales-solutions-engineer)** | Sumo Logic | `General` | - | Worldwide / Remote | 20/11/2026 |
-| **[Mid/Senior Linux C Engineer (Aerospace / Networking)](https://himalayas.app/companies/codilime/jobs/mid-senior-linux-c-engineer-aerospace-networking?utm_source=api)** | CodiLime | `General` | - | Poland | 20/11/2026 |
-| **[Manager Security Engineer, Operations](https://weworkremotely.com/remote-jobs/fivetran-manager-security-engineer-operations)** | Fivetran | `DevOps / Cloud` | `Security` | Worldwide / Remote | 20/11/2026 |
-| **[Lead Azure Data Engineer](https://himalayas.app/companies/ryanspecialty/jobs/lead-azure-data-engineer?utm_source=api)** | Ryan Specialty | `AI / Data` | `Azure` | United States | 20/11/2026 |
-| **[Lead AI Engineer, LLM Systems](https://himalayas.app/companies/hermeneutic-investments/jobs/lead-ai-engineer-llm-systems?utm_source=api)** | hermeneutic Investments | `AI / Data` | `AI` `LLM` | Hong Kong, Singapore, United States | 20/11/2026 |
-| **[Inside Solutions Engineer](https://weworkremotely.com/remote-jobs/beyondtrust-inside-solutions-engineer)** | BeyondTrust | `General` | - | Worldwide / Remote | 20/11/2026 |
-| **[Infrastructure Software Engineer](https://jobicy.com/jobs/163396-infrastructure-software-engineer-3)** | Dropbox | `DevOps / Cloud` | - | Mexico | 20/11/2026 |
-| **[Infrastructure Engineer (Brazil)](https://jobicy.com/jobs/151020-infrastructure-engineer-brazil)** | Articul8 | `DevOps / Cloud` | - | Brazil | 20/11/2026 |
+| **[Senior AI Automation Engineer](https://himalayas.app/companies/helpware/jobs/senior-ai-automation-engineer?utm_source=api)** | Helpware | `AI / Data` | `AI` | Argentina, Brazil, Mexico, Poland, Ukraine | 20/11/2026 |
+| **[Salesforce Data Architect](https://himalayas.app/companies/tripoint-solutions-llc/jobs/salesforce-data-architect?utm_source=api)** | Tripoint Solutions, LLC | `Backend` | `Salesforce` | United States | 20/11/2026 |
+| **[RF Engineer Sr Principal](https://himalayas.app/companies/general-dynamics-information-technology/jobs/rf-engineer-sr-principal?utm_source=api)** | General Dynamics Information Technology | `General` | - | United States | 20/11/2026 |
 
 <!-- JOBS_END -->
 
