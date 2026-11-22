@@ -1,47 +1,620 @@
 [
   {
-    "id": "6d1b0229d886",
-    "title": "Technical Lead, Senior Software Development",
-    "company": "Vena Solutions",
-    "url": "https://himalayas.app/companies/vena-solutions/jobs/technical-lead-senior-software-development?utm_source=api",
-    "location": "Canada",
-    "region": "canada",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": "$114,750 - $155,250 CAD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "813daea1c56a",
-    "title": "Technical Expert Developer",
-    "company": "Caixa Mágica Software",
-    "url": "https://himalayas.app/companies/caixa-magica-software/jobs/technical-expert-developer?utm_source=api",
-    "location": "Portugal",
-    "region": "europe",
-    "seniority": "senior",
-    "date": "2026-11-21",
+    "id": "3bfc39407c6c",
+    "title": "Workday Developer",
+    "company": "Solvios Technology",
+    "url": "https://himalayas.app/companies/solvios-technology/jobs/workday-developer?utm_source=api",
+    "location": "India",
+    "region": "apac",
+    "seniority": "semi",
+    "date": "2026-11-22",
     "category": "General",
     "tags": [],
     "salary": null,
     "source": "Himalayas"
   },
   {
-    "id": "83e7d8908958",
-    "title": "Super Software Engineer - AI Factory – _ San Francisco Bay Area",
-    "company": "SIVAD Consulting",
-    "url": "https://himalayas.app/companies/sivad-consulting/jobs/super-software-engineer-ai-factory-_-san-francisco-bay-area?utm_source=api",
+    "id": "002360e20e35",
+    "title": "Sr. Electrical Engineer",
+    "company": "MasTec Industrial",
+    "url": "https://himalayas.app/companies/mastec-industrial/jobs/sr-electrical-engineer?utm_source=api",
     "location": "United States",
     "region": "usa",
     "seniority": "senior",
-    "date": "2026-11-21",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "1ee543181c03",
+    "title": "Sr Manufacturing Engineer - Sourced Hardware",
+    "company": "GE Aerospace",
+    "url": "https://himalayas.app/companies/ge-aerospace/jobs/sr-manufacturing-engineer-sourced-hardware-8671162285?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$116,000 - $155,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "c65a4e704e07",
+    "title": "Software Engineer (Golang)",
+    "company": "Gcore",
+    "url": "https://himalayas.app/companies/gcore/jobs/software-engineer-golang-1781781167?utm_source=api",
+    "location": "Cyprus, Poland, Serbia",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "Backend",
+    "tags": [
+      "Go"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "1dac12907164",
+    "title": "Site Reliability Engineer",
+    "company": "AbbVie",
+    "url": "https://himalayas.app/companies/abbvie/jobs/site-reliability-engineer?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$96,500 - $183,500 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "4eca1566fcb6",
+    "title": "Senior Security Engineer (Microsoft Purview)",
+    "company": "ResMed",
+    "url": "https://himalayas.app/companies/resmed/jobs/senior-security-engineer-microsoft-purview?utm_source=api",
+    "location": "Canada",
+    "region": "canada",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Security"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "a3d3c6926212",
+    "title": "Senior QA Engineer, Runtime",
+    "company": "Unqork",
+    "url": "https://himalayas.app/companies/unqork/jobs/senior-qa-engineer-runtime?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$100,000 - $137,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "2c2614c56ae6",
+    "title": "Senior QA Automation Engineer - HELOC (LATAM)",
+    "company": "Upgrade",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-heloc-latam",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "2dc9cc90b267",
+    "title": "Senior QA Automation Engineer (Platform)",
+    "company": "Upgrade",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "37493a8fac46",
+    "title": "Senior Infrastructure Software Engineer",
+    "company": "Dropbox",
+    "url": "https://himalayas.app/companies/dropbox/jobs/senior-infrastructure-software-engineer?utm_source=api",
+    "location": "Poland",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$333,200 - $450,800 PLN",
+    "source": "Himalayas"
+  },
+  {
+    "id": "8b3306704d48",
+    "title": "Senior GRC Engineer",
+    "company": "Arkestro",
+    "url": "https://himalayas.app/companies/arkestro/jobs/senior-grc-engineer?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$130,000 - $150,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "eb2edc74b867",
+    "title": "Senior Full Stack Product Software Engineer, Application Platform",
+    "company": "Dropbox",
+    "url": "https://himalayas.app/companies/dropbox/jobs/senior-full-stack-product-software-engineer-application-platform?utm_source=api",
+    "location": "Poland",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": "$333,200 - $450,800 PLN",
+    "source": "Himalayas"
+  },
+  {
+    "id": "b2a4cc9f8b05",
+    "title": "Senior Engineer- Quality Assurance",
+    "company": "ReSource Pro",
+    "url": "https://himalayas.app/companies/resource-pro/jobs/senior-engineer-quality-assurance?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$67,193 - $113,712 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "42150c678ee0",
+    "title": "Senior Director, Broadcast Engineering",
+    "company": "World Wrestling Entertainment, LLC",
+    "url": "https://himalayas.app/companies/world-wrestling-entertainment-llc/jobs/senior-director-broadcast-engineering?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "lead",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$157,500 - $210,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "d399ad9c9b7e",
+    "title": "Senior Cloud Application Developer / AWS Solutions Architect",
+    "company": "MKS2 Technologies",
+    "url": "https://himalayas.app/companies/mks2-technologies/jobs/senior-cloud-application-developer-aws-solutions-architect?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "0dd089ef19e0",
+    "title": "Senior Application Engineer (REMOTE or HYBRID TO MA)",
+    "company": "The Hanover Insurance Group",
+    "url": "https://himalayas.app/companies/the-hanover-insurance-group/jobs/senior-application-engineer-remote-or-hybrid-to-ma-9847361836?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$101,000 - $135,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "b0eb39ae523a",
+    "title": "Professional Services Technical Architect - West",
+    "company": "GitLab",
+    "url": "https://himalayas.app/companies/gitlab-com/jobs/professional-services-technical-architect-west?utm_source=api",
+    "location": "Canada",
+    "region": "canada",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "572ee108db32",
+    "title": "Professional Services DevOps Architect",
+    "company": "JFrog",
+    "url": "https://weworkremotely.com/remote-jobs/jfrog-professional-services-devops-architect",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": null,
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "c2d80c91afbb",
+    "title": "Principal Engineer, Service Delivery",
+    "company": "dell",
+    "url": "https://himalayas.app/companies/dell/jobs/principal-engineer-service-delivery-7906606693?utm_source=api",
+    "location": "Malaysia",
+    "region": "other",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "1a983a0d2df3",
+    "title": "NOC Engineer Level 2",
+    "company": "Airalo",
+    "url": "https://himalayas.app/companies/airalo/jobs/noc-engineer-level-2?utm_source=api",
+    "location": "Spain",
+    "region": "spain",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": "$48,000 - $72,000 EUR",
+    "source": "Himalayas"
+  },
+  {
+    "id": "e6b850bf0aec",
+    "title": "Immediate Opening – Salesforce Developer (Health Cloud)",
+    "company": "StarTekk",
+    "url": "https://himalayas.app/companies/startekk/jobs/immediate-opening-salesforce-developer-health-cloud?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Salesforce"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "d0e14c8593bb",
+    "title": "Engineering Manager, Infrastructure Software",
+    "company": "Lightning AI",
+    "url": "https://himalayas.app/companies/lightning-ai/jobs/engineering-manager-infrastructure-software?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$205,000 - $310,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "946d63ddb1c0",
+    "title": "Engineering Manager - Grafana Infrastructure (Remote, Canada)",
+    "company": "Grafana Labs",
+    "url": "https://himalayas.app/companies/grafana-labs/jobs/engineering-manager-grafana-infrastructure-remote-canada?utm_source=api",
+    "location": "Canada, United States",
+    "region": "usa",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$192,891 - $231,469 CAD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "f67e71a969a1",
+    "title": "Dynatrace Senior Consultant – DevOps",
+    "company": "Arctiq",
+    "url": "https://himalayas.app/companies/arctiq/jobs/dynatrace-senior-consultant-devops?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "5afc5adde887",
+    "title": "Distinguished Architect - Asset and Infrastructure Transformation - Remote (US)",
+    "company": "Amtrak",
+    "url": "https://himalayas.app/companies/amtrak/jobs/distinguished-architect-asset-and-infrastructure-transformation-remote-us?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$179,300 - $232,416 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "ffe5f5c34a56",
+    "title": "Director of Engineering",
+    "company": "Greenshades Software",
+    "url": "https://himalayas.app/companies/greenshades-software/jobs/director-of-engineering?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "lead",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "ed611c6dbe03",
+    "title": "DevOps Engineer (Poland)",
+    "company": "Productiv Team",
+    "url": "https://himalayas.app/companies/productiv-team/jobs/devops-engineer-poland-6867996837?utm_source=api",
+    "location": "Poland",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "188b641ca0a5",
+    "title": "DevOps Engineer",
+    "company": "Oddball",
+    "url": "https://himalayas.app/companies/oddball/jobs/devops-engineer-3261267411?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
+    "salary": "$110,000 - $145,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "6492cfebe52f",
+    "title": "Data Engineer – Legal Entity Platform (AWS / Snowflake) (102)",
+    "company": "OpsBrasil Serviços Cloud LTDA",
+    "url": "https://himalayas.app/companies/opsbrasil-servicos-cloud-ltda/jobs/data-engineer-legal-entity-platform-aws-snowflake-102?utm_source=api",
+    "location": "Brazil",
+    "region": "latam",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "AI / Data",
+    "tags": [
+      "AWS"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "8418d66eaf43",
+    "title": "Data Architect",
+    "company": "Trax Technologies",
+    "url": "https://himalayas.app/companies/trax-technologies/jobs/data-architect?utm_source=api",
+    "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria…",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "3f29ddb71213",
+    "title": "Data Analyst - OpenData Commercial - Asia Pacific",
+    "company": "Veeva Systems",
+    "url": "https://himalayas.app/companies/veeva-systems/jobs/data-analyst-opendata-commercial-asia-pacific?utm_source=api",
+    "location": "Taiwan",
+    "region": "other",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "AI / Data",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "adc373a578c2",
+    "title": "Cloud Engineer",
+    "company": "Lone Wolf Technologies",
+    "url": "https://himalayas.app/companies/lone-wolf-technologies/jobs/cloud-engineer?utm_source=api",
+    "location": "Canada",
+    "region": "canada",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [],
+    "salary": "$120,000 - $140,000 CAD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "2a976705d4f5",
+    "title": "Cisco Secure Access (SSE) Deployment Engineer",
+    "company": "Emerging Tech",
+    "url": "https://himalayas.app/companies/emerging-tech/jobs/cisco-secure-access-sse-deployment-engineer?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "4a695c3d87d8",
+    "title": "Business Architect",
+    "company": "The Ardonagh Group",
+    "url": "https://himalayas.app/companies/everywhen-co/jobs/business-architect?utm_source=api",
+    "location": "United Kingdom",
+    "region": "europe",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "1dc6605eaf23",
+    "title": "Azure DevOps Engineer (with DBA experience)",
+    "company": "Opinov8",
+    "url": "https://himalayas.app/companies/opinov8/jobs/azure-devops-engineer-with-dba-experience?utm_source=api",
+    "location": "United Kingdom",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Azure",
+      "DevOps"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "6199edffd023",
+    "title": "Azure Cloud Engineer",
+    "company": "T-Rex Solutions, LLC",
+    "url": "https://himalayas.app/companies/t-rex-solutions-llc/jobs/azure-cloud-engineer?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Azure"
+    ],
+    "salary": "$115,000 - $145,000 USD",
+    "source": "Himalayas"
+  },
+  {
+    "id": "f04d8bd9175d",
+    "title": "Android Software Engineer",
+    "company": "Bjak",
+    "url": "https://himalayas.app/companies/bjak/jobs/android-software-engineer-435062756?utm_source=api",
+    "location": "Germany",
+    "region": "europe",
+    "seniority": "semi",
+    "date": "2026-11-22",
+    "category": "Mobile",
+    "tags": [
+      "Android"
+    ],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "d26e0aef6f30",
+    "title": "Analista de Desenvolvimento de Software Júnior - Vaga Afirmativa para Mulheres",
+    "company": "Experian",
+    "url": "https://himalayas.app/companies/experian/jobs/analista-de-desenvolvimento-de-software-junior-vaga-afirmativa-para-mulheres?utm_source=api",
+    "location": "Brazil",
+    "region": "latam",
+    "seniority": "junior",
+    "date": "2026-11-22",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Himalayas"
+  },
+  {
+    "id": "c6e679beae04",
+    "title": "AI Engineer, Specialist - Remote",
+    "company": "Community Health Systems",
+    "url": "https://himalayas.app/companies/community-health-systems/jobs/ai-engineer-specialist-remote?utm_source=api",
+    "location": "United States",
+    "region": "usa",
+    "seniority": "senior",
+    "date": "2026-11-22",
     "category": "AI / Data",
     "tags": [
       "AI"
     ],
-    "salary": "$200,000 - $275,000 USD",
+    "salary": null,
     "source": "Himalayas"
+  },
+  {
+    "id": "a4846154199b",
+    "title": "AI Augmented Fullstack | Remote in Mexico",
+    "company": "GSB Solutions",
+    "url": "https://himalayas.app/companies/gsb-solutions/jobs/ai-augmented-fullstack-remote-in-mexico?utm_source=api",
+    "location": "Mexico",
+    "region": "latam",
+    "seniority": "senior",
+    "date": "2026-11-22",
+    "category": "Fullstack",
+    "tags": [
+      "AI"
+    ],
+    "salary": "$100,000+ MXN",
+    "source": "Himalayas"
+  },
+  {
+    "id": "ae5ccaf9efd0",
+    "title": "Technical Solutions Engineer",
+    "company": "Stripe",
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": null,
+    "date": "2026-11-21",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "c6becb498bf2",
+    "title": "Staff Tech Enablement Engineer, B2B Operations",
+    "company": "CookUnity",
+    "url": "https://jobicy.com/jobs/163688-staff-tech-enablement-engineer-b2b-operations",
+    "location": "LATAM",
+    "region": "latam",
+    "seniority": "lead",
+    "date": "2026-11-21",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
   },
   {
     "id": "65b9022673cd",
@@ -58,64 +631,34 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "9a83d60479a3",
-    "title": "Staff DevOps Engineer",
-    "company": "ProphetX",
-    "url": "https://himalayas.app/companies/prophetx/jobs/staff-devops-engineer?utm_source=api",
-    "location": "United States",
+    "id": "43ba980406e0",
+    "title": "Staff Scientist, Machine Learning (Genomics)",
+    "company": "Natera",
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926",
+    "location": "US Only",
     "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "DevOps"
-    ],
-    "salary": "$180,000 - $220,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "32ec5ecada3a",
-    "title": "Sr/Staff Data Scientist (Remote - US) (REMOTE, US, US, 76131)",
-    "company": "BNSF Railway",
-    "url": "https://himalayas.app/companies/bnsf-railway/jobs/sr-staff-data-scientist-remote-us-remote-us-us-76131?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
+    "seniority": "lead",
     "date": "2026-11-21",
     "category": "AI / Data",
-    "tags": [],
-    "salary": "$165,000 - $300,000 USD",
-    "source": "Himalayas"
+    "tags": [
+      "Machine Learning"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
   },
   {
-    "id": "554bd96182dc",
-    "title": "Spark Developer",
-    "company": "InfraCloud",
-    "url": "https://himalayas.app/companies/infracloud/jobs/spark-developer-5283868229?utm_source=api",
-    "location": "India",
-    "region": "apac",
+    "id": "1756f88be7cb",
+    "title": "Sr Mgr, Software Engineering (Cribl Detect)",
+    "company": "Cribl",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923",
+    "location": "US Only",
+    "region": "usa",
     "seniority": "senior",
     "date": "2026-11-21",
     "category": "General",
     "tags": [],
     "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "04291302f5d0",
-    "title": "Software Engineer, AI Coding Tasks (Contract)",
-    "company": "Askable",
-    "url": "https://himalayas.app/companies/askable/jobs/software-engineer-ai-coding-tasks-contract-5812118603?utm_source=api",
-    "location": "Worldwide",
-    "region": "worldwide",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "Himalayas"
+    "source": "RemoteOK"
   },
   {
     "id": "a136abf4694b",
@@ -146,32 +689,95 @@
     "source": "Jobicy"
   },
   {
-    "id": "97a3d56ec57b",
-    "title": "Senior Spark QA Engineer",
-    "company": "InfraCloud",
-    "url": "https://himalayas.app/companies/infracloud/jobs/senior-spark-qa-engineer-5176627493?utm_source=api",
-    "location": "India",
-    "region": "apac",
-    "seniority": "senior",
+    "id": "4306fe395b1f",
+    "title": "Software Engineer (Remote Eligible in Bulgaria)",
+    "company": "Smartsheet",
+    "url": "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": null,
     "date": "2026-11-21",
     "category": "General",
     "tags": [],
     "salary": null,
-    "source": "Himalayas"
+    "source": "WeWorkRemotely"
   },
   {
-    "id": "250d0f3ab503",
-    "title": "Senior Software Developer",
-    "company": "Vena Solutions",
-    "url": "https://himalayas.app/companies/vena-solutions/jobs/senior-software-developer?utm_source=api",
-    "location": "Canada",
+    "id": "a1744d4d1c5f",
+    "title": "Senior Staff Machine Learning Engineer, Ads Ranking",
+    "company": "Reddit",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": "lead",
+    "date": "2026-11-21",
+    "category": "AI / Data",
+    "tags": [
+      "Machine Learning"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "d9e43ed565f0",
+    "title": "Senior Software Engineer II - Agentic Intelligence",
+    "company": "Honeycomb.io",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-agentic-intelligence-honeycomb-io-1137924",
+    "location": "Canada Only",
     "region": "canada",
     "seniority": "senior",
     "date": "2026-11-21",
     "category": "General",
     "tags": [],
-    "salary": "$114,750 - $155,250 CAD",
-    "source": "Himalayas"
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "a86c09c99ca5",
+    "title": "Senior Software Engineer - Behavioral Security Products",
+    "company": "Abnormal",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
+    "location": "UK Only",
+    "region": "europe",
+    "seniority": "senior",
+    "date": "2026-11-21",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps",
+      "Security"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "bcee53844c45",
+    "title": "Senior Software Engineer",
+    "company": "3Y Health",
+    "url": "https://jobicy.com/jobs/163686-senior-software-engineer-27",
+    "location": "Brazil",
+    "region": "latam",
+    "seniority": "senior",
+    "date": "2026-11-21",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "Jobicy"
+  },
+  {
+    "id": "f169c101f966",
+    "title": "Senior Salesforce Business Systems Administrator",
+    "company": "Salesloft",
+    "url": "https://weworkremotely.com/remote-jobs/salesloft-senior-salesforce-business-systems-administrator",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2026-11-21",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "Salesforce"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
   },
   {
     "id": "0fb7b35096eb",
@@ -202,277 +808,99 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "8fded986c3e7",
-    "title": "Senior Product Engineer (NET/C#/Angular/MongoDB) – GDPR, Path to Head of Product",
-    "company": "Secure Privacy",
-    "url": "https://himalayas.app/companies/secure-privacy/jobs/senior-product-engineer-net-c-angular-mongodb-gdpr-path-to-head-of-product?utm_source=api",
-    "location": "Worldwide",
+    "id": "1f3a452a80fc",
+    "title": "Senior Platform Engineer",
+    "company": "Gemini",
+    "url": "https://weworkremotely.com/remote-jobs/gemini-senior-platform-engineer",
+    "location": "Worldwide / Remote",
     "region": "worldwide",
-    "seniority": "lead",
-    "date": "2026-11-21",
-    "category": "Frontend",
-    "tags": [
-      "Angular",
-      "C#",
-      "MongoDB"
-    ],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "a20cd523f456",
-    "title": "Senior Mining Engineer",
-    "company": "JDS Energy & Mining",
-    "url": "https://himalayas.app/companies/jds-energy-mining/jobs/senior-mining-engineer-5279708061?utm_source=api",
-    "location": "Canada",
-    "region": "canada",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "781e2a539377",
-    "title": "Senior DevOps Engineer",
-    "company": "WebEngage",
-    "url": "https://himalayas.app/companies/webengage/jobs/senior-devops-engineer-1583859977?utm_source=api",
-    "location": "India",
-    "region": "apac",
     "seniority": "senior",
     "date": "2026-11-21",
     "category": "DevOps / Cloud",
-    "tags": [
-      "DevOps"
-    ],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "0261a8e954d1",
-    "title": "Senior Data Engineer, Embedded",
-    "company": "Shopify",
-    "url": "https://himalayas.app/companies/shopify/jobs/senior-data-engineer-embedded-8703439660?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "AI / Data",
     "tags": [],
     "salary": null,
-    "source": "Himalayas"
+    "source": "WeWorkRemotely"
   },
   {
-    "id": "9326dd8efbdd",
-    "title": "Senior Cloud & AI First Engineer",
-    "company": "Init Norway",
-    "url": "https://himalayas.app/companies/init-norway/jobs/senior-cloud-ai-first-engineer-8033260920?utm_source=api",
-    "location": "North Macedonia",
+    "id": "bd9193788ab5",
+    "title": "Senior Applied AI Engineer",
+    "company": "Wemolo",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
+    "location": "München",
     "region": "other",
     "seniority": "senior",
     "date": "2026-11-21",
     "category": "AI / Data",
     "tags": [
-      "AI"
+      "AI",
+      "Python"
     ],
     "salary": null,
-    "source": "Himalayas"
+    "source": "RemoteOK"
   },
   {
-    "id": "a192d1365467",
-    "title": "Senior Architecte de Solutions & Data Engineer Microsoft Fabric (Freelance optio",
-    "company": "EngiFlex",
-    "url": "https://himalayas.app/companies/engiflex/jobs/senior-architecte-de-solutions-data-engineer-microsoft-fabric-freelance-optio?utm_source=api",
-    "location": "Belgium",
-    "region": "europe",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "74174bb2acde",
-    "title": "Salesforce Software Developer I",
-    "company": "Tripoint Solutions, LLC",
-    "url": "https://himalayas.app/companies/tripoint-solutions-llc/jobs/salesforce-software-developer-i?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "junior",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [
-      "Salesforce"
-    ],
-    "salary": "$95,000 - $115,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "7699181d2e4a",
-    "title": "Salesforce Database Developer",
-    "company": "Tripoint Solutions, LLC",
-    "url": "https://himalayas.app/companies/tripoint-solutions-llc/jobs/salesforce-database-developer?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [
-      "Salesforce"
-    ],
-    "salary": "$104,000 - $124,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "2c7011ae9013",
-    "title": "Product Support Engineer",
-    "company": "Snowplow",
-    "url": "https://himalayas.app/companies/snowplow/jobs/product-support-engineer?utm_source=api",
-    "location": "Australia",
-    "region": "apac",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "af14a2af7028",
-    "title": "Principal Software Engineer, AI & Agentic Systems",
-    "company": "Urrly",
-    "url": "https://himalayas.app/companies/urrly/jobs/principal-software-engineer-ai-agentic-systems?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": "$220,000+ USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "a9acf90bc7b3",
-    "title": "Principal Data Engineer (Contract)",
-    "company": "Colibri Digital",
-    "url": "https://himalayas.app/companies/colibri-digital/jobs/principal-data-engineer-contract-4634994858?utm_source=api",
-    "location": "United Kingdom",
-    "region": "europe",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "e9315d13f2be",
-    "title": "Mobile App Head of Growth & Monetization (Remote - M/F/D)",
-    "company": "Arise App",
-    "url": "https://himalayas.app/companies/arise-app/jobs/mobile-app-head-of-growth-monetization-remote-m-f-d-5057959171?utm_source=api",
-    "location": "Sweden",
-    "region": "europe",
-    "seniority": "lead",
-    "date": "2026-11-21",
-    "category": "Mobile",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "7cde24498f9f",
-    "title": "Manager - Data Engineering",
-    "company": "Astrana Health",
-    "url": "https://himalayas.app/companies/astrana-health/jobs/manager-data-engineering-2746589544?utm_source=api",
-    "location": "United States",
+    "id": "78f8683e66b8",
+    "title": "Principal Software Engineer, Infrastructure",
+    "company": "Reddit",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
+    "location": "US Only",
     "region": "usa",
     "seniority": "lead",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": "$140,000 - $160,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "09bfb1f2ab1d",
-    "title": "Lead Platform Engineer (Remote Home, GB)",
-    "company": "Atos",
-    "url": "https://himalayas.app/companies/atos/jobs/lead-platform-engineer-remote-home-gb?utm_source=api",
-    "location": "United Kingdom",
-    "region": "europe",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "DevOps / Cloud",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "7055ff2464fb",
-    "title": "Lead DevOps Engineer",
-    "company": "ActionKit",
-    "url": "https://himalayas.app/companies/actionkit/jobs/lead-devops-engineer-5625200342?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
     "date": "2026-11-21",
     "category": "DevOps / Cloud",
     "tags": [
       "DevOps"
     ],
     "salary": null,
-    "source": "Himalayas"
+    "source": "RemoteOK"
   },
   {
-    "id": "22a21f2178df",
-    "title": "Image Edit QA Reviewer (Photoshop), AI Training (USD 1.5/task)",
-    "company": "RustLabs",
-    "url": "https://himalayas.app/companies/rustlabs/jobs/image-edit-qa-reviewer-photoshop-ai-training-usd-1-5-task?utm_source=api",
-    "location": "Argentina, Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Mexico, Nigeria…",
-    "region": "argentina",
-    "seniority": "junior",
+    "id": "2b7ee93dfce8",
+    "title": "Principal Engineer, Security",
+    "company": "Reddit",
+    "url": "https://weworkremotely.com/remote-jobs/reddit-principal-engineer-security",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "lead",
     "date": "2026-11-21",
-    "category": "AI / Data",
+    "category": "DevOps / Cloud",
     "tags": [
-      "AI"
+      "Security"
     ],
     "salary": null,
-    "source": "Himalayas"
+    "source": "WeWorkRemotely"
   },
   {
-    "id": "1170d64a2d34",
-    "title": "Fullstack (Python and React) Developer",
-    "company": "Caixa Mágica Software",
-    "url": "https://himalayas.app/companies/caixa-magica-software/jobs/fullstack-python-and-react-developer-9804504342?utm_source=api",
-    "location": "Portugal",
-    "region": "europe",
-    "seniority": "semi",
+    "id": "f12e6de147f6",
+    "title": "Lead, Office of Software Assurance",
+    "company": "Natera",
+    "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": "lead",
     "date": "2026-11-21",
-    "category": "Fullstack",
+    "category": "DevOps / Cloud",
     "tags": [
-      "Python",
-      "React"
+      "DevOps"
     ],
     "salary": null,
-    "source": "Himalayas"
+    "source": "RemoteOK"
   },
   {
-    "id": "4bcf05bb1463",
-    "title": "Engineering Manager - Platform",
-    "company": "Shotgun",
-    "url": "https://himalayas.app/companies/shotguntheapp/jobs/engineering-manager-platform?utm_source=api",
-    "location": "France",
-    "region": "europe",
-    "seniority": "senior",
+    "id": "b4b05f4bbb64",
+    "title": "Engineering Manager, Ranking Platform",
+    "company": "Reddit",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": "lead",
     "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps"
+    ],
     "salary": null,
-    "source": "Himalayas"
+    "source": "RemoteOK"
   },
   {
     "id": "395147b54863",
@@ -492,22 +920,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "6c0c8dd3745f",
-    "title": "Devops Engineer/ Senior Devops Engineer",
-    "company": "WebEngage",
-    "url": "https://himalayas.app/companies/webengage/jobs/devops-engineer-senior-devops-engineer-9011145631?utm_source=api",
-    "location": "India",
-    "region": "apac",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "DevOps"
-    ],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
     "id": "44c620b5ec8d",
     "title": "Devices & IOT Field Engineering Manager (Americas)",
     "company": "Canonical",
@@ -520,150 +932,6 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
-  },
-  {
-    "id": "bfa95fd97689",
-    "title": "Desenvolvedor Fullstack Java Sênior",
-    "company": "FCamara",
-    "url": "https://himalayas.app/companies/fcamara/jobs/desenvolvedor-fullstack-java-senior?utm_source=api",
-    "location": "Brazil",
-    "region": "latam",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "Fullstack",
-    "tags": [
-      "Java"
-    ],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "43624774e779",
-    "title": "Data Science & Engineering Fellow",
-    "company": "Multiplier",
-    "url": "https://himalayas.app/companies/multiplier/jobs/data-science-engineering-fellow?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": "$78,000 - $88,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "e2f21065742d",
-    "title": "Data Engineer - Business Intelligence",
-    "company": "Hallmark Cards",
-    "url": "https://himalayas.app/companies/hallmark-cards/jobs/data-engineer-business-intelligence?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": "$85,000 - $110,000 USD",
-    "source": "Himalayas"
-  },
-  {
-    "id": "e0dd62b69bf8",
-    "title": "Data Engineer",
-    "company": "WebEngage",
-    "url": "https://himalayas.app/companies/webengage/jobs/data-engineer-7824687803?utm_source=api",
-    "location": "India",
-    "region": "apac",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "63d342e25393",
-    "title": "Cyber Security Engineer",
-    "company": "The EDH Global",
-    "url": "https://himalayas.app/companies/the-edh-global/jobs/cyber-security-engineer?utm_source=api",
-    "location": "United States",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Security"
-    ],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "124ba3269fb5",
-    "title": "Backend Developer",
-    "company": "Dev Partners",
-    "url": "https://himalayas.app/companies/dev-partners/jobs/backend-developer?utm_source=api",
-    "location": "Philippines",
-    "region": "apac",
-    "seniority": "senior",
-    "date": "2026-11-21",
-    "category": "Backend",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "babf91af0e19",
-    "title": "Audio Engineer - Fully Remote | Upto $16/hr",
-    "company": "mercor",
-    "url": "https://himalayas.app/companies/mercor/jobs/audio-engineer-fully-remote-upto-16-hr-5720872620?utm_source=api",
-    "location": "France",
-    "region": "europe",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "16ab8a211256",
-    "title": "Audio Engineer - Fully Remote | Upto $14/hr",
-    "company": "mercor",
-    "url": "https://himalayas.app/companies/mercor/jobs/audio-engineer-fully-remote-upto-14-hr-8368076574?utm_source=api",
-    "location": "United Arab Emirates",
-    "region": "other",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "d8e0fc497138",
-    "title": "Audio Engineer - Fully Remote | Upto $12/hr",
-    "company": "mercor",
-    "url": "https://himalayas.app/companies/mercor/jobs/audio-engineer-fully-remote-upto-12-hr?utm_source=api",
-    "location": "India",
-    "region": "apac",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
-  },
-  {
-    "id": "82e791227cbd",
-    "title": "Audio Engineer - Fully Remote | Up to $11/task",
-    "company": "mercor",
-    "url": "https://himalayas.app/companies/mercor/jobs/audio-engineer-fully-remote-up-to-11-task?utm_source=api",
-    "location": "Germany",
-    "region": "europe",
-    "seniority": "semi",
-    "date": "2026-11-21",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Himalayas"
   },
   {
     "id": "9d43f6f69032",
@@ -680,20 +948,18 @@
     "source": "Jobicy"
   },
   {
-    "id": "742bb4219c11",
-    "title": "Analog IC Design Lead or Signal Integrity Engineer, AI Benchmarks",
-    "company": "RustLabs",
-    "url": "https://himalayas.app/companies/rustlabs/jobs/analog-ic-design-lead-or-signal-integrity-engineer-ai-benchmarks?utm_source=api",
-    "location": "Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Indonesia, Nigeria",
+    "id": "3fed213f464b",
+    "title": "Analytics Engineer - Campaign Intelligence",
+    "company": "VTEX",
+    "url": "https://jobicy.com/jobs/163705-analytics-engineer-campaign-intelligence",
+    "location": "Brazil",
     "region": "latam",
-    "seniority": "senior",
+    "seniority": null,
     "date": "2026-11-21",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
+    "category": "General",
+    "tags": [],
     "salary": null,
-    "source": "Himalayas"
+    "source": "Jobicy"
   },
   {
     "id": "6c63fdb4f91f",
@@ -705,6 +971,20 @@
     "seniority": "lead",
     "date": "2026-11-20",
     "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "a3d8b9207cb7",
+    "title": "Technical Architect",
+    "company": "Dropbox",
+    "url": "https://remoteOK.com/remote-jobs/remote-technical-architect-dropbox-1137908",
+    "location": "Europe",
+    "region": "europe",
+    "seniority": null,
+    "date": "2026-11-20",
+    "category": "Backend",
     "tags": [],
     "salary": null,
     "source": "RemoteOK"
@@ -736,6 +1016,23 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
+  },
+  {
+    "id": "8d3a39579d53",
+    "title": "Staff Security Engineer - AppSec",
+    "company": "6sense",
+    "url": "https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": "lead",
+    "date": "2026-11-20",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps",
+      "Security"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
   },
   {
     "id": "1c792994d754",
@@ -868,6 +1165,20 @@
     "source": "Jobicy"
   },
   {
+    "id": "65c87f24971d",
+    "title": "Senior Product Architect",
+    "company": "Storyblok",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-product-architect-storyblok-1137900",
+    "location": "Worldwide",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2026-11-20",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "f4e3d722cb99",
     "title": "Senior Platform Security Engineer",
     "company": "Discord",
@@ -899,22 +1210,6 @@
     ],
     "salary": null,
     "source": "Jobicy"
-  },
-  {
-    "id": "b6de614fa99a",
-    "title": "Senior DevOps Engineer II - Europe",
-    "company": "Storyblok",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-ii-europe-storyblok-1137887",
-    "location": "Worldwide",
-    "region": "worldwide",
-    "seniority": "senior",
-    "date": "2026-11-20",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "DevOps"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "35f85e2381c9",
@@ -971,6 +1266,37 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
+  },
+  {
+    "id": "f858966c3f0a",
+    "title": "Security Analyst - Governance, Risk, and Compliance",
+    "company": "LaunchDarkly",
+    "url": "https://remoteOK.com/remote-jobs/remote-security-analyst-governance-risk-and-compliance-launchdarkly-1137898",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": null,
+    "date": "2026-11-20",
+    "category": "DevOps / Cloud",
+    "tags": [
+      "DevOps",
+      "Security"
+    ],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
+    "id": "4c6a716558d7",
+    "title": "Quality Engineer",
+    "company": "Quartermaster",
+    "url": "https://remoteOK.com/remote-jobs/remote-quality-engineer-quartermaster-1137914",
+    "location": "Arlington",
+    "region": "other",
+    "seniority": null,
+    "date": "2026-11-20",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "RemoteOK"
   },
   {
     "id": "0c15b438bcfa",
@@ -1145,6 +1471,20 @@
     "source": "Jobicy"
   },
   {
+    "id": "6a49bb7e700f",
+    "title": "Advisory Solutions Architect, MSP (New Product Intro)",
+    "company": "Rubrik Job Board",
+    "url": "https://remoteOK.com/remote-jobs/remote-advisory-solutions-architect-msp-new-product-intro-rubrik-job-board-1137896",
+    "location": "US Only",
+    "region": "usa",
+    "seniority": null,
+    "date": "2026-11-20",
+    "category": "Backend",
+    "tags": [],
+    "salary": null,
+    "source": "RemoteOK"
+  },
+  {
     "id": "572e25c5dce3",
     "title": "Adobe Multi-Solution Architect (Firefly / GenStudio / Commerce) - Advertising",
     "company": "Truelogic",
@@ -1157,23 +1497,6 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
-  },
-  {
-    "id": "c29db0710520",
-    "title": "Technical Lead Norm Compliance",
-    "company": "Norm",
-    "url": "https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": "lead",
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [
-      "Python",
-      "TypeScript"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "8ff95c6fa358",
@@ -1265,26 +1588,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "ba067ab11812",
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "AI / Data",
-    "tags": [
-      "AI",
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "Go"
-    ],
-    "salary": "$10,000+ USD",
-    "source": "RemoteOK"
-  },
-  {
     "id": "3629eed6391d",
     "title": "Site Reliability Engineer, Sr. Site Reliability Engineer",
     "company": "Prove",
@@ -1311,20 +1614,6 @@
     "tags": [],
     "salary": null,
     "source": "WeWorkRemotely"
-  },
-  {
-    "id": "b182c5ccd7b9",
-    "title": "Senior Software Engineer: Assets",
-    "company": "MetaMask",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-assets-metamask-1137854",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "479bba97f7f8",
@@ -1469,20 +1758,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "a05c3c474190",
-    "title": "Senior Analytics Engineer",
-    "company": "Tebra",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-tebra-1137809",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": "senior",
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "510475e6a094",
     "title": "Semi Senior Full-Stack Java Developer (QA & AI) Bilingüe",
     "company": "23people",
@@ -1576,20 +1851,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "8a0133fad795",
-    "title": "L1 Technical Support Engineer (Spanish-Speaking)",
-    "company": "Abnormal",
-    "url": "https://remoteOK.com/remote-jobs/remote-l1-technical-support-engineer-spanish-speaking-abnormal-1137821",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "6e778b45aeb9",
     "title": "Infrastructure Software Engineer",
     "company": "Dropbox",
@@ -1618,20 +1879,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "a62fa3522245",
-    "title": "Front-End Engineer, UX/UI",
-    "company": "BeyondTrust",
-    "url": "https://remoteOK.com/remote-jobs/remote-front-end-engineer-ux-ui-beyondtrust-1137833",
-    "location": "Canada Only",
-    "region": "canada",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "Frontend",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "80d8d1e23670",
     "title": "Forward Deployed Engineer - Software Engineer - Mexico",
     "company": "Elevenlabs",
@@ -1658,34 +1905,6 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
-  },
-  {
-    "id": "6a6059de3a83",
-    "title": "Enterprise Solutions Engineer, East",
-    "company": "Glean",
-    "url": "https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "5eb1b03b58b0",
-    "title": "Engineering Manager, Product Engineering",
-    "company": "Lattice",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-product-engineering-lattice-1137847",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": "lead",
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "90694ce50e73",
@@ -1741,79 +1960,6 @@
     "seniority": "lead",
     "date": "2026-11-19",
     "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "f6beb696c19a",
-    "title": "Engineer Software Defined Vehicle Simulation and Development",
-    "company": "NIKI Digital Engineering",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "Backend",
-    "tags": [
-      "Python",
-      "Java"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "61679b70c54b",
-    "title": "Designated Technical Support Engineer - West",
-    "company": "Glean",
-    "url": "https://remoteOK.com/remote-jobs/remote-designated-technical-support-engineer-west-glean-1137820",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "57b939d1a4f9",
-    "title": "Customer Success Engineer, Singapore",
-    "company": "GitLab",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-singapore-gitlab-1137814",
-    "location": "Asia",
-    "region": "apac",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "00ae162b65d3",
-    "title": "Customer Success Engineer, India",
-    "company": "GitLab",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-india-gitlab-1137815",
-    "location": "Asia",
-    "region": "apac",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
-    "id": "d90bbf97fa35",
-    "title": "Customer Success Architect - West",
-    "company": "GitLab",
-    "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-west-gitlab-1137813",
-    "location": "US Only",
-    "region": "usa",
-    "seniority": null,
-    "date": "2026-11-19",
-    "category": "Backend",
     "tags": [],
     "salary": null,
     "source": "RemoteOK"
@@ -1880,20 +2026,6 @@
     "source": "Get on Board"
   },
   {
-    "id": "b2bb47232e27",
-    "title": "Software Engineer",
-    "company": "Flex",
-    "url": "https://jobicy.com/jobs/155660-software-engineer-12",
-    "location": "Brazil",
-    "region": "latam",
-    "seniority": null,
-    "date": "2026-11-18",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "Jobicy"
-  },
-  {
     "id": "341e94b7aae0",
     "title": "Senior Workday Solutions Architect",
     "company": "Launchpad Technologies",
@@ -1903,36 +2035,6 @@
     "seniority": "senior",
     "date": "2026-11-18",
     "category": "Backend",
-    "tags": [],
-    "salary": null,
-    "source": "Jobicy"
-  },
-  {
-    "id": "60ba464a5a25",
-    "title": "Senior Software Engineer, AI Engineer (Brazil)",
-    "company": "TRM Labs",
-    "url": "https://jobicy.com/jobs/155662-senior-software-engineer-ai-engineer-brazil",
-    "location": "Brazil",
-    "region": "latam",
-    "seniority": "senior",
-    "date": "2026-11-18",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "Jobicy"
-  },
-  {
-    "id": "acc6a6dd889c",
-    "title": "Senior QA Engineer",
-    "company": "Airtm",
-    "url": "https://jobicy.com/jobs/155766-senior-qa-engineer-3",
-    "location": "LATAM, Canada, USA",
-    "region": "latam",
-    "seniority": "senior",
-    "date": "2026-11-18",
-    "category": "General",
     "tags": [],
     "salary": null,
     "source": "Jobicy"
@@ -1966,40 +2068,6 @@
     "source": "Jobicy"
   },
   {
-    "id": "d1f1ac2307b0",
-    "title": "Senior Data Scientist, Full Stack (Brazil)",
-    "company": "TRM Labs",
-    "url": "https://jobicy.com/jobs/155658-senior-data-scientist-full-stack-brazil",
-    "location": "Brazil",
-    "region": "latam",
-    "seniority": "senior",
-    "date": "2026-11-18",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "Jobicy"
-  },
-  {
-    "id": "6e2117c7dbae",
-    "title": "SEO Full Stack Engineer",
-    "company": "Treatwell",
-    "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-18",
-    "category": "Fullstack",
-    "tags": [
-      "TypeScript",
-      "React",
-      "Java",
-      "PostgreSQL",
-      "DevOps"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "8f5c95219604",
     "title": "Product Support Engineer",
     "company": "CookUnity",
@@ -2012,20 +2080,6 @@
     "tags": [],
     "salary": null,
     "source": "Jobicy"
-  },
-  {
-    "id": "eb7b65319fbc",
-    "title": "Legal Engineering Counsel",
-    "company": "Stedi",
-    "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-18",
-    "category": "Backend",
-    "tags": [],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "40f0d7c0c469",
@@ -2056,34 +2110,6 @@
     ],
     "salary": null,
     "source": "Get on Board"
-  },
-  {
-    "id": "146621dd19fb",
-    "title": "Full Stack Developer (Frontend-Focused) - Mexico",
-    "company": "Brafton",
-    "url": "https://jobicy.com/jobs/155665-full-stack-developer-frontend-focused-mexico",
-    "location": "Mexico",
-    "region": "latam",
-    "seniority": null,
-    "date": "2026-11-18",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "Jobicy"
-  },
-  {
-    "id": "aa83f95c36d5",
-    "title": "Full Stack Developer (Frontend-Focused) - Brazil",
-    "company": "Brafton",
-    "url": "https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil",
-    "location": "Brazil",
-    "region": "latam",
-    "seniority": null,
-    "date": "2026-11-18",
-    "category": "Fullstack",
-    "tags": [],
-    "salary": null,
-    "source": "Jobicy"
   },
   {
     "id": "b8f4e135c988",
@@ -2126,22 +2152,6 @@
     "tags": [],
     "salary": "$3,000 - $5,000",
     "source": "Get on Board"
-  },
-  {
-    "id": "197ea51abc24",
-    "title": "Engineering Manager Network Engineering",
-    "company": "PatientPoint",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
-    "location": "Remote",
-    "region": "worldwide",
-    "seniority": "lead",
-    "date": "2026-11-17",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "DevOps"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "e773989eaf6b",
@@ -2332,24 +2342,6 @@
     "source": "Get on Board"
   },
   {
-    "id": "9b06e7143230",
-    "title": "Software Engineer AI Tooling",
-    "company": "Supabase",
-    "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-13",
-    "category": "AI / Data",
-    "tags": [
-      "AI",
-      "JavaScript",
-      "TypeScript"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "36d0de528509",
     "title": "QA Testers Wanted to Jump on an AI Assistant project",
     "company": "Tester Work",
@@ -2424,22 +2416,6 @@
     "tags": [],
     "salary": "$2,400 - $3,500",
     "source": "Get on Board"
-  },
-  {
-    "id": "8d5b75be73dc",
-    "title": "Research Engineer Privacy and Anonymization",
-    "company": "Pragmatike",
-    "url": "https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-12",
-    "category": "General",
-    "tags": [
-      "Python"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "1b4358bb995a",
@@ -2594,23 +2570,6 @@
     "source": "Get on Board"
   },
   {
-    "id": "6b8d7094adbc",
-    "title": "Data Engineer",
-    "company": "Addepto",
-    "url": "https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-11-10",
-    "category": "AI / Data",
-    "tags": [
-      "Python",
-      "Salesforce"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
-  },
-  {
     "id": "a3b293adf305",
     "title": "Cloud Engineer",
     "company": "Knack",
@@ -2651,23 +2610,6 @@
     "tags": [],
     "salary": null,
     "source": "Get on Board"
-  },
-  {
-    "id": "ce6d2e4afa19",
-    "title": "Senior Software Engineer — Kubernetes Control Plane",
-    "company": "Buoyant",
-    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-kubernetes-control-plane-buoyant-1137713",
-    "location": "Worldwide Remote",
-    "region": "worldwide",
-    "seniority": "senior",
-    "date": "2026-11-09",
-    "category": "DevOps / Cloud",
-    "tags": [
-      "Go",
-      "Kubernetes"
-    ],
-    "salary": null,
-    "source": "RemoteOK"
   },
   {
     "id": "892c8e36d274",
@@ -3194,6 +3136,20 @@
     "source": "Get on Board"
   },
   {
+    "id": "0f844d4b6226",
+    "title": "Quality and Reliability Engineer",
+    "company": "Custom Mechanical Solutions",
+    "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": null,
+    "date": "2026-11-03",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "bb2949782666",
     "title": "Node.js Back-end Engineer (Senior)",
     "company": "ProntoPaga",
@@ -3317,6 +3273,20 @@
     ],
     "salary": "$5,500 - $6,000",
     "source": "Get on Board"
+  },
+  {
+    "id": "d1c572f929af",
+    "title": "Senior Software Engineer",
+    "company": "WelcomeHome Software",
+    "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2026-11-02",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
   },
   {
     "id": "14a622c0b69a",
@@ -3669,20 +3639,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "a6bef9b378a0",
-    "title": "Front-End Developer",
-    "company": "Cambridge Information Group Inc",
-    "url": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
-    "location": "Worldwide / Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-10-28",
-    "category": "Frontend",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
     "id": "16d8a877042a",
     "title": "Back-end Developer para Datos Industriales",
     "company": "Detroit S.A.",
@@ -3934,50 +3890,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "id": "f0301eedc095",
-    "title": "Software Development Engineer II (Remote @ Colombia)",
-    "company": "OfferUp",
-    "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-    "location": "Worldwide / Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-10-22",
-    "category": "General",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "743090e79fcb",
-    "title": "Senior Staff Data Scientist",
-    "company": "Netlify",
-    "url": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
-    "location": "Worldwide / Remote",
-    "region": "worldwide",
-    "seniority": "lead",
-    "date": "2026-10-22",
-    "category": "AI / Data",
-    "tags": [],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
-    "id": "0b511a9e15f8",
-    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-    "location": "Worldwide / Remote",
-    "region": "worldwide",
-    "seniority": "senior",
-    "date": "2026-10-22",
-    "category": "AI / Data",
-    "tags": [
-      "LLM"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
-  },
-  {
     "id": "59f964f0d926",
     "title": "PHP Developer/ Laravel (AWS)",
     "company": "Improving",
@@ -3994,22 +3906,6 @@
     ],
     "salary": null,
     "source": "Get on Board"
-  },
-  {
-    "id": "ed035a881b99",
-    "title": "AI Engineer - Agentic Systems",
-    "company": "Toptal",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-    "location": "Worldwide / Remote",
-    "region": "worldwide",
-    "seniority": null,
-    "date": "2026-10-22",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
-    "source": "WeWorkRemotely"
   },
   {
     "id": "763dc3cf51f7",
@@ -5508,6 +5404,22 @@
     "source": "Get on Board"
   },
   {
+    "id": "b9fe76be0a4b",
+    "title": "FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Yooli",
+    "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": null,
+    "date": "2026-08-05",
+    "category": "Frontend",
+    "tags": [
+      "React"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
     "id": "c24b169c0bfb",
     "title": "WordPress Developer (AI First)",
     "company": "Brand & Bot",
@@ -5645,22 +5557,6 @@
       "GCP"
     ],
     "salary": "$3,200 - $4,400",
-    "source": "Get on Board"
-  },
-  {
-    "id": "9e10241c5b75",
-    "title": "Applied AI Developer, APIs and Business Intelligence",
-    "company": "PaperStreet Web Design",
-    "url": "https://www.getonbrd.com/jobs/applied-ai-developer-apis-and-business-intelligence-paperstreet-web-design-remote",
-    "location": "Remote · Fully remote",
-    "region": "latam",
-    "seniority": null,
-    "date": "2026-07-21",
-    "category": "AI / Data",
-    "tags": [
-      "AI"
-    ],
-    "salary": null,
     "source": "Get on Board"
   },
   {
@@ -5879,6 +5775,50 @@
     "tags": [],
     "salary": "$2,500 - $2,800",
     "source": "Get on Board"
+  },
+  {
+    "id": "4abdfb211156",
+    "title": "Desarrollador/a Full-Stack Jr",
+    "company": "BC Tecnología",
+    "url": "https://www.getonbrd.com/jobs/desarrollador-a-full-stack-jr-bc-tecnologia-remote",
+    "location": "Remote · Fully remote",
+    "region": "latam",
+    "seniority": "junior",
+    "date": "2026-05-13",
+    "category": "Fullstack",
+    "tags": [],
+    "salary": null,
+    "source": "Get on Board"
+  },
+  {
+    "id": "ebe410070151",
+    "title": "Senior Independent Software Developer ($90-$170/hr)",
+    "company": "A.Team",
+    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2024-06-16",
+    "category": "General",
+    "tags": [],
+    "salary": null,
+    "source": "WeWorkRemotely"
+  },
+  {
+    "id": "5524159380f2",
+    "title": "Senior Independent AI Engineer / Architect",
+    "company": "A.Team",
+    "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+    "location": "Worldwide / Remote",
+    "region": "worldwide",
+    "seniority": "senior",
+    "date": "2024-06-16",
+    "category": "AI / Data",
+    "tags": [
+      "AI"
+    ],
+    "salary": null,
+    "source": "WeWorkRemotely"
   },
   {
     "id": "5aa3875b2ee7",
