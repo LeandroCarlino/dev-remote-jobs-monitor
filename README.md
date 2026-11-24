@@ -57,43 +57,43 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 <!-- STATS_START -->
 ### Tecnologías con más demanda hoy
 
-![React](https://img.shields.io/badge/React-37%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-22%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-21%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-21%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-17%20vacantes-indigo) ![Security](https://img.shields.io/badge/Security-15%20vacantes-indigo) ![Angular](https://img.shields.io/badge/Angular-15%20vacantes-indigo) ![TypeScript](https://img.shields.io/badge/TypeScript-14%20vacantes-indigo)
+![React](https://img.shields.io/badge/React-38%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-22%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-21%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-19%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-18%20vacantes-indigo) ![Security](https://img.shields.io/badge/Security-17%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-17%20vacantes-indigo) ![Angular](https://img.shields.io/badge/Angular-15%20vacantes-indigo)
 
-<sub>391 ofertas activas · 7 fuentes · 27% con salario publicado · actualizado cada 6 h</sub>
+<sub>393 ofertas activas · 7 fuentes · 29% con salario publicado · actualizado cada 6 h</sub>
 <!-- STATS_END -->
 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-23 23:43 UTC** · Ofertas activas: **391***
+*Última actualización automática: **2026-11-24 09:29 UTC** · Ofertas activas: **393***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
-| **[Team Member - Offsite Audit, Concurrent Audit & QA- Mumbai](https://himalayas.app/companies/csb-bank-limited/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api)** | CSB Bank Limited | `General` | - | India | 23/11/2026 |
-| **[System Software Engineer - GCC/LLVM compiler, tooling, and ecosystem](https://jobicy.com/jobs/164022-system-software-engineer-gcc-llvm-compiler-tooling-and-ecosystem)** | Canonical | `General` | - | LATAM, Canada, USA | 23/11/2026 |
-| **[Staff Software Engineer, Backend](https://jobicy.com/jobs/163980-staff-software-engineer-backend-3)** | VTEX | `Backend` | - | Brazil | 23/11/2026 |
-| **[Staff Software Engineer Platform & Integration (Remoto) - 5594](https://himalayas.app/companies/starian/jobs/staff-software-engineer-platform-integration-remoto-5594?utm_source=api)** | Starian | `General` | - | Brazil | 23/11/2026 |
-| **[Sr Data Engineer](https://himalayas.app/companies/harris/jobs/sr-data-engineer?utm_source=api)** | Harris | `AI / Data` | - | India | 23/11/2026 |
-| **[Software Engineer - Ubuntu Server Certification](https://jobicy.com/jobs/164021-software-engineer-ubuntu-server-certification)** | Canonical | `General` | - | LATAM, Canada, USA | 23/11/2026 |
-| **[Software Engineer - Python - Cloud - graduate level](https://jobicy.com/jobs/164019-software-engineer-python-cloud-graduate-level)** | Canonical | `DevOps / Cloud` | `Python` | LATAM, Canada, USA | 23/11/2026 |
-| **[Software Engineer (Python/Linux/Packaging)](https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging)** | Canonical | `General` | `Python` | LATAM, Canada, USA | 23/11/2026 |
-| **[Software Development Manager](https://himalayas.app/companies/ford/jobs/software-development-manager?utm_source=api)** | Ford | `General` | - | United States | 23/11/2026 |
-| **[Site Reliability Engineer (Top Secret Clearance) - Remote US](https://himalayas.app/companies/icf/jobs/site-reliability-engineer-top-secret-clearance-remote-us?utm_source=api)** | ICF | `DevOps / Cloud` | - | United States | 23/11/2026 |
-| **[Site Reliability Engineer](https://weworkremotely.com/remote-jobs/gusto-inc-site-reliability-engineer)** | Gusto, Inc. | `DevOps / Cloud` | - | Worldwide / Remote | 23/11/2026 |
-| **[Senior Web Security Engineer, Browser Platform](https://jobicy.com/jobs/151281-senior-web-security-engineer-browser-platform)** | DuckDuckGo | `DevOps / Cloud` | `Security` | Anywhere | 23/11/2026 |
-| **[Senior Software Engineer, Salesflow (Systems & Reliability)](https://himalayas.app/companies/crimson-education/jobs/senior-software-engineer-salesflow-systems-reliability?utm_source=api)** | Crimson Education | `General` | - | Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize… | 23/11/2026 |
-| **[Senior Software Engineer, Arc](https://himalayas.app/companies/circle-com/jobs/senior-software-engineer-arc?utm_source=api)** | Circle | `General` | - | Taiwan | 23/11/2026 |
-| **[Senior Software Engineer, Agentic AI](https://himalayas.app/companies/counterpart-health/jobs/senior-software-engineer-agentic-ai?utm_source=api)** | Counterpart Health | `AI / Data` | `AI` | United States | 23/11/2026 |
-| **[Senior Software Engineer (Platform Engineer), Cloud Storage](https://jobicy.com/jobs/163975-senior-software-engineer-platform-engineer-cloud-storage)** | VTEX | `DevOps / Cloud` | - | Brazil | 23/11/2026 |
-| **[Senior Software Engineer](https://jobicy.com/jobs/151290-senior-software-engineer-3)** | Tremendous | `General` | - | LATAM, Canada, USA | 23/11/2026 |
-| **[Senior Programmer Analyst (AI Solutions)](https://himalayas.app/companies/valmont-industries-inc/jobs/senior-programmer-analyst-ai-solutions?utm_source=api)** | Valmont Industries, Inc. | `AI / Data` | `AI` | India | 23/11/2026 |
-| **[Senior Middleware/Integration Engineer](https://himalayas.app/companies/constellation-west/jobs/senior-middleware-integration-engineer?utm_source=api)** | Constellation West | `General` | - | United States | 23/11/2026 |
-| **[Senior Federal Enterprise Solution Architect](https://weworkremotely.com/remote-jobs/collibra-senior-federal-enterprise-solution-architect)** | Collibra | `Backend` | - | Worldwide / Remote | 23/11/2026 |
-| **[Senior DevOps Engineer](https://himalayas.app/companies/outlook-amusements/jobs/senior-devops-engineer?utm_source=api)** | Outlook Amusements | `DevOps / Cloud` | `DevOps` | United States | 23/11/2026 |
-| **[Senior Cloud Infrastructure Engineer (DNS, NTP, LDAP, Linux)](https://himalayas.app/companies/miratech/jobs/senior-cloud-infrastructure-engineer-dns-ntp-ldap-linux?utm_source=api)** | Miratech | `DevOps / Cloud` | - | India | 23/11/2026 |
-| **[Semi Senior Software Engineer Python](https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6)** | 23people | `General` | `Python` | Remote · Remote (local) | 23/11/2026 |
-| **[SAP Data Conversion - Software Engineer](https://himalayas.app/companies/ford/jobs/sap-data-conversion-software-engineer?utm_source=api)** | Ford | `General` | - | India | 23/11/2026 |
-| **[Release Engineer](https://jobicy.com/jobs/156579-release-engineer)** | Supabase | `General` | - | Anywhere | 23/11/2026 |
+| **[Telco Infrastructure Architect - Cloud/Automation](https://himalayas.app/companies/red-hat/jobs/telco-infrastructure-architect-cloud-automation?utm_source=api)** | Red Hat | `DevOps / Cloud` | - | Canada, United States | 24/11/2026 |
+| **[Teams Rooms O&M Engineer](https://himalayas.app/companies/ais-applied-information-sciences/jobs/teams-rooms-o-m-engineer?utm_source=api)** | AIS (Applied Information Sciences) | `General` | - | United States | 24/11/2026 |
+| **[Structural Engineer (Precast) (AO-14289)](https://himalayas.app/companies/access-offshoring-philippines-inc/jobs/structural-engineer-precast-ao-14289?utm_source=api)** | Access Offshoring Philippines, Inc. | `General` | - | Philippines | 24/11/2026 |
+| **[Staff Platform Security Engineer](https://weworkremotely.com/remote-jobs/gemini-staff-platform-security-engineer)** | Gemini | `DevOps / Cloud` | `Security` | Worldwide / Remote | 24/11/2026 |
+| **[Staff Platform Engineer](https://weworkremotely.com/remote-jobs/gemini-staff-platform-engineer)** | Gemini | `DevOps / Cloud` | - | Worldwide / Remote | 24/11/2026 |
+| **[Software Quality Assurance Analyst III](https://himalayas.app/companies/labcorp/jobs/software-quality-assurance-analyst-iii?utm_source=api)** | Labcorp | `General` | - | India | 24/11/2026 |
+| **[Software Engineer Technical Lead Data Acquisition](https://www.getonbrd.com/jobs/software-engineer-technical-lead-data-acquisition-checkr-santiago)** | Checkr | `General` | - | Chile · Hybrid | 24/11/2026 |
+| **[Software Engineer Contractor (6-month contract)](https://himalayas.app/companies/introhive/jobs/software-engineer-contractor-6-month-contract?utm_source=api)** | Introhive | `General` | - | Argentina, Brazil, Canada | 24/11/2026 |
+| **[Software Engineer - AI Team (NYC-based)](https://himalayas.app/companies/bowery-valuation/jobs/software-engineer-ai-team-nyc-based?utm_source=api)** | Bowery Valuation | `AI / Data` | `AI` | United States | 24/11/2026 |
+| **[ServiceNow Developer](https://himalayas.app/companies/general-dynamics-information-technology/jobs/servicenow-developer?utm_source=api)** | General Dynamics Information Technology | `General` | - | United States | 24/11/2026 |
+| **[Senior Solutions Architect, Networking Solutions](https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-networking-solutions-458927847?utm_source=api)** | NVIDIA | `Backend` | - | Finland, Sweden | 24/11/2026 |
+| **[Senior Director, Broadcast Engineering](https://himalayas.app/companies/tko-group-holdings-inc/jobs/senior-director-broadcast-engineering?utm_source=api)** | TKO Group Holdings, Inc. | `General` | - | United States | 24/11/2026 |
+| **[Senior Data Security Engineer](https://himalayas.app/companies/intapp/jobs/senior-data-security-engineer-9562000364?utm_source=api)** | Intapp | `DevOps / Cloud` | `Security` | Ireland, United Kingdom | 24/11/2026 |
+| **[Senior Data Analyst, Payments Reporting-Qolo](https://himalayas.app/companies/csi/jobs/senior-data-analyst-payments-reporting-qolo?utm_source=api)** | CSI | `AI / Data` | - | United States | 24/11/2026 |
+| **[Senior AI Engineer (LLM Services)](https://himalayas.app/companies/commit/jobs/senior-ai-engineer-llm-services?utm_source=api)** | CommIT | `AI / Data` | `AI` `LLM` | Ukraine | 24/11/2026 |
+| **[Salesforce CPQ & Billing Developer](https://himalayas.app/companies/bright-vision-technologies/jobs/salesforce-cpq-billing-developer?utm_source=api)** | Bright Vision Technologies | `General` | `Salesforce` | United States | 24/11/2026 |
+| **[Salesforce AI Engineer- Agentforce](https://himalayas.app/companies/athenahealth/jobs/salesforce-ai-engineer-agentforce?utm_source=api)** | athenahealth | `AI / Data` | `AI` `Salesforce` | United States | 24/11/2026 |
+| **[Remote Quality Improvement Data Analyst](https://himalayas.app/companies/alignment-health/jobs/remote-quality-improvement-data-analyst-5342349445?utm_source=api)** | Alignment Health | `AI / Data` | - | United States | 24/11/2026 |
+| **[Quality Assurance Analyst - Transaction Monitoring (AML)](https://himalayas.app/companies/concentrix/jobs/quality-assurance-analyst-transaction-monitoring-aml?utm_source=api)** | Concentrix | `General` | - | Philippines | 24/11/2026 |
+| **[Principal Presales Engineer, Product Specialist](https://jobicy.com/jobs/156802-principal-presales-engineer-product-specialist)** | Twilio | `General` | - | Brazil | 24/11/2026 |
+| **[Presales Solutions Engineer](https://himalayas.app/companies/cloudera/jobs/presales-solutions-engineer?utm_source=api)** | Cloudera | `General` | - | India | 24/11/2026 |
+| **[Network Engineer](https://himalayas.app/companies/motorola-solutions/jobs/network-engineer?utm_source=api)** | Motorola Solutions | `DevOps / Cloud` | - | United Kingdom | 24/11/2026 |
+| **[ML Engineer, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161?utm_source=api)** | Xperteez Technology | `AI / Data` | `ML` | Worldwide | 24/11/2026 |
+| **[Lead Systems Engineer](https://himalayas.app/companies/cincinnati-children-s/jobs/lead-systems-engineer?utm_source=api)** | Cincinnati Children's | `DevOps / Cloud` | - | United States | 24/11/2026 |
+| **[InfoSec Engineer](https://himalayas.app/companies/3iq/jobs/infosec-engineer-7237858974?utm_source=api)** | 3iQ | `General` | - | Canada | 24/11/2026 |
 
 <!-- JOBS_END -->
 
