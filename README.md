@@ -57,43 +57,43 @@ Las búsquedas remotas globales están llenas de ofertas que no son de desarroll
 <!-- STATS_START -->
 ### Tecnologías con más demanda hoy
 
-![React](https://img.shields.io/badge/React-35%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-25%20vacantes-indigo) ![Security](https://img.shields.io/badge/Security-23%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-22%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-20%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-17%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-16%20vacantes-indigo) ![Angular](https://img.shields.io/badge/Angular-14%20vacantes-indigo)
+![React](https://img.shields.io/badge/React-34%20vacantes-indigo) ![Security](https://img.shields.io/badge/Security-24%20vacantes-indigo) ![DevOps](https://img.shields.io/badge/DevOps-23%20vacantes-indigo) ![Python](https://img.shields.io/badge/Python-21%20vacantes-indigo) ![Java](https://img.shields.io/badge/Java-20%20vacantes-indigo) ![Node](https://img.shields.io/badge/Node-20%20vacantes-indigo) ![AI](https://img.shields.io/badge/AI-18%20vacantes-indigo) ![Angular](https://img.shields.io/badge/Angular-15%20vacantes-indigo)
 
-<sub>418 ofertas activas · 7 fuentes · 24% con salario publicado · actualizado cada 6 h</sub>
+<sub>429 ofertas activas · 7 fuentes · 28% con salario publicado · actualizado cada 6 h</sub>
 <!-- STATS_END -->
 
 ## Últimas vacantes
 
 <!-- JOBS_START -->
-*Última actualización automática: **2026-11-25 08:00 UTC** · Ofertas activas: **418***
+*Última actualización automática: **2026-11-25 21:29 UTC** · Ofertas activas: **429***
 
 | Puesto | Empresa | Categoría | Tags | Ubicación | Fecha |
 |:-------|:--------|:----------|:-----|:----------|:------|
 | **[Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter)** | Canonical | `Mobile` | `React` `CSS` `Flutter` | Anywhere | 25/11/2026 |
+| **[Unreal Engine Developer, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/unreal-engine-developer-remote-contract-6205418350?utm_source=api)** | Xperteez Technology | `General` | `Unreal` | United States | 25/11/2026 |
 | **[Ubuntu Security Engineer](https://jobicy.com/jobs/149565-ubuntu-security-engineer)** | Canonical | `DevOps / Cloud` | `Security` | Anywhere | 25/11/2026 |
 | **[Ubuntu Linux Kernel Engineer - Silicon Enablement](https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
 | **[Ubuntu Engineering Lead](https://jobicy.com/jobs/149537-ubuntu-engineering-lead)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
+| **[Training Systems Administrator](https://himalayas.app/companies/caci-international-inc/jobs/training-systems-administrator?utm_source=api)** | CACI International Inc | `DevOps / Cloud` | - | United States | 25/11/2026 |
+| **[Tech Lead / Unreal Developer](https://himalayas.app/companies/sourcing-unicorns/jobs/tech-lead-unreal-developer?utm_source=api)** | Sourcing Unicorns | `General` | `Unreal` | Canada, United States | 25/11/2026 |
 | **[Sustaining Operations Engineer](https://jobicy.com/jobs/149532-sustaining-operations-engineer)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
-| **[Supplier Quality Engineer I / II - EnergyLink](https://himalayas.app/companies/quanta-infrastructure-solutions-group/jobs/supplier-quality-engineer-i-ii-energylink?utm_source=api)** | Quanta Infrastructure Solutions Group | `General` | - | United States | 25/11/2026 |
+| **[Support Engineer, Amazon Connect](https://himalayas.app/companies/neuraflash/jobs/support-engineer-amazon-connect-3976056219?utm_source=api)** | NeuraFlash | `General` | - | India | 25/11/2026 |
 | **[Staff Security Operations Engineer](https://jobicy.com/jobs/149540-staff-security-operations-engineer)** | Canonical | `DevOps / Cloud` | `Security` | Anywhere | 25/11/2026 |
-| **[Sr OKTA IAM Developer & Architect 2908](https://himalayas.app/companies/xideral/jobs/sr-okta-iam-developer-architect-2908?utm_source=api)** | Xideral | `Backend` | - | Mexico | 25/11/2026 |
-| **[Spark Developer](https://himalayas.app/companies/infracloud/jobs/spark-developer-5283868229?utm_source=api)** | InfraCloud | `General` | - | India | 25/11/2026 |
+| **[Staff Escalation Engineer Software](https://himalayas.app/companies/palo-alto-networks/jobs/staff-escalation-engineer-software?utm_source=api)** | Palo Alto Networks | `General` | - | United States | 25/11/2026 |
+| **[Staff AI Engineer (L4)](https://himalayas.app/companies/wex/jobs/staff-ai-engineer-l4-1641308002?utm_source=api)** | wex | `AI / Data` | `AI` | United States | 25/11/2026 |
+| **[Sr Programmer Analyst](https://himalayas.app/companies/umass-global/jobs/sr-programmer-analyst?utm_source=api)** | UMass Global | `General` | - | United States | 25/11/2026 |
+| **[Solutions Engineer](https://himalayas.app/companies/postscript/jobs/solutions-engineer?utm_source=api)** | Postscript | `General` | - | Canada, United States | 25/11/2026 |
 | **[Solution Architect, New Logo (Presales)](https://weworkremotely.com/remote-jobs/jfrog-solution-architect-new-logo-presales)** | JFrog | `Backend` | - | Worldwide / Remote | 25/11/2026 |
 | **[Software Engineering Director](https://jobicy.com/jobs/149571-software-engineering-director)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
-| **[Software Engineer- Frontend](https://himalayas.app/companies/webengage/jobs/software-engineer-frontend?utm_source=api)** | WebEngage | `Frontend` | - | India | 25/11/2026 |
 | **[Software Engineer, Sustaining Engineering](https://jobicy.com/jobs/149524-software-engineer-sustaining-engineering)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
+| **[Software Engineer II Data](https://himalayas.app/companies/cdw/jobs/software-engineer-ii-data?utm_source=api)** | CDW | `General` | - | United States | 25/11/2026 |
 | **[Software Engineer - Storage](https://jobicy.com/jobs/156940-software-engineer-storage)** | Supabase | `General` | - | Anywhere | 25/11/2026 |
 | **[Software Engineer - Solutions Engineering](https://jobicy.com/jobs/149560-software-engineer-solutions-engineering)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
 | **[Software Engineer - App Stores](https://jobicy.com/jobs/149552-software-engineer-app-stores)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
-| **[Software Developer](https://himalayas.app/companies/openspecimen-krishagni/jobs/software-developer?utm_source=api)** | OpenSpecimen (Krishagni) | `General` | - | India | 25/11/2026 |
-| **[Software Alliance Ecosystem Manager](https://himalayas.app/companies/canonical/jobs/software-alliance-ecosystem-manager?utm_source=api)** | Canonical | `General` | - | Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antarctica, Antigua… | 25/11/2026 |
 | **[Site Reliability Engineer](https://jobicy.com/jobs/149547-site-reliability-engineer)** | Canonical | `DevOps / Cloud` | - | Anywhere | 25/11/2026 |
 | **[Site Reliability / Gitops Engineer](https://jobicy.com/jobs/149553-site-reliability-gitops-engineer)** | Canonical | `DevOps / Cloud` | - | Anywhere | 25/11/2026 |
 | **[Senior/Staff/Principal Engineer](https://jobicy.com/jobs/149522-senior-staff-principal-engineer)** | Canonical | `General` | - | Anywhere | 25/11/2026 |
-| **[Senior Web Developer](https://himalayas.app/companies/cotiviti/jobs/senior-web-developer?utm_source=api)** | Cotiviti | `General` | - | United States | 25/11/2026 |
-| **[Senior Spark QA Engineer](https://himalayas.app/companies/infracloud/jobs/senior-spark-qa-engineer-5176627493?utm_source=api)** | InfraCloud | `General` | - | India | 25/11/2026 |
-| **[Senior Solutions Engineer](https://himalayas.app/companies/webengage/jobs/senior-solutions-engineer?utm_source=api)** | WebEngage | `General` | - | India | 25/11/2026 |
-| **[Senior Software Engineer (Reign)](https://himalayas.app/companies/itmethods-inc/jobs/senior-software-engineer-reign?utm_source=api)** | iTmethods Inc. | `General` | - | Canada | 25/11/2026 |
+| **[Senior, Software Engineer, Full-stack](https://himalayas.app/companies/walmart-com/jobs/senior-software-engineer-full-stack?utm_source=api)** | Walmart - Internal | `Fullstack` | - | United States | 25/11/2026 |
 
 <!-- JOBS_END -->
 
