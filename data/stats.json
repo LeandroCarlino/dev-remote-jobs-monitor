@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-26T07:52:47+00:00",
-  "total_jobs": 422,
+  "last_updated": "2026-11-26T21:18:12+00:00",
+  "total_jobs": 420,
   "top_tags": {
-    "React": 34,
-    "Security": 27,
-    "DevOps": 27,
-    "Java": 20,
-    "Node": 20,
-    "Python": 19,
-    "AI": 17,
+    "React": 38,
+    "Security": 24,
+    "Node": 23,
+    "AI": 21,
+    "Python": 20,
+    "DevOps": 20,
+    "Java": 19,
     "Angular": 15,
     "TypeScript": 14,
     ".NET": 11,
@@ -24,39 +24,39 @@
     "Spring": 4
   },
   "categories": {
-    "General": 128,
-    "Fullstack": 99,
-    "DevOps / Cloud": 93,
-    "Backend": 50,
-    "AI / Data": 31,
+    "General": 126,
+    "Fullstack": 101,
+    "DevOps / Cloud": 88,
+    "Backend": 48,
+    "AI / Data": 37,
     "Frontend": 18,
-    "Mobile": 3
+    "Mobile": 2
   },
   "regions": {
-    "latam": 217,
-    "worldwide": 126,
+    "latam": 212,
+    "worldwide": 133,
     "usa": 35,
-    "europe": 29,
-    "argentina": 6,
-    "canada": 5,
-    "other": 2,
-    "spain": 1,
-    "apac": 1
+    "europe": 21,
+    "argentina": 7,
+    "apac": 4,
+    "canada": 4,
+    "spain": 3,
+    "other": 1
   },
   "seniority": {
-    "unknown": 178,
-    "senior": 129,
-    "lead": 79,
-    "semi": 29,
-    "junior": 7
+    "unknown": 181,
+    "senior": 131,
+    "lead": 80,
+    "semi": 22,
+    "junior": 6
   },
   "sources": {
-    "Get on Board": 196,
-    "WeWorkRemotely": 73,
-    "Jobicy": 61,
-    "RemoteOK": 34,
-    "Himalayas": 29,
-    "Working Nomads": 22,
+    "Get on Board": 195,
+    "WeWorkRemotely": 81,
+    "Jobicy": 64,
+    "Himalayas": 28,
+    "RemoteOK": 24,
+    "Working Nomads": 21,
     "Remotive": 7
   },
   "salary_coverage": 25

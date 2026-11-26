@@ -5,23 +5,15 @@
     <link>https://leandrocarlino.github.io/dev-remote-jobs-monitor/</link>
     <description>Ofertas remotas de desarrollo, actualizadas cada 6 horas. Incluye vacantes de Latam y Argentina.</description>
     <language>es-AR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 07:52:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:18:12 +0000</lastBuildDate>
     <atom:link href="https://leandrocarlino.github.io/dev-remote-jobs-monitor/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Web Application QA Analyst — Conduent</title>
-      <link>https://himalayas.app/companies/conduent/jobs/web-application-qa-analyst?utm_source=api</link>
-      <guid isPermaLink="false">5a8d9867f198</guid>
+      <title>Vice President, Platform &amp; Engineering — SCA Health</title>
+      <link>https://himalayas.app/companies/sca-health/jobs/vice-president-platform-engineering?utm_source=api</link>
+      <guid isPermaLink="false">90ec7ba1494c</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>Conduent · United States · General · $57,750 - $75,000 USD · Himalayas</description>
-    </item>
-    <item>
-      <title>Team Lead – Quality Engineering — Infios</title>
-      <link>https://himalayas.app/companies/infios/jobs/team-lead-quality-engineering?utm_source=api</link>
-      <guid isPermaLink="false">3cc1a701ec04</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Infios · Germany · General · Himalayas</description>
+      <description>SCA Health · United States · General · $200,400 - $275,000 USD · Himalayas</description>
     </item>
     <item>
       <title>Support Engineering Manager — Canonical</title>
@@ -40,92 +32,156 @@
       <description>Kraken · EMEA, LATAM, Canada, Europe · DevOps / Cloud · Security · Jobicy</description>
     </item>
     <item>
-      <title>Sr Staff Site Reliability Engineer — Palo Alto Networks</title>
-      <link>https://himalayas.app/companies/palo-alto-networks/jobs/sr-staff-site-reliability-engineer-8279973330?utm_source=api</link>
-      <guid isPermaLink="false">5c00a09b6a6b</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Palo Alto Networks · Spain · DevOps / Cloud · Himalayas</description>
-    </item>
-    <item>
-      <title>Solutions Architect - Mexico — JumpCloud</title>
-      <link>https://himalayas.app/companies/jumpcloud/jobs/solutions-architect-mexico?utm_source=api</link>
-      <guid isPermaLink="false">14ee77e35754</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Backend</category>
-      <description>JumpCloud · Mexico · Backend · Himalayas</description>
-    </item>
-    <item>
-      <title>Software Systems Engineer - Lunar Lander Program — MORI Associates</title>
-      <link>https://himalayas.app/companies/mori-associates/jobs/software-systems-engineer-lunar-lander-program?utm_source=api</link>
-      <guid isPermaLink="false">48d541102681</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>MORI Associates · United States · DevOps / Cloud · $110,000 - $130,000 USD · Himalayas</description>
-    </item>
-    <item>
-      <title>Software Development Engineer in Test - Poland remote — Akamai Technologies</title>
-      <link>https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-poland-remote?utm_source=api</link>
-      <guid isPermaLink="false">a2c24bf61d75</guid>
+      <title>Sr Epic Integration Engineer — CommonSpirit Health</title>
+      <link>https://himalayas.app/companies/commonspirit-health/jobs/sr-epic-integration-engineer?utm_source=api</link>
+      <guid isPermaLink="false">402d1322141a</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>Akamai Technologies · Poland · General · Himalayas</description>
+      <description>CommonSpirit Health · United States · General · Himalayas</description>
     </item>
     <item>
-      <title>Software Developer (.NET / SharePoint)(PL 828) — Paralucent</title>
-      <link>https://himalayas.app/companies/paralucent/jobs/software-developer-net-sharepoint-pl-828?utm_source=api</link>
-      <guid isPermaLink="false">5e1399690250</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Paralucent · Bangladesh, India · General · .NET · Himalayas</description>
-    </item>
-    <item>
-      <title>Senior Software Engineer, Applied AI — Harris</title>
-      <link>https://himalayas.app/companies/harris/jobs/senior-software-engineer-applied-ai?utm_source=api</link>
-      <guid isPermaLink="false">dfcb48b160eb</guid>
+      <title>Software Engineering Manager – Agentic AI &amp; Backend Engineering — wex</title>
+      <link>https://himalayas.app/companies/wex/jobs/software-engineering-manager-agentic-ai-backend-engineering?utm_source=api</link>
+      <guid isPermaLink="false">f34096cb0791</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI / Data</category>
-      <description>Harris · Canada, United States · AI / Data · AI · $90,000 - $135,000 USD · Himalayas</description>
+      <description>wex · United States · AI / Data · AI · $150,600 - $180,100 USD · Himalayas</description>
     </item>
     <item>
-      <title>Senior Software Engineer I, Agent Engineering (Remote Eligible) — Smartsheet</title>
-      <link>https://himalayas.app/companies/smartsheet/jobs/senior-software-engineer-i-agent-engineering-remote-eligible?utm_source=api</link>
-      <guid isPermaLink="false">8edc8ac8620a</guid>
+      <title>Software Engineer — Tidal Financial Group</title>
+      <link>https://himalayas.app/companies/tidal-financial-group/jobs/software-engineer?utm_source=api</link>
+      <guid isPermaLink="false">fb38f2abe228</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>Smartsheet · United States · General · $145,000 - $210,000 USD · Himalayas</description>
+      <description>Tidal Financial Group · United States · General · $110,000 - $125,000 USD · Himalayas</description>
     </item>
     <item>
-      <title>Senior FullStack .Net Software Engineer - 8791035 — Growth Acceleration Partners</title>
-      <link>https://himalayas.app/companies/wearegap/jobs/senior-fullstack-net-software-engineer-8791035?utm_source=api</link>
-      <guid isPermaLink="false">392b6a96fb8d</guid>
+      <title>Senior Systems Engineer I — VIAVI Solutions</title>
+      <link>https://himalayas.app/companies/viavi-solutions/jobs/senior-systems-engineer-i?utm_source=api</link>
+      <guid isPermaLink="false">4f95146ac530</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>VIAVI Solutions · United States · DevOps / Cloud · $84,700 - $157,300 USD · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Systems Engineer — Fueled</title>
+      <link>https://himalayas.app/companies/fueled/jobs/senior-systems-engineer?utm_source=api</link>
+      <guid isPermaLink="false">9d1863335675</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Fueled · Afghanistan, Bangladesh, Bhutan, India, Iran, Maldives, Nepal, Pakistan, Sri… · DevOps / Cloud · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Enterprise Platform — Discord</title>
+      <link>https://weworkremotely.com/remote-jobs/discord-senior-software-engineer-enterprise-platform</link>
+      <guid isPermaLink="false">2eb1842543b8</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Discord · Worldwide / Remote · General · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Senior Software Engineer – Integraciones (Crawler) — Checkr</title>
+      <link>https://www.getonbrd.com/jobs/senior-software-engineer-integraciones-crawler-checkr-santiago</link>
+      <guid isPermaLink="false">fedc0d15d9cf</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Checkr · Chile · Hybrid · General · $3,800 - $4,400 · Get on Board</description>
+    </item>
+    <item>
+      <title>Senior GTM Systems Administrator — Anaconda</title>
+      <link>https://himalayas.app/companies/anaconda/jobs/senior-gtm-systems-administrator?utm_source=api</link>
+      <guid isPermaLink="false">c39af3d9b01b</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Anaconda · United States · DevOps / Cloud · $102,000 - $149,000 USD · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Mexico/Remote — Truelogic</title>
+      <link>https://jobicy.com/jobs/164382-senior-full-stack-engineer-react-node-backend-focused-real-estate-mexico-remote</link>
+      <guid isPermaLink="false">5ecb8a99ed3c</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>Fullstack</category>
-      <description>Growth Acceleration Partners · Colombia · Fullstack · .NET · Himalayas</description>
+      <description>Truelogic · Mexico · Fullstack · React, Node · Jobicy</description>
     </item>
     <item>
-      <title>Senior Copilot Support Engineer (Remote in Poland) — Danaher</title>
-      <link>https://himalayas.app/companies/danaher/jobs/senior-copilot-support-engineer-remote-in-poland?utm_source=api</link>
-      <guid isPermaLink="false">28e7fe53d054</guid>
+      <title>Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - Brazil/Remote — Truelogic</title>
+      <link>https://jobicy.com/jobs/164386-senior-full-stack-engineer-react-node-backend-focused-real-estate-brazil-remote</link>
+      <guid isPermaLink="false">d8d21c9421f4</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Truelogic · Brazil · Fullstack · React, Node · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Full-Stack .NET Developer en Technical Lead (Vast of freelance) — EngiFlex</title>
+      <link>https://himalayas.app/companies/engiflex/jobs/senior-full-stack-net-developer-en-technical-lead-vast-of-freelance?utm_source=api</link>
+      <guid isPermaLink="false">de0c7d48f37a</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>EngiFlex · Belgium · Fullstack · .NET · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Forward Deployed Engineer — Full Stack &amp; AI — Oowlish Technology</title>
+      <link>https://jobicy.com/jobs/164404-senior-forward-deployed-engineer-full-stack-ai</link>
+      <guid isPermaLink="false">ac2fb378255b</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Oowlish Technology · Argentina, Brazil · Fullstack · AI · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Forward Deployed Engineer — Data Engineering &amp; AI — Oowlish Technology</title>
+      <link>https://jobicy.com/jobs/164328-senior-forward-deployed-engineer-data-engineering-ai</link>
+      <guid isPermaLink="false">3ed7ea8f59d5</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Oowlish Technology · Brazil · AI / Data · AI · Jobicy</description>
+    </item>
+    <item>
+      <title>Senior Engineer – Network Solutions (Data Center) — DGR Systems LLC</title>
+      <link>https://himalayas.app/companies/dgr-systems-llc/jobs/senior-engineer-network-solutions-data-center?utm_source=api</link>
+      <guid isPermaLink="false">0d056845b3c7</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>Danaher · Poland · General · Himalayas</description>
+      <description>DGR Systems LLC · United States · General · Himalayas</description>
     </item>
     <item>
-      <title>Senior Cloud Security Engineer (Remote US) — Smile Digital Health</title>
-      <link>https://himalayas.app/companies/smile-digital-health/jobs/senior-cloud-security-engineer-remote-us?utm_source=api</link>
-      <guid isPermaLink="false">fb47009b6b08</guid>
+      <title>Senior Data Scientist — PHASTAR</title>
+      <link>https://himalayas.app/companies/phastar/jobs/senior-data-scientist?utm_source=api</link>
+      <guid isPermaLink="false">6ae7df89917a</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Smile Digital Health · United States · DevOps / Cloud · Security · Himalayas</description>
+      <category>AI / Data</category>
+      <description>PHASTAR · France, India, Italy, Spain, United Kingdom · AI / Data · Himalayas</description>
     </item>
     <item>
-      <title>Senior Azure DevOps Engineer (Platform Engineering) — Applaudo Studios</title>
-      <link>https://himalayas.app/companies/applaudo-studios/jobs/senior-azure-devops-engineer-platform-engineering?utm_source=api</link>
-      <guid isPermaLink="false">1557f649fd35</guid>
+      <title>Senior Data Scientist — Anaconda</title>
+      <link>https://himalayas.app/companies/anaconda/jobs/senior-data-scientist?utm_source=api</link>
+      <guid isPermaLink="false">dd5b98df5756</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Applaudo Studios · Mexico · DevOps / Cloud · Azure, DevOps · Himalayas</description>
+      <category>AI / Data</category>
+      <description>Anaconda · United States · AI / Data · $125,000 - $184,000 USD · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Data Scientist — Ritchie Bros.</title>
+      <link>https://himalayas.app/companies/ritchie-bros/jobs/senior-data-scientist?utm_source=api</link>
+      <guid isPermaLink="false">8a5cfe5b0e5f</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Ritchie Bros. · United States · AI / Data · Himalayas</description>
+    </item>
+    <item>
+      <title>Senior Data Engineer - Real Estate - Mexico — Truelogic</title>
+      <link>https://jobicy.com/jobs/164388-senior-data-engineer-real-estate-mexico</link>
+      <guid isPermaLink="false">fbe672dc4ec2</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Truelogic · Mexico · AI / Data · Jobicy</description>
+    </item>
+    <item>
+      <title>Semi Senior Software Engineer Python — 23people</title>
+      <link>https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6</link>
+      <guid isPermaLink="false">5fefbc63a6de</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>23people · Remote · Remote (local) · General · Python · $2,000 - $2,200 · Get on Board</description>
     </item>
     <item>
       <title>Security Software Engineer — Canonical</title>
@@ -136,20 +192,44 @@
       <description>Canonical · Anywhere · DevOps / Cloud · Security · Jobicy</description>
     </item>
     <item>
-      <title>Middle/Senior DevOps Engineer (DataOps) — Sigma Software</title>
-      <link>https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/middle-senior-devops-engineer-dataops?utm_source=api</link>
-      <guid isPermaLink="false">80986e2c1e13</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Sigma Software · Brazil · DevOps / Cloud · DevOps · Himalayas</description>
-    </item>
-    <item>
-      <title>Managing Consultant Engineer - Managed Services — CDW</title>
-      <link>https://himalayas.app/companies/cdw/jobs/managing-consultant-engineer-managed-services?utm_source=api</link>
-      <guid isPermaLink="false">cf99b2e14e24</guid>
+      <title>Principal Software Engineer, Data Lakes — Fivetran</title>
+      <link>https://weworkremotely.com/remote-jobs/fivetran-principal-software-engineer-data-lakes</link>
+      <guid isPermaLink="false">93f724466ad0</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>CDW · United States · General · Himalayas</description>
+      <description>Fivetran · Worldwide / Remote · General · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Principal Programmer -SAS&amp;R — PHASTAR</title>
+      <link>https://himalayas.app/companies/phastar/jobs/principal-programmer-sas-r-567313747?utm_source=api</link>
+      <guid isPermaLink="false">05dbe39d00bb</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>PHASTAR · India · General · Himalayas</description>
+    </item>
+    <item>
+      <title>Manager Quality Assurance — Evidence in Motion</title>
+      <link>https://himalayas.app/companies/evidence-in-motion/jobs/manager-quality-assurance?utm_source=api</link>
+      <guid isPermaLink="false">3bacc76969fa</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Evidence in Motion · United States · General · Himalayas</description>
+    </item>
+    <item>
+      <title>Lead VoIP Engineer (Asterisk, Vicidial) — RingVex LLC</title>
+      <link>https://www.getonbrd.com/jobs/lead-voip-engineer-asterisk-vicidial-ringvex-llc-remote</link>
+      <guid isPermaLink="false">785bdd61d6de</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>RingVex LLC · Remote · Remote (local) · General · $5,000 - $7,000 · Get on Board</description>
+    </item>
+    <item>
+      <title>Lead Nuclear Component Engineer 1 - Nuclear — Sargent &amp; Lundy</title>
+      <link>https://himalayas.app/companies/sargent-lundy/jobs/lead-nuclear-component-engineer-1-nuclear-8177981065?utm_source=api</link>
+      <guid isPermaLink="false">515081fe0cdd</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Sargent &amp; Lundy · United States · General · $118,023 - $180,313 USD · Himalayas</description>
     </item>
     <item>
       <title>Junior Linux Kernel Engineer - Ubuntu — Canonical</title>
@@ -160,6 +240,14 @@
       <description>Canonical · Anywhere · General · Jobicy</description>
     </item>
     <item>
+      <title>Intermediate Azure Software Developer — Quest Software</title>
+      <link>https://himalayas.app/companies/quest-software/jobs/intermediate-azure-software-developer-988968995?utm_source=api</link>
+      <guid isPermaLink="false">d65cf035565e</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>DevOps / Cloud</category>
+      <description>Quest Software · Canada · DevOps / Cloud · Azure · Himalayas</description>
+    </item>
+    <item>
       <title>Infrastructure Software Engineer, Orchestration — Dropbox</title>
       <link>https://weworkremotely.com/remote-jobs/dropbox-infrastructure-software-engineer-orchestration</link>
       <guid isPermaLink="false">113f635d7272</guid>
@@ -168,28 +256,52 @@
       <description>Dropbox · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
     </item>
     <item>
-      <title>HR Data Engineer — General Motors</title>
-      <link>https://himalayas.app/companies/general-motors/jobs/hr-data-engineer?utm_source=api</link>
-      <guid isPermaLink="false">e94f8c4d9f17</guid>
+      <title>Implementation Engineer — Tealium</title>
+      <link>https://himalayas.app/companies/tealium/jobs/implementation-engineer-1477108064?utm_source=api</link>
+      <guid isPermaLink="false">b37c50b7484c</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>AI / Data</category>
-      <description>General Motors · United States · AI / Data · Himalayas</description>
+      <category>General</category>
+      <description>Tealium · United States · General · $90,000 - $110,000 USD · Himalayas</description>
     </item>
     <item>
-      <title>Full Stack Software Developer — Ogletree Deakins’ Immigration Practice Group</title>
-      <link>https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/full-stack-software-developer?utm_source=api</link>
-      <guid isPermaLink="false">08c79176e4e5</guid>
+      <title>Fullstack Ruby on Rails Software Engineer (Remote Contractor - APAC Region) — Major League Hacking</title>
+      <link>https://himalayas.app/companies/major-league-hacking/jobs/fullstack-ruby-on-rails-software-engineer-remote-contractor-apac-region?utm_source=api</link>
+      <guid isPermaLink="false">ab3884155801</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>Fullstack</category>
-      <description>Ogletree Deakins’ Immigration Practice Group · United States · Fullstack · $120,079 - $187,887 USD · Himalayas</description>
+      <description>Major League Hacking · American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory… · Fullstack · Ruby, Rails · $1,500,000 - $2,600,000 INR · Himalayas</description>
     </item>
     <item>
-      <title>Full Stack Developer (AI-First) — Zendrop</title>
-      <link>https://himalayas.app/companies/zendrop/jobs/full-stack-developer-ai-first?utm_source=api</link>
-      <guid isPermaLink="false">818b6931d75a</guid>
+      <title>Full-Stack SeniorNode.js, TypeScript y React. con IA — BC Tecnología</title>
+      <link>https://www.getonbrd.com/jobs/full-stack-seniornode-js-typescript-y-react-con-ia-bc-tecnologia-santiago</link>
+      <guid isPermaLink="false">66a998ea36e0</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>Fullstack</category>
-      <description>Zendrop · Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize… · Fullstack · AI · Himalayas</description>
+      <description>BC Tecnología · Chile · Hybrid · Fullstack · TypeScript, React · Get on Board</description>
+    </item>
+    <item>
+      <title>Full Stack Web Engineer (Python &amp; React) — Oowlish Technology</title>
+      <link>https://jobicy.com/jobs/164320-full-stack-web-engineer-python-react-2</link>
+      <guid isPermaLink="false">233a28a4f0a1</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Oowlish Technology · Argentina, Brazil, Mexico · Fullstack · Python, React · Jobicy</description>
+    </item>
+    <item>
+      <title>Full Stack Software Engineer - React, Node / Remote LATAM — Zarego</title>
+      <link>https://himalayas.app/companies/zarego/jobs/full-stack-software-engineer-react-node-remote-latam?utm_source=api</link>
+      <guid isPermaLink="false">f63a07b4ee1c</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Fullstack</category>
+      <description>Zarego · Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize… · Fullstack · React, Node · Himalayas</description>
+    </item>
+    <item>
+      <title>Enterprise Architect — Midland Credit Management, Inc.</title>
+      <link>https://himalayas.app/companies/midland-credit-management-inc/jobs/enterprise-architect?utm_source=api</link>
+      <guid isPermaLink="false">6a49d1dff03f</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>Backend</category>
+      <description>Midland Credit Management, Inc. · United Kingdom · Backend · $80,000+ GBP · Himalayas</description>
     </item>
     <item>
       <title>Engineering Manager - MLOps &amp; Analytics — Canonical</title>
@@ -200,6 +312,22 @@
       <description>Canonical · Anywhere · AI / Data · MLOps · Jobicy</description>
     </item>
     <item>
+      <title>Engineering Manager - Grafana Productivity | USA | Remote — Grafana Labs</title>
+      <link>https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-productivity-usa-remote</link>
+      <guid isPermaLink="false">360591929d80</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Grafana Labs · Worldwide / Remote · General · WeWorkRemotely</description>
+    </item>
+    <item>
+      <title>Engineering Manager - Grafana Productivity | Canada | Remote — Grafana Labs</title>
+      <link>https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-productivity-canada-remote</link>
+      <guid isPermaLink="false">4a077ac9bd44</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Grafana Labs · Worldwide / Remote · General · WeWorkRemotely</description>
+    </item>
+    <item>
       <title>Engineering Manager - Grafana Infrastructure | USA | Remote — Grafana Labs</title>
       <link>https://weworkremotely.com/remote-jobs/grafana-labs-engineering-manager-grafana-infrastructure-usa-remote</link>
       <guid isPermaLink="false">c60c9a36d766</guid>
@@ -208,92 +336,108 @@
       <description>Grafana Labs · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
     </item>
     <item>
-      <title>Engineering Manager — Bitrefill</title>
-      <link>https://himalayas.app/companies/bitrefill/jobs/engineering-manager?utm_source=api</link>
-      <guid isPermaLink="false">c84e8a87756d</guid>
+      <title>Desarrollador Front-end (Remplazo 1 Mes) — 3IT</title>
+      <link>https://www.getonbrd.com/jobs/desarrollador-frontend-remplazo-1-mes-3it-santiago</link>
+      <guid isPermaLink="false">7d658468371a</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Bitrefill · Sweden · General · Himalayas</description>
+      <category>Frontend</category>
+      <description>3IT · Chile · Hybrid · Frontend · $1,700 - $2,000 · Get on Board</description>
     </item>
     <item>
-      <title>Domain Consultant / Solutions Engineer - Workforce - UK&amp;I — Palo Alto Networks</title>
-      <link>https://himalayas.app/companies/palo-alto-networks/jobs/domain-consultant-solutions-engineer-workforce-uk-i?utm_source=api</link>
-      <guid isPermaLink="false">859ae09c8302</guid>
+      <title>Cyber Evaluations Engineer — Anthropic</title>
+      <link>https://weworkremotely.com/remote-jobs/anthropic-cyber-evaluations-engineer</link>
+      <guid isPermaLink="false">80bd9cf8495e</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>Palo Alto Networks · United Kingdom · General · Himalayas</description>
+      <description>Anthropic · Worldwide / Remote · General · WeWorkRemotely</description>
     </item>
     <item>
-      <title>DevOps Engineer (w/m/d) - Cloud &amp; Platform Engineering — smartclip Europe GmbH</title>
-      <link>https://himalayas.app/companies/smartclip-europe-gmbh/jobs/devops-engineer-w-m-d-cloud-platform-engineering?utm_source=api</link>
-      <guid isPermaLink="false">673a9f06d927</guid>
+      <title>Corporate Network Engineer — Anthropic</title>
+      <link>https://weworkremotely.com/remote-jobs/anthropic-corporate-network-engineer</link>
+      <guid isPermaLink="false">ed8edd679a9c</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>DevOps / Cloud</category>
-      <description>smartclip Europe GmbH · Germany · DevOps / Cloud · DevOps · Himalayas</description>
+      <description>Anthropic · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
     </item>
     <item>
-      <title>DevOps — Maverick Associates</title>
-      <link>https://himalayas.app/companies/maverick-associates/jobs/devops?utm_source=api</link>
-      <guid isPermaLink="false">6416fc3798d8</guid>
+      <title>Cloud Platform Engineer — GitLab</title>
+      <link>https://weworkremotely.com/remote-jobs/gitlab-cloud-platform-engineer</link>
+      <guid isPermaLink="false">6e397473ee1a</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>DevOps / Cloud</category>
-      <description>Maverick Associates · United Kingdom · DevOps / Cloud · DevOps · $40,000 - $75,000 GBP · Himalayas</description>
+      <description>GitLab · Worldwide / Remote · DevOps / Cloud · WeWorkRemotely</description>
     </item>
     <item>
-      <title>D365 CE Indirect Solution Engineer — Avanade</title>
-      <link>https://himalayas.app/companies/avanade/jobs/d365-ce-indirect-solution-engineer?utm_source=api</link>
-      <guid isPermaLink="false">860596db6626</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Avanade · United States · General · $168,794 - $246,546 USD · Himalayas</description>
-    </item>
-    <item>
-      <title>Cyber Security Analyst (GTA) — Konica Minolta Business Solutions (Canada) Ltd.</title>
-      <link>https://himalayas.app/companies/konica-minolta-business-solutions-canada-ltd/jobs/cyber-security-analyst-gta?utm_source=api</link>
-      <guid isPermaLink="false">e9d7be1976af</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Konica Minolta Business Solutions (Canada) Ltd. · Canada · DevOps / Cloud · Security · $62,800 - $90,276 CAD · Himalayas</description>
-    </item>
-    <item>
-      <title>Commissioning Engineer, Renewables — Aypa Power</title>
-      <link>https://himalayas.app/companies/aypa-power/jobs/commissioning-engineer-renewables?utm_source=api</link>
-      <guid isPermaLink="false">78bcd3f91933</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Aypa Power · United States · General · Himalayas</description>
-    </item>
-    <item>
-      <title>Cloud Integration Engineer - MX — Whitestack</title>
-      <link>https://himalayas.app/companies/whitestack/jobs/cloud-integration-engineer-mx-711407913?utm_source=api</link>
-      <guid isPermaLink="false">4748c79194b9</guid>
+      <title>Cloud Integration Engineer - AR — Whitestack</title>
+      <link>https://himalayas.app/companies/whitestack/jobs/cloud-integration-engineer-ar-5447796894?utm_source=api</link>
+      <guid isPermaLink="false">cc132c86aa93</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>DevOps / Cloud</category>
       <description>Whitestack · Argentina, Chile, Colombia, Mexico, Peru, Uruguay · DevOps / Cloud · Himalayas</description>
     </item>
     <item>
-      <title>Cloud Integration Engineer - CO — Whitestack</title>
-      <link>https://himalayas.app/companies/whitestack/jobs/cloud-integration-engineer-co-3703009634?utm_source=api</link>
-      <guid isPermaLink="false">c71d1fb2fc87</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Whitestack · Argentina, Chile, Colombia, Mexico, Peru, Uruguay · DevOps / Cloud · Himalayas</description>
-    </item>
-    <item>
-      <title>Afstudeeropdracht Mechatronica richting remote engineering bij oplossingsgericht — StageMax</title>
-      <link>https://himalayas.app/companies/stagemax/jobs/afstudeeropdracht-mechatronica-richting-remote-engineering-bij-oplossingsgericht?utm_source=api</link>
-      <guid isPermaLink="false">8c3093228a23</guid>
+      <title>Chief Tunnel Ventilation, Station Airconditioning Engineer-BID Position — SYSTRA</title>
+      <link>https://himalayas.app/companies/systra/jobs/chief-tunnel-ventilation-station-airconditioning-engineer-bid-position?utm_source=api</link>
+      <guid isPermaLink="false">b82156810512</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
-      <description>StageMax · Netherlands · General · Himalayas</description>
+      <description>SYSTRA · India · General · Himalayas</description>
     </item>
     <item>
-      <title>AI Software Development Engineer in Test (SDET) — Rocket Software</title>
-      <link>https://himalayas.app/companies/rocket-software/jobs/ai-software-development-engineer-in-test-sdet?utm_source=api</link>
-      <guid isPermaLink="false">72b4a80877fb</guid>
+      <title>Arquitecto/a de IA Generativa | Software Engineering &amp; AI Solutions — knowmad mood</title>
+      <link>https://himalayas.app/companies/buzzmn/jobs/arquitecto-a-de-ia-generativa-software-engineering-ai-solutions-3991391611?utm_source=api</link>
+      <guid isPermaLink="false">ec4c5db90d4f</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <category>AI / Data</category>
-      <description>Rocket Software · United Kingdom · AI / Data · AI · Himalayas</description>
+      <description>knowmad mood · Spain · AI / Data · AI · Himalayas</description>
+    </item>
+    <item>
+      <title>Arquitecto de Software Cl — Imagemaker</title>
+      <link>https://www.getonbrd.com/jobs/arquitecto-de-software-cl-imagemaker-santiago</link>
+      <guid isPermaLink="false">4d10ef7e3e5b</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Imagemaker · Chile · Hybrid · General · Get on Board</description>
+    </item>
+    <item>
+      <title>Applied AI Engineer — Alcor</title>
+      <link>https://himalayas.app/companies/alcor/jobs/applied-ai-engineer?utm_source=api</link>
+      <guid isPermaLink="false">04a1f059d80b</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Alcor · United States · AI / Data · AI · Himalayas</description>
+    </item>
+    <item>
+      <title>Applications Engineer — Pavago</title>
+      <link>https://himalayas.app/companies/pavago/jobs/applications-engineer?utm_source=api</link>
+      <guid isPermaLink="false">2f0952dcd8f0</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>General</category>
+      <description>Pavago · United States · General · Himalayas</description>
+    </item>
+    <item>
+      <title>AI Software Engineer II (Credit) — National Credit Center</title>
+      <link>https://himalayas.app/companies/nccdirect/jobs/ai-software-engineer-ii-credit-7481777366?utm_source=api</link>
+      <guid isPermaLink="false">430f18f400f1</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>National Credit Center · United States · AI / Data · AI · Himalayas</description>
+    </item>
+    <item>
+      <title>AI Engineer — Rise Talent Advisors</title>
+      <link>https://himalayas.app/companies/rise-talent-advisors/jobs/ai-engineer?utm_source=api</link>
+      <guid isPermaLink="false">48a0ef4bd41b</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>Rise Talent Advisors · United States · AI / Data · AI · Himalayas</description>
+    </item>
+    <item>
+      <title>AI ARCHITECT — knowmad mood</title>
+      <link>https://himalayas.app/companies/buzzmn/jobs/ai-architect-4613599464?utm_source=api</link>
+      <guid isPermaLink="false">266a55aa6b78</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <category>AI / Data</category>
+      <description>knowmad mood · Spain · AI / Data · AI · Himalayas</description>
     </item>
     <item>
       <title>Web Frontend Engineer - JS, CSS, React, Flutter — Canonical</title>
@@ -470,22 +614,6 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <category>Backend</category>
       <description>Talmatic · Europe, Latin America, Canada · Backend · SQL · Working Nomads</description>
-    </item>
-    <item>
-      <title>Semi Senior Software Engineer Python — 23people</title>
-      <link>https://www.getonbrd.com/jobs/semi-senior-software-engineer-python-23people-remote-f4b6</link>
-      <guid isPermaLink="false">5fefbc63a6de</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>23people · Remote · Remote (local) · General · Python · $2,000 - $2,200 · Get on Board</description>
-    </item>
-    <item>
-      <title>Semi Senior Full-Stack Java Developer (QA &amp; AI) Bilingüe — 23people</title>
-      <link>https://www.getonbrd.com/jobs/semi-senior-full-stack-java-developer-qa-ai-bilingue-23people-santiago</link>
-      <guid isPermaLink="false">510475e6a094</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Fullstack</category>
-      <description>23people · Chile · Hybrid · Fullstack · AI, Java · $2,800 - $3,000 · Get on Board</description>
     </item>
     <item>
       <title>Rust Engineering Lead - Linux and Open Source — Canonical</title>
@@ -678,134 +806,6 @@
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <category>General</category>
       <description>Canonical · Anywhere · General · Jobicy</description>
-    </item>
-    <item>
-      <title>Embedded Linux Field Engineer for Devices/IoT — Canonical</title>
-      <link>https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot</link>
-      <guid isPermaLink="false">fcf34a2441b4</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Canonical · Anywhere · General · Jobicy</description>
-    </item>
-    <item>
-      <title>Embedded &amp; Desktop Linux Systems Engineer - Optimisation — Canonical</title>
-      <link>https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation</link>
-      <guid isPermaLink="false">09851400273e</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Canonical · Anywhere · DevOps / Cloud · Jobicy</description>
-    </item>
-    <item>
-      <title>Distributed Systems Engineer — Canonical</title>
-      <link>https://jobicy.com/jobs/156945-distributed-systems-engineer-3</link>
-      <guid isPermaLink="false">a57e1e511960</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Canonical · Anywhere · DevOps / Cloud · Jobicy</description>
-    </item>
-    <item>
-      <title>Desarrollador/a Full-Stack | (Argentina) — Lira Development</title>
-      <link>https://www.getonbrd.com/jobs/desarrollador-a-full-stack-remote-argentina-lira-development-remote</link>
-      <guid isPermaLink="false">b592aff28a08</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Fullstack</category>
-      <description>Lira Development · Remote · Remote (local) · Fullstack · $3,500 - $4,500 · Get on Board</description>
-    </item>
-    <item>
-      <title>Desarrollador Front-end (Remplazo 1 Mes) — 3IT</title>
-      <link>https://www.getonbrd.com/jobs/desarrollador-frontend-remplazo-1-mes-3it-santiago</link>
-      <guid isPermaLink="false">7d658468371a</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Frontend</category>
-      <description>3IT · Chile · Hybrid · Frontend · $1,700 - $2,000 · Get on Board</description>
-    </item>
-    <item>
-      <title>Data API Engineer — Supabase</title>
-      <link>https://jobicy.com/jobs/156939-data-api-engineer</link>
-      <guid isPermaLink="false">ecc3400dcd43</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Backend</category>
-      <description>Supabase · Anywhere · Backend · Jobicy</description>
-    </item>
-    <item>
-      <title>Customer Engineering Manager — Cloudflare, Inc.</title>
-      <link>https://jobicy.com/jobs/164300-customer-engineering-manager</link>
-      <guid isPermaLink="false">335c9a3636a5</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Cloudflare, Inc. · Mexico · General · Jobicy</description>
-    </item>
-    <item>
-      <title>Containerization &amp; Virtualisation Engineer — Canonical</title>
-      <link>https://jobicy.com/jobs/149576-containerization-virtualisation-engineer</link>
-      <guid isPermaLink="false">5b2614226df4</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Canonical · Anywhere · General · Jobicy</description>
-    </item>
-    <item>
-      <title>Community Engineer (multiple roles and seniority levels) — Canonical</title>
-      <link>https://jobicy.com/jobs/149577-community-engineer-multiple-roles-and-seniority-levels</link>
-      <guid isPermaLink="false">e94145d2ecc3</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Canonical · Anywhere · General · Jobicy</description>
-    </item>
-    <item>
-      <title>Cloud Solutions Architect - Alliances — Canonical</title>
-      <link>https://jobicy.com/jobs/149568-cloud-solutions-architect-alliances</link>
-      <guid isPermaLink="false">afa701d19bf5</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Canonical · Anywhere · DevOps / Cloud · Jobicy</description>
-    </item>
-    <item>
-      <title>Cloud Field Engineer — Canonical</title>
-      <link>https://jobicy.com/jobs/149523-cloud-field-engineer</link>
-      <guid isPermaLink="false">9c6cad6bd52f</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Canonical · Anywhere · DevOps / Cloud · Jobicy</description>
-    </item>
-    <item>
-      <title>Cloud Engineering Manager — Canonical</title>
-      <link>https://jobicy.com/jobs/149569-cloud-engineering-manager</link>
-      <guid isPermaLink="false">2a0b07b6774c</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>DevOps / Cloud</category>
-      <description>Canonical · Anywhere · DevOps / Cloud · Jobicy</description>
-    </item>
-    <item>
-      <title>Back-end Developer — Apside</title>
-      <link>https://www.getonbrd.com/jobs/backend-developer-apside-remote-85f0</link>
-      <guid isPermaLink="false">d201f317791b</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Backend</category>
-      <description>Apside · Remote · Remote (local) · Backend · $900 - $1,200 · Get on Board</description>
-    </item>
-    <item>
-      <title>Alliances Field Engineer — Canonical</title>
-      <link>https://jobicy.com/jobs/149534-alliances-field-engineer</link>
-      <guid isPermaLink="false">3350002ae797</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>Canonical · Anywhere · General · Jobicy</description>
-    </item>
-    <item>
-      <title>1199 - QA Engineer — GoFasti</title>
-      <link>https://jobicy.com/jobs/164236-1199-qa-engineer</link>
-      <guid isPermaLink="false">b622051f1ee7</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>General</category>
-      <description>GoFasti · Mexico · General · Jobicy</description>
-    </item>
-    <item>
-      <title>1198 - Java Angular Developer — GoFasti</title>
-      <link>https://jobicy.com/jobs/164228-1198-java-angular-developer</link>
-      <guid isPermaLink="false">bc9877206a52</guid>
-      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
-      <category>Frontend</category>
-      <description>GoFasti · Mexico · Frontend · Angular, Java · Jobicy</description>
     </item>
   </channel>
 </rss>
